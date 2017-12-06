@@ -3,8 +3,8 @@
 {% include lmnt-head.html %}
 <body id="pageBody">
   <main id="pageBody" class="wrapper">
-    {% if site.data.lmnt-event-bar.display == true %}
-      {% include lmnt-event-bar.html %}
+    {% if site.data.event-bar.display == true %}
+      {% include event-bar.html %}
     {% endif %}
     {% include lmnt-nav.html %}
     {{ content }}
