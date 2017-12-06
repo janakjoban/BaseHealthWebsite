@@ -1,0 +1,66 @@
+<!-- the modal card - what people will be clicking to trigger modal -->
+<div class="modal-card modal-col__fourth"> <!-- establish modal card wrapper & column width -->
+<div class="modal-card-content click-to-open" data-modal="simpleModal-{{ member.id }}"> <!-- establish modal card content -->
+  {% if member.linkedin_url != blank %}
+  <div class="modal-social">
+    <a href="{{ member.linkedin_url }}" target="_blank">
+      <img src="{{site.baseurl}}/assets/images/linkedin-icon.svg" width="19px" height="19px" />
+    </a>
+  </div>
+  {% endif %}
+  <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" width="200px" height="180px" class="modal-thumb" />
+  <span class="modal-name">
+    {{ member.name }}
+  </span>
+  {% if member.department != 'advisor' %}
+  <span class="modal-position">
+    {{ member.position }}
+  </span>
+  {% endif %}
+</div> <!-- /modal card content -->
+</div> <!-- /modal card wrapper -->
+
+<!-- the modal itself - what will be triggered and displayed on click -->
+
+<div class="hide-modal modal-events" id="simpleModal-{{ member.id }}"><!-- modal state -->
+
+<div class="modal-container"><!-- the modal overlay -->
+    <div class="modal-overlay click-to-close" data-modal="simpleModal-{{ member.id }}"></div>
+    <div class="modal-content"><!-- the modal box -->
+      <div class="modal-close click-to-close" data-modal="simpleModal-{{ member.id }}">
+        <img src="{{site.baseurl}}/assets/images/close-x-dark.svg" class="close-bar" height="25px" width="25px"></i>
+      </div>
+      <!-- <div class="modal-cover" style="background-image:url('../images/team/{{ $member->thumbnail }}'); background-size:cover; background-position:center center;"> -->
+      <div class="modal-body">
+        <span class="modal-name">
+          {{ member.name }}
+        </span>
+        {% if member.department != 'advisor' %}
+        <span class="modal-position head__line-center">
+          {{ member.position }}
+        </span>
+        {% endif %}
+        <div class="modal-bio">
+          <p>
+            {{ member.bio }}
+          </p>
+        </div>
+        <div class="modal-actions">
+          <div class="btn-cta btn-outline__blue click-to-close" data-modal="simpleModal-{{ member.id }}" style="margin-top:20px;">
+            Go Back
+          </div>
+          {% if member.linkedin_url != blank %}
+          <div class="modal-social">
+            <a href="{{ member.linkedin_url }}" target="_blank">
+              <img src="{{site.baseurl}}/assets/images/linkedin-icon.svg" width="19px" height="19px" />
+            </a>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+  </div><!-- /the modal box -->
+</div><!-- /the modal overlay -->
+
+</div><!-- /modal state -->
+
+<!-- /single team member -->
