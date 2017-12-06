@@ -1,4 +1,17 @@
 ---
+- member: Ardy Arianpour, MBA
+  name: Ardy Arianpour, MBA
+  position: Chief Business Officer
+  image: "/assets/images/team/ardy-thumb.jpg"
+  thumbnail: "/assets/images/team/ardy-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/ardyarianpour/
+  department: management
+  specialty: general
+  id: 15
+  bio: |-
+    CHIEF BUSINESS OFFICER
+    Ardy Arianpour is a genomics pioneer and visionary commercial leader with more than 15+ years of experience in the biotech industry. He has a distinguished track record of transforming start-up companies into established and recognized multimillion-dollar enterprises and launching disrupting products that have changed healthcare for the benefit of the patient and consumer.
+    Previously, Ardy was Chief Commercial Officer of Pathway Genomics and Senior Vice President of Business Development for Ambry Genetics and helped lead the companies through periods of tremendous growth. Throughout his career, Arianpour has served in senior business and commercial roles, including for Clinical Data (acquired for $1.2 billion by Forest Laboratories), Cogenics (acquired by Beckman Coulter) and Eurogentec North America (acquired by Kaneka, a Japanese chemical company). He holds a bachelor’s degree in biological sciences from the University of California, Irvine, and an MBA in strategic management from Marshall Goldsmith School of Management.
 - member: Prakash Menon
   name: Prakash Menon
   position: Chief Technology Officer
