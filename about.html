@@ -7,7 +7,7 @@ description: BaseHealth was founded by a team of leading researchers, computer s
   and more
 ---
 
-{% assign team = site.data.team | sort: 'post_order' %}
+{% assign team = site.data.team %}
 
 <section class="hero-page" id="pageHero">
   <div class="content">
@@ -45,7 +45,7 @@ description: BaseHealth was founded by a team of leading researchers, computer s
       <div class="modal-grid-content"> <!-- establish modal grid content (for resizing) -->
 
         <div class="modal-grid-row"><!-- establish modal grid row -->
-            {% for member in site.data.team %}
+            {% for member in team %}
               {% if member.department == 'management' %}
                 {% include lmnt-member-card.html %}
               {% endif %}
