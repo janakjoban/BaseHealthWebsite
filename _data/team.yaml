@@ -1,4 +1,19 @@
 ---
+- member: Tamara StClare
+  name: Tamara StClare
+  position: Chief Operating Officer
+  image: "/assets/images/team/tamara-thumb.jpg"
+  thumbnail: "/assets/images/team/tamara-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/tamarastclaire/
+  department: 'management '
+  specialty: general
+  id: 13
+  bio: |-
+    Tamara StClaire is the Chief Operating Officer at BaseHealth, where her goal is to challenge the status quo in healthcare and encourage providers, ACOs, and payers alike to focus on patient-driven care to not only save lives, but also reduce spend in the push toward value-based care. She’s responsible for sales, marketing, and business development efforts.
+    Previously, Tamara was the Chief Innovation Officer at Xerox Healthcare where her role was to create and lead the growth of new solutions sitting at the nexus of R&D, M&A and partnerships. With over two decades of experience in the healthcare industry at large corporations and small startups, including Xerox Healthcare, Roche Diagnostics, Abbott Laboratories and now, BaseHealth, she has a proven track record of developing new lines of revenue by building networks and business connections.
+    Tamara is a health IT expert advising organizations looking to grow and expand their product portfolio. She is a frequent advisor in this space and consults for a venture accelerator on digital health.
+    She speaks frequently on healthcare technology and innovation. Previous engagements include the IEEE Rock Stars of Technology Event 2017, Health:Further Summit 2016, Health Data Management and Mining 2016 and Health 2.0 2015. She was named one of the Most Powerful Women in Healthcare IT by Health Data Management and recognized as a Social Media Ambassador at HIMSS 2016 and HIMSS 2017.
+    She holds a PhD in chemistry from the University of California, Davis and a joint MBA from Columbia University and UC Berkeley.
 - member: Hossein Fakhrai-Rad, Ph.D.
   name: Hossein Fakhrai-Rad, Ph.D.
   position: Founder & Chief Scientific Officer
