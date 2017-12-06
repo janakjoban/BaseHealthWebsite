@@ -1,0 +1,112 @@
+---
+title: 'Contact Us'
+layout: default
+description: 'Reach out to BaseHealth or schedule a solution assessment.'
+---
+<div class="confirmation-visible" id="formcomplete">
+  Message sent successfully!
+  <img src="{{site.baseurl}}/assets/images/close-x.svg" class="close-bar" height="25px" width="25px" onclick="closeConfirmation()"></i>
+</div>
+
+<script>
+  function closeConfirmation() {
+      var footer = document.getElementById("formcomplete");
+      if (footer.className == "confirmation-visible") {
+        footer.className = "confirmation-hidden";
+      }
+  }
+</script>
+
+<section class="hero hero-contact" id="pageHero">
+</section>
+
+<section class="row row-spacing-1-bottom">
+  <div class="content">
+    <div class="col-half">
+      <div class="floatbox floatbox-neg-top-indent">
+        <h2 class="head__blue">Let's Chat</h2>
+        <form class="contact-form__wrap" action="http://basehealth-backendphp.herokuapp.com/contact" method="POST" data-parsley-validate="" data-parsley-errors-messages-disabled="">
+          <input type="text" class="form-control" maxlength="80" name="first_name" placeholder="First Name*" required autofocus data-parsley-error-message="Name is required.">
+          <input type="text" class="form-control" maxlength="80" name="last_name" placeholder="Last Name*" required autofocus data-parsley-error-message="Name is required.">
+          <input type="text" class="form-control" maxlength="80" name="email" placeholder="Email*" required autofocus data-parsley-trigger="change" data-parsley-type="email">
+          <input type="text" class="form-control" maxlength="80" name="phone" placeholder="Phone Number" autofocus>
+          <input type="text" class="form-control" maxlength="80" name="company_name" placeholder="Company*" required autofocus>
+          <div class="form-row">
+            <label name="assessment" for="assessment">Would you like to schedule a solution assessment?</label>
+          </div>
+          <div class="form-row">
+            <input type="radio" class="form-control" name="assessment" id="assessment-yes" value="yes" checked="checked">
+            <label for="assessment-yes">Yes</label>
+            <input type="radio" class="form-control" name="assessment" id="assessment-no" value="no">
+            <label for="assessment-no">No</label>
+          </div>
+          <textarea rows="10" class="form-control" name="message" placeholder="How can we help you?" required></textarea>
+          <input type="text" class="form-control" maxlength="80" name="source" placeholder="How did you find out about us?" autofocus minlength="10"></input>
+          <input type="submit" value="Submit" class="btn-cta btn-blue">
+        </form>
+      </div>
+    </div>
+    <div class="col-half">
+      <div class="content__body">
+        <div class="svg-content-m-scale-75">
+          <div class="svg-container" style="padding-bottom:80%">
+            <svg viewBox="825 604 320 218" version="1.1" preserveAspectRatio="xMinYMin meet" class="svg-content">
+              <path class="svg-static__medium" d="M1078.18701,730.471887 C1078.18701,734.411627 1060.2461,737.605221 1038.11477,737.605221 C1015.98345,737.605221 998.042538,734.411627 998.042538,730.471887 C998.042538,726.532147 1015.98345,723.338554 1038.11477,723.338554 C1060.2461,723.338554 1078.18701,726.532147 1078.18701,730.471887 L1078.18701,730.471887 Z" id="Stroke-1"></path>
+              <path class="svg-static__medium" d="M1073.65498,761.723306 L1079.58352,761.723306 C1081.43973,761.724019 1083.18287,762.097806 1084.78791,762.776899 C1087.19224,763.792686 1089.27457,765.514673 1090.73362,767.666086 C1092.1934,769.822493 1093.03277,772.362673 1093.03492,775.132546 L1093.03492,775.132546 C1093.0342,776.982933 1092.65924,778.720613 1091.97873,780.320619 C1090.95903,782.717419 1089.23163,784.793219 1087.07345,786.247706 C1084.91099,787.702906 1082.3621,788.539646 1079.58352,788.542499 L1073.65498,788.542499 C1069.86744,788.542499 1066.79762,791.602699 1066.79762,795.378373 C1066.79762,799.154046 1069.86744,802.214246 1073.65498,802.214246 L1079.58352,802.214246 C1083.3131,802.215673 1086.90029,801.450266 1090.15043,800.072819 C1095.02922,798.004153 1099.15881,794.578726 1102.09052,790.264486 C1105.02152,785.955239 1106.7525,780.714379 1106.75035,775.132546 L1106.75035,775.132546 C1106.75107,771.415366 1105.98397,767.838713 1104.6022,764.598753 C1102.52703,759.735246 1099.09012,755.619313 1094.76303,752.696073 C1090.44024,749.774259 1085.18219,748.048706 1079.58352,748.050846 L1073.65498,748.050846 C1069.86744,748.050846 1066.79762,751.111759 1066.79762,754.887433 C1066.79762,758.662393 1069.86744,761.723306 1073.65498,761.723306 L1073.65498,761.723306 L1073.65498,761.723306 Z" id="Stroke-3"></path>
+              <path class="svg-static__medium" d="M1078.18701,748.051203 L1078.18701,730.471816" id="Stroke-5"></path>
+              <path class="svg-static__medium" d="M1078.18701,788.542428 L1078.18701,761.722521" id="Stroke-7"></path>
+              <path class="svg-static__medium" d="M998.042538,730.471887 L998.042538,812.660014 C998.042538,816.599754 1015.98345,819.793347 1038.11477,819.793347 C1060.2461,819.793347 1078.18701,816.599754 1078.18701,812.660014 L1078.18701,802.666927" id="Stroke-9"></path>
+              <path class="svg-static__medium" d="M892.61442,730.471887 C892.61442,734.411627 910.555332,737.605221 932.686655,737.605221 C954.817978,737.605221 972.75889,734.411627 972.75889,730.471887 C972.75889,726.532147 954.817978,723.338554 932.686655,723.338554 C910.555332,723.338554 892.61442,726.532147 892.61442,730.471887 L892.61442,730.471887 Z" id="Stroke-11"></path>
+              <path class="svg-static__medium" d="M897.146375,761.723306 L891.217831,761.723306 C889.361628,761.724019 887.618486,762.097806 886.01345,762.776899 C883.609116,763.792686 881.526791,765.514673 880.067732,767.666086 C878.607958,769.822493 877.768588,772.362673 877.766441,775.132546 L877.766441,775.132546 C877.767156,776.982933 878.142118,778.720613 878.82263,780.320619 C879.842326,782.717419 881.569725,784.793219 883.727901,786.247706 C885.890371,787.702906 888.439251,788.539646 891.217831,788.542499 L897.146375,788.542499 C900.933917,788.542499 904.003737,791.602699 904.003737,795.378373 C904.003737,799.154046 900.933917,802.214246 897.146375,802.214246 L891.217831,802.214246 C887.488251,802.215673 883.901071,801.450266 880.650926,800.072819 C875.772132,798.004153 871.642545,794.578726 868.710831,790.264486 C865.779834,785.955239 864.048856,780.714379 864.051003,775.132546 L864.051003,775.132546 C864.050287,771.415366 864.817384,767.838713 866.199161,764.598753 C868.27433,759.735246 871.71124,755.619313 876.038326,752.696073 C880.361118,749.774259 885.619168,748.048706 891.217831,748.050846 L897.146375,748.050846 C900.933917,748.050846 904.003737,751.111759 904.003737,754.887433 C904.003737,758.662393 900.933917,761.723306 897.146375,761.723306 L897.146375,761.723306 L897.146375,761.723306 Z" id="Stroke-13"></path>
+              <path class="svg-static__medium" d="M892.61442,748.051203 L892.61442,730.471816" id="Stroke-15"></path>
+              <path class="svg-static__medium" d="M892.61442,788.542428 L892.61442,761.722521" id="Stroke-17"></path>
+              <path class="svg-static__medium" d="M972.75889,730.471887 L972.75889,812.660014 C972.75889,816.599754 954.817978,819.793347 932.686655,819.793347 C910.555332,819.793347 892.61442,816.599754 892.61442,812.660014 L892.61442,802.666927" id="Stroke-19"></path>
+              <path class="svg-static__medium" d="M1078.18701,802.21446 L1143.54268,802.21446" id="Stroke-21"></path>
+              <path class="svg-static__medium" d="M972.75889,802.21446 L998.042323,802.21446" id="Stroke-23"></path>
+              <path class="svg-static__medium" d="M827.258466,802.21446 L891.218046,802.21446" id="Stroke-25"></path>
+              <path class="svg-static__medium" d="M932.686655,716.205221 L932.686655,660.089427" id="Stroke-27"></path>
+              <path class="svg-static__medium" d="M923.145599,716.205221 L923.145599,675.307681" id="Stroke-29"></path>
+              <path class="svg-static__medium" d="M913.843116,716.918554 L913.843116,692.902761" id="Stroke-31"></path>
+              <path class="svg-static__medium" d="M905.971784,718.345221 L905.971784,704.078554" id="Stroke-33"></path>
+              <path class="svg-static__medium" d="M942.22764,716.205221 L942.22764,675.307681" id="Stroke-35"></path>
+              <path class="svg-static__medium" d="M951.530123,716.918554 L951.530123,692.902761" id="Stroke-37"></path>
+              <path class="svg-static__medium" d="M959.401454,718.345221 L959.401454,704.078554" id="Stroke-39"></path>
+              <path class="svg-static__medium" d="M1038.59178,716.205221 L1038.59178,660.089427" id="Stroke-41"></path>
+              <path class="svg-static__medium" d="M1048.13283,716.205221 L1048.13283,675.307681" id="Stroke-43"></path>
+              <path class="svg-static__medium" d="M1057.43531,716.918554 L1057.43531,692.902761" id="Stroke-45"></path>
+              <path class="svg-static__medium" d="M1065.30665,718.345221 L1065.30665,704.078554" id="Stroke-47"></path>
+              <path class="svg-static__medium" d="M1029.05079,716.205221 L1029.05079,675.307681" id="Stroke-49"></path>
+              <path class="svg-static__medium" d="M1019.74831,716.918554 L1019.74831,692.902761" id="Stroke-51"></path>
+              <path class="svg-static__medium" d="M1011.87698,718.345221 L1011.87698,704.078554" id="Stroke-53"></path>
+              <path class="svg-static__medium" d="M850.86824,802.218669 C844.564018,786.058815 841.105641,768.482282 841.105641,750.101109 C841.105641,670.658602 905.708524,606.257442 985.40075,606.257442 C1065.09298,606.257442 1129.69657,670.658602 1129.69657,750.101109 C1129.69657,768.482282 1126.23748,786.058102 1119.93398,802.217242" id="Stroke-55"></path>
+            </svg>
+          </div>
+        </div>
+        <span class="focus-text-small">
+          <a href="https://www.google.com/maps/place/111+W+Evelyn+Ave+%23209,+Sunnyvale,+CA+94086/@37.3777277,-122.0316943,17z/data=!4m5!3m4!1s0x808fb65cf335b037:0xecac8ed911fa4997!8m2!3d37.3777277!4d-122.0295056" target="_blank">
+            111 West Evelyn Ave, Suite 209
+          </a>
+        </span>
+        <span class="focus-text-small head__line-break-blue">
+          <a href="https://www.google.com/maps/place/111+W+Evelyn+Ave+%23209,+Sunnyvale,+CA+94086/@37.3777277,-122.0316943,17z/data=!4m5!3m4!1s0x808fb65cf335b037:0xecac8ed911fa4997!8m2!3d37.3777277!4d-122.0295056" target="_blank">
+            Sunnyvale, CA 94086
+          </a>
+        </span>
+        <span class="focus-text-small head__top-indent">
+          +1 (650) 453-3170
+        </span>
+        <span class="focus-text-small head__line-break-blue">
+          info@basehealth.com
+        </span>
+        <p>
+          BaseHealth is actively seeking investor partnerships and alliances with
+          health systems, healthplans, health management, and wellness companies.
+          Please fill out this form to get in touch. Our team will get back to
+          you within two business days.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script type="text/javascript" src="{{site.baseurl}}/js/parsley.min.js"></script>
