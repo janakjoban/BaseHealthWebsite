@@ -1,1 +1,261 @@
-// footer
+// footer.scss
+
+$footer-height:350px;
+
+footer {
+  padding:$indent*2.5 $content-spacing*2;
+  height:$footer-height;
+  position:absolute;
+  bottom:0;
+  left:0;
+  right:0;
+  background:$clr-white;
+  z-index:20;
+  @media (max-width:1024px) {
+    height:auto;
+    padding:$indent $content-spacing;
+    position:relative;
+    bottom:auto;
+    left:auto;
+    right:auto;
+    z-index:1;
+  }
+  @media (max-width:1024px) {
+    .foot-branding-box, .foot-nav-box {
+      width:100%;
+    }
+    .foot-branding-box {
+      img {
+        max-width:175px;
+      }
+    }
+    .foot-cta-box {
+      display:block;
+      width:100%;
+      text-align:center;
+      padding:$indent*3 0 0 0;
+    }
+  }
+  .foot-cta-box {
+    text-align:center;
+    .btn-cta {
+      margin:0 auto $content-spacing auto;
+    }
+    .body__footnote {
+      color:lighten($clr-gunmetal,20%);
+      display:block;
+    }
+    .truste-badge {
+      margin:$content-spacing*3 auto;
+    }
+    @media (max-width:1024px) {
+      display:block;
+      padding-top:$content-spacing;
+      padding-bottom:$indent;
+      text-align:center;
+    }
+  }
+  .foot-branding-box {
+    @media (max-width:1024px) {
+      display:none !important;
+    }
+    @media (max-width:1024px) {
+      padding-top:$indent;
+    }
+    .body__copyright {
+      display:block;
+      text-transform:uppercase;
+      font-size:$fnt-body-size/1.3;
+      letter-spacing:2px;
+      font-weight:500;
+      margin-left:54px;
+    }
+  }
+  .foot-nav-box {
+    @media (max-width:1024px) {
+      display:block;
+      margin-bottom:$indent;
+    }
+    > ul {
+      list-style-type:none;
+      border-left:$clr-ice 3px solid;
+      padding-left:$content-spacing;
+      @media (max-width:1024px) {
+        border:none;
+        padding:0;
+      }
+      li {
+        margin-bottom:$content-spacing;
+        letter-spacing:1px;
+        text-transform:uppercase;
+        font-size:$fnt-body-size/1.1;
+        @media (max-width:1024px) {
+          text-align:center;
+        }
+      }
+      a {
+        &:link, &:active, &:focus, &:visited {
+          text-decoration:none;
+        }
+      }
+    }
+    .footer-nav {
+      a {
+        &:link, &:active, &:focus, &:visited {
+          color:$clr-gunmetal;
+          font-weight:700;
+          @include transition(all,.4s,ease);
+        }
+        &:hover {
+          color:$clr-ocean;
+        }
+      }
+    }
+    .footer-subnav {
+      a {
+        &:link, &:active, &:focus, &:visited {
+          color:lighten($clr-gunmetal,30%);
+          font-weight:600;
+          @include transition(all,.4s,ease);
+        }
+        &:hover {
+          color:$clr-ocean;
+        }
+      }
+    }
+  }
+}
+
+// cta
+
+$foot-cuts-height:50px;
+
+.foot-cta {
+  position: relative;
+  padding: $foot-cuts-height*2 0;
+  @include gradient-bg($clr-starlight,lighten($clr-starlight,30%),45deg,1s);
+  text-align: center;
+  height:700px;
+  z-index:10;
+  margin-bottom:$footer-height;
+  @include transition(all,1s,ease);
+  @media (max-width:1024px) {
+    height:400px !important;
+  }
+  @media (max-width:1024px) {
+    height:500px;
+    z-index:1;
+    margin-bottom:0;
+  }
+  @media (max-width:1024px) {
+    .content {
+      padding-top:$indent*4;
+    }
+  }
+  .content {
+    top: 50%;
+    left:0;
+    right:0;
+    text-align:center;
+    margin:0 auto;
+    transform: translateY(-50%);
+    max-width:$max-width;
+    padding:0 $indent*3;
+    overflow:visible;
+    @media (max-width:1024px) {
+      padding:0 $indent/2;
+      transform:none;
+      top:auto;
+      position:relative;
+    }
+    h2 {
+      color:$clr-white;
+      font-weight:600;
+      line-height:$fnt-header__alt-size;
+      margin-bottom:$indent;
+      @media (max-width:1024px) {
+        font-size:$fnt-header__alt-size/2;
+        line-height:($fnt-header__alt-size/2)+5px;
+      }
+    }
+  }
+  // diagonals
+  .foot-cta__upper-corner, .foot-cta__lower-corner {
+    background-color:$clr-white;
+    width: 100%;
+    height: $foot-cuts-height;
+    background-size: cover;
+  }
+  .foot-cta__corner-snow,.foot-cta__corner-snow {
+    background-color:$clr-snow;
+  }
+  .foot-cta__upper-corner {
+    -webkit-clip-path: polygon(0 0,0 100%,100% 0);
+    -moz-clip-path: polygon(0 0,0 100%,100% 0);
+    -o-clip-path: polygon(0 0,0 100%,100% 0);
+    clip-path: polygon(0 0,0 100%,100% 0);
+    position: absolute;
+    top: -1px;
+  }
+  .foot-cta__lower-corner {
+    -webkit-clip-path: polygon(100% 100%,0 100%,100% 0);
+    -moz-clip-path: polygon(100% 100%,0 100%,100% 0);
+    -o-clip-path: polygon(100% 100%,0 100%,100% 0);
+    clip-path: polygon(100% 100%,0 100%,100% 0);
+    position: absolute;
+    bottom: -1px;
+  }
+}
+
+.foot-contact-cta {
+  @include gradient-bg($clr-ocean,$clr-ocean,45deg,1s);
+  @media (max-width:1024px) {
+    padding-top:$indent*2;
+  }
+}
+
+.foot-dark-cta {
+  @include gradient-bg(#001E65,lighten(#001E65,10%),45deg,1s);
+  @media (max-width:1024px) {
+    padding-top:$indent*2;
+  }
+}
+
+.foot-blog-cta {
+  @include gradient-bg($clr-ruby,lighten($clr-ruby,20%),45deg,1s);
+  @media (max-width:1024px) {
+    padding-top:$indent*2;
+  }
+}
+
+// events ----------------------------------------------------------------------
+// this adds padding (height in the case of absolute positioning) to the footer
+// to accomodate the events banner on the sticky footer
+
+$event-bar:($footer-height)+75px;
+
+// add this to the footer wrapper
+
+.foot-events-active {
+  height:$event-bar;
+  @media (max-width: 1024px) {
+    height:auto;
+  }
+}
+
+// add this to .foot-cta-box
+
+.foot-events-active-cta-box {
+  @media (max-width: 1024px) {
+    padding-bottom:$indent*1.5;
+  }
+}
+
+// add this to the cta section
+
+.foot-events-active-cta {
+  margin-bottom:$event-bar;
+  @media (max-width: 1024px) {
+    margin-bottom:0;
+  }
+}

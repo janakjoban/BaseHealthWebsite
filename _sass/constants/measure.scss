@@ -1,0 +1,16 @@
+// measure.scss
+
+// spacing
+$content-spacing:10px;
+$indent:50px;
+
+// columns
+$col-full:100%;
+$col-half:($col-full)/2;
+$col-third:($col-full)/3;
+$col-fourth:($col-full)/4;
+$col-quarter:($col-half)/2;
+$col-eighth:($col-quarter)/2;
+
+// content
+$max-width:1080px;

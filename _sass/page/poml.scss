@@ -1,0 +1,93 @@
+// page.scss
+
+@import "../constants/measure";
+@import "../constants/palette";
+@import "../constants/typography";
+
+.poml-scroll {
+  position:relative;
+  .affix-half-hidden {
+    display:none;
+  }
+  &.affix-bottom {
+    position: fixed;
+    transition:all .5s ease;
+    opacity:0;
+    left:0;
+    right:0;
+    width:100%;
+    padding:0 !important;
+    text-align:right !important;
+    z-index:-10;
+    .affix-full {
+      max-width:$max-width;
+      width:100%;
+      text-align:right
+      &:after {
+        display:table;
+        clear:both;
+        content:'';
+      }
+      .affix-half {
+        width:50%;
+        display:inline-block;
+      }
+      .affix-half-hidden {
+        display:block;
+        float:left;
+      }
+    }
+  }
+}
+
+.poml-scroll.affix {
+  position:fixed;
+  top:80px;
+  left:0;
+  right:0;
+  width:100%;
+  padding:0 !important;
+  text-align:right !important;
+  z-index:-10;
+  @media (max-width:676px) {
+    position:static;
+    top:inherit;
+    left:inherit;
+    right:inherit;
+    width:inherit;
+    padding:inherit !important;
+    text-align:inherit !important;
+    .affix-full {
+      max-width:inherit;
+      display:block;
+      width:100%;
+      .affix-half {
+        display:block;
+        width:100% !important;
+      }
+      .affix-half-hidden {
+        display:none;
+        float:inherit;
+        width:inherit;
+      }
+    }
+  }
+  .affix-full {
+    max-width:$max-width;
+    width:100%;
+    text-align:right
+    &:after {
+      display:table;
+      clear:both;
+      content:'';
+    }
+    .affix-half {
+      width:50%;
+      display:inline-block;
+    }
+    .affix-half-hidden {
+      display:block;
+      float:left;
+    }
+  }
+}

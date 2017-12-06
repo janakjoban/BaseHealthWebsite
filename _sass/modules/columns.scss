@@ -1,15 +1,8 @@
-// columns
-
-$col-full:100%;
-$col-half:($col-full)/2;
-$col-third:($col-full)/3;
-$col-quarter:($col-half)/2;
-$col-eighth:($col-quarter)/2;
+// columns.scss
 
 div[class^="col-"], div[class*=" col-"] {
   float:left;
-  position:relative;
-  @media (max-width:$base-sm) {
+  @media (max-width:676px) {
     float:none;
     display:block;
     width:100%;
@@ -29,6 +22,10 @@ div[class^="col-"], div[class*=" col-"] {
 }
 .col-two-third {
   width:$col-third*2;
+}
+
+.col-fourth {
+  width:$col-fourth;
 }
 
 .col-quarter {

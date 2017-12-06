@@ -1,0 +1,87 @@
+// page.scss
+
+@import "../constants/measure";
+@import "../constants/palette";
+@import "../constants/typography";
+
+body {
+  background-color:$clr-background;
+  font-family:$fnt-body;
+  color:$clr-body;
+  margin:0;
+  padding:0;
+  font-size:$fnt-body-size;
+}
+
+.wrapper {
+  width:100%;
+  margin:0;
+  padding:0;
+  overflow-x:hidden;
+  overflow-y:hidden;
+  position:relative;
+}
+// responsive visibility -------------------------------------------------------
+
+.hide-sm {
+  @media (max-width:676px) {
+    display:none !important;
+  }
+}
+
+.show-sm {
+  display:none;
+  @media (max-width:676px) {
+    display:block !important;
+  }
+}
+
+.hide-md {
+  @media (max-width:1024px) {
+    display:none !important;
+  }
+}
+
+.show-md {
+  display:none;
+  @media (max-width:1024px) {
+    display:block;
+  }
+}
+
+// tints -----------------------------------------------------------------------
+
+.tint-sm {
+  @media (max-width:676px) {
+    opacity:.3;
+  }
+}
+
+.tint-md {
+  @media (max-width:676px) {
+    opacity:.3;
+  }
+}
+
+.full-sm {
+  @media (max-width:676px) {
+    width: 100% !important;
+    display:block !important;
+  }
+}
+
+.full-md {
+  @media (max-width:676px) {
+    width: 100% !important;
+    display:block !important;
+  }
+}
+
+// scrolling -------------------------------------------------------------------
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+}

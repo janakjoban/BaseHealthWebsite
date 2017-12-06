@@ -1,0 +1,45 @@
+// palette.scss
+
+$clr-ice:#148DCD;
+$clr-ocean:#148DCD;
+$clr-starlight:#148DCD;
+$clr-nightsky:#148DCD;
+$clr-gunmetal:#474747;
+$clr-titanium:#F5F5F5;
+$clr-ruby:#ED2378;
+$clr-snow:#F7F8FB;
+$clr-white:#FFFFFF;
+
+// styles
+
+$clr-background:$clr-white;
+$clr-body:$clr-gunmetal;
+
+// error styles
+$state-danger-text:              $clr-ruby !default;
+$state-danger-bg:                #f2dede !default;
+$state-danger-border:            darken(adjust-hue($clr-ruby, -10), 5%) !default;
+
+@mixin gradient-bg($c1,$c2,$deg:90deg,$duration:0s) {
+  background: -webkit-linear-gradient($deg, $c1, $c2);
+  background: -o-linear-gradient($deg, $c1, $c2);
+  background: -moz-linear-gradient($deg, $c1, $c2);
+  background: linear-gradient($deg, $c1, $c2);
+  background-size: 100% 300%;
+  overflow: hidden;
+  -webkit-animation: tiltgradient $duration ease infinite;
+  -moz-animation:    tiltgradient $duration ease infinite;
+  animation:         tiltgradient $duration ease infinite;
+}
+
+@mixin box-shadow($top, $left, $blur, $color, $spread:0, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow:inset $top $left $blur $spread $color;
+    -moz-box-shadow:inset $top $left $blur $spread $color;
+    box-shadow:inset $top $left $blur $spread $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $spread $color;
+    -moz-box-shadow: $top $left $blur $spread $color;
+    box-shadow: $top $left $blur $spread $color;
+  }
+}

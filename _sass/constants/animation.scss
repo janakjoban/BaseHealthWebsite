@@ -1,0 +1,126 @@
+// animation.scss
+
+@keyframes tiltgradient {
+  0% { background-position:0 0 }
+  50% { background-position:100% 0 }
+  100% { background-position:0 0 }
+}
+
+@mixin tiltgradient($duration) {
+  -webkit-animation: tiltgradient $duration ease infinite;
+  -moz-animation:    tiltgradient $duration ease infinite;
+  animation:         tiltgradient $duration ease infinite;
+}
+
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@mixin fadein($duration) {
+  -webkit-animation: fadein $duration 1.01;
+  -moz-animation:    fadein $duration 1;
+  -o-animation:      fadein $duration 1;
+  animation:         fadein $duration 1;
+}
+
+@keyframes rise {
+  0% {
+    margin-top: 20px;
+  }
+  100% {
+    margin-top: 0;
+  }
+}
+
+@mixin rise($duration) {
+  -webkit-animation: rise $duration 1;
+  -moz-animation:    rise $duration 1;
+  -o-animation:      rise $duration 1;
+  animation:         rise $duration 1;
+}
+
+@keyframes fadeout {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes grow {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+@mixin transition($property,$duration,$style:ease) {
+  -webkit-transition: $property $duration $style;
+  -moz-transition:    $property $duration $style;
+  -o-transition:      $property $duration $style;
+  transition:         $property $duration $style;
+}
+
+// svg animations
+
+@keyframes offset {
+  25% {
+    stroke: $clr-ocean;
+    fill: none;
+  }
+  50% {
+    stroke: $clr-ocean;
+    fill: none;
+  }
+  75% {
+    stroke: $clr-ocean;
+    fill: none;
+  }
+  100% {
+    stroke: $clr-ocean;
+    stroke-dashoffset: 0;
+    fill: none;
+  }
+}
+
+.svg-static__large,
+.svg-animate__large,
+.svg-static__medium,
+.svg-animate__medium, {
+  stroke-width: 2;
+  stroke-dasharray: 2000;
+  stroke-dashoffset: 2000;
+  stroke: $clr-ocean;
+  fill: none;
+  @include transition(all,3s,ease);
+}
+
+.svg-static__large, .svg-static__medium {
+  opacity:0;
+}
+
+.svg-animate__large {
+  opacity:1;
+  animation: offset 5s linear forwards;
+}
+
+.svg-animate__medium {
+  opacity:1;
+  animation: offset 5s linear forwards;
+}
+
+// IE fallback
+
+.svg-static__large-ie, .svg-static__medium-ie {
+  stroke: $clr-ocean;
+  stroke-dashoff-ieset: 0;
+  fill: none;
+}

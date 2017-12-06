@@ -1,0 +1,244 @@
+// typography.scss
+
+@import 'https://fonts.googleapis.com/css?family=Lato:300,400,700,900';
+
+// body
+$fnt-body: 'Proxima Nova', 'Lato', 'Helvetica', 'Tahoma', sans-serif;
+$fnt-body-size: 16px;
+
+// selection
+::-moz-selection {
+  background: $clr-ocean;
+  opacity:100%;
+  color:$clr-white;
+ }
+::selection {
+  background: $clr-ocean;
+  opacity:100%;
+  color:$clr-white;
+ }
+
+ // links
+
+ a, a:visited, a:hover, a:active {
+   color:$clr-ocean;
+   text-decoration:none;
+   @media (max-width:1024px) {
+     &:hover {
+       color:$clr-gunmetal;
+     }
+   }
+ }
+
+// headers
+
+$fnt-header-size:64px;
+$fnt-header__alt-size:49px;
+
+h1 {
+  font-size:$fnt-header-size;
+  line-height:$fnt-header-size+8px;
+  color:$clr-gunmetal;
+  font-weight:bold;
+  @media (max-width:1024px) {
+    font-size:$fnt-header-size/1.5;
+    line-height:($fnt-header-size+8px)/1.5;
+  }
+}
+
+h2 {
+  font-size:$fnt-header__alt-size;
+  line-height:$fnt-header__alt-size+10px;
+  color:$clr-gunmetal;
+  font-weight:100;
+  @media (max-width:1024px) {
+    font-size:($fnt-header__alt-size)/1.5;
+    line-height:($fnt-header__alt-size+10px)/1.5;
+  }
+}
+
+h3 {
+  font-size:$fnt-body-size*2;
+  line-height:$fnt-body-size*2+10px;
+  color:$clr-ocean;
+  font-weight:600;
+}
+
+.head__quote {
+  font-style:italic;
+  color:lighten($clr-gunmetal,30%);
+  margin-bottom:$content-spacing*3;
+  @media (max-width:1024px) {
+    padding:0 $indent;
+  }
+}
+
+.head__quote-author {
+  text-transform:uppercase;
+  letter-spacing:4px;
+  font-size:$fnt-body-size;
+  color:lighten($clr-gunmetal,30%);
+  line-height:$fnt-body-size+4px;
+}
+
+    //+ head colors
+.head__blue {
+  color:$clr-ocean;
+}
+
+.head__gray {
+  color:lighten($clr-gunmetal,20%);
+}
+    //+ head spacing
+
+.head__top-indent {
+  margin-top:$indent;
+  @media (max-width:676px) {
+    margin-top:$indent/2;
+  }
+}
+
+.head__bottom-indent {
+  margin-bottom:$indent;
+  @media (max-width:676px) {
+    margin-bottom:$indent/2;
+  }
+}
+
+.head__bottom-indent-half {
+  margin-bottom:($indent/2);
+}
+
+    //+ hr line colors
+
+.head__line-break-blue {
+  position:relative;
+  padding-bottom:$content-spacing*3;
+  margin-bottom:$content-spacing*3;
+  &:before {
+    content:'';
+    height:1px;
+    width:20%;
+    background-color:$clr-ocean;
+    position:absolute;
+    bottom:0;
+    left:0;
+  }
+}
+
+.head__line-break-grey {
+  position:relative;
+  padding-bottom:$content-spacing*3;
+  margin-bottom:$content-spacing*3;
+  &:before {
+    content:'';
+    height:1px;
+    width:20%;
+    background-color:lighten($clr-gunmetal,50%);
+    position:absolute;
+    bottom:0;
+    left:0;
+  }
+}
+
+    //+ hr line positioning
+
+.head__center {
+  text-align:center;
+}
+
+.head__line-center {
+  &:before {
+    right:0;
+    left:0;
+    margin:0 auto;
+  }
+}
+
+// paragraphs
+
+p {
+  font-size:$fnt-body-size+2px;
+  line-height:$fnt-body-size+20px;
+  letter-spacing:.7px;
+  color:$clr-gunmetal;
+  @media (max-width:676px) {
+    line-height:$fnt-body-size+10px;
+  }
+}
+
+.p__alt {
+  font-size:$fnt-body-size*1.5;
+  line-height:($fnt-body-size*1.5)+11px;
+  letter-spacing:.7px;
+  color:lighten($clr-gunmetal,35%);
+  @media (max-width:676px) {
+    font-size:$fnt-body-size+2px;
+    line-height:$fnt-body-size+6px;
+  }
+}
+
+.p__center {
+  text-align:center;
+}
+
+// typed.js
+
+.typed-cursor{
+    opacity: 1;
+    display:none;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
+// focus text
+
+.focus-text-small {
+  color: $clr-ice;
+  font-weight:700;
+  font-size:$fnt-body-size*1.5;
+  display:block;
+  a, a:visited, a:hover, a:active {
+    color:$clr-ice;
+    text-decoration:none;
+  }
+  @media (max-width:676px) {
+    font-size:$fnt-body-size*1.25;
+    line-height:($fnt-body-size*1.25)+5px;
+  }
+}
+
+.intro-head {
+  text-transform:uppercase;
+  color:$clr-gunmetal;
+  font-weight:bold;
+  font-size:$fnt-body-size;
+  letter-spacing:2px;
+}
+// list
+
+ol {
+  @extend p;
+}
+
+// centering
+
+.force-center {
+  text-align:center;
+}

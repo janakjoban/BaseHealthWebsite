@@ -1,0 +1,48 @@
+//confirmation.scss
+
+$footer-height:50px;
+
+@keyframes slide-up {
+  0% {
+    bottom: 0-($footer-height);
+  }
+  100% {
+    bottom: 0;
+  }
+}
+
+@mixin slide-up($duration) {
+  -webkit-animation: slide-up $duration 1;
+  -moz-animation:    slide-up $duration 1;
+  -o-animation:      slide-up $duration 1;
+  animation:         slide-up $duration 1;
+}
+
+#formcomplete {
+  @include slide-up(.4s);
+  background-color:#03DE6A;
+  height:$footer-height;
+  line-height:$footer-height;
+  color:$clr-white;
+  font-family:$fnt-body;
+  font-size:$fnt-body-size;
+  position:fixed;
+  bottom:0;
+  left:0;
+  right:0;
+  padding:0 25px;
+  z-index:9999;
+  display:none;
+  &:target {
+    display:block;
+  }
+  .close-bar {
+    float:right;
+    cursor:pointer;
+    margin-top:14px;
+  }
+}
+
+.confirmation-hidden {
+  display:none !important;
+}

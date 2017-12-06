@@ -1,0 +1,60 @@
+// buttons.scss
+
+$btn-spacing:$content-spacing*2;
+
+// to adjust buttons after or before elements
+
+.body-button-after {
+  margin-bottom:$indent;
+}
+
+
+// the button styles
+
+.btn-cta {
+  font-weight:700;
+  padding:$btn-spacing $btn-spacing*2.5;
+  border-radius:200px;
+  text-decoration:none;
+  outline:0;
+  border:0;
+  display:inline-block;
+  cursor:pointer;
+}
+
+.btn-blue {
+  background-color:$clr-ice;
+  color:$clr-white !important;
+  @include transition(all,.5s,ease);
+  &:hover {
+    background-color:$clr-ocean;
+    color:$clr-white !important;
+  }
+}
+
+.btn-white {
+  background-color:$clr-white;
+  color:$clr-ocean !important;
+}
+
+.btn-outline__white {
+  background-color:rgba($clr-white,0);
+  color:$clr-white !important;
+  border:$clr-white 1px solid;
+  @include transition(all,.5s,ease);
+  &:hover {
+    background-color:rgba($clr-white,1);
+    color:$clr-gunmetal !important;
+  }
+}
+
+.btn-outline__blue {
+  background-color:rgba($clr-ocean,0);
+  color:$clr-ocean;
+  border:$clr-ocean 1px solid;
+  @include transition(all,.5s,ease);
+  &:hover {
+    background-color:rgba($clr-ocean,1);
+    color:$clr-white;
+  }
+}
