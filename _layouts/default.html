@@ -2,8 +2,10 @@
 <html>
 {% include lmnt-head.html %}
 <body id="pageBody">
-  {% include lmnt-nav.html %}
-  {{ content }}
-  {% include lmnt-footer.html %}
+  <main id="pageBody" class="wrapper">
+    {% include lmnt-nav.html %}
+    {{ content }}
+    {% include lmnt-footer.html %}
+  </main>
 </body>
 </html>

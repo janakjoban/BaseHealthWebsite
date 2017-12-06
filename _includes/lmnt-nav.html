@@ -1,2 +1,69 @@
-<nav>
-</nav>
+<script>
+  $(document).ready(function() {
+    $("[href]").each(function() {
+      if (this.href == window.location.href) {
+        $(this).addClass("active");
+      }
+    })
+  })
+</script>
+
+<header class="nav-head" id="headBar">
+  <div class="nav-wrap">
+    <div class="branding">
+      <a href="/">
+        <img src="{{site.baseurl}}/assets/images/bh-logo-full.svg" width="204px" height="42px" />
+      </a>
+    </div>
+    <div class="pages">
+      <ul>
+        <li>
+          <a href="{{site.baseurl}}/solution.html">What We Solve</a>
+        </li>
+        <li>
+          <a href="{{site.baseurl}}/platform.html">Platform</a>
+        </li>
+        <li>
+          <a href="{{site.baseurl}}/science.html">Science</a>
+        </li>
+        <li>
+          <a href="{{site.baseurl}}/about.html">Who We Are</a>
+        </li>
+        <li>
+          <a href="{{site.baseurl}}/contact.html">Contact Us</a>
+        </li>
+      </ul>
+    </div>
+    <div class="nav-burger" onclick="mobileNav()">
+      <div class="bar-container">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- mobile nav -->
+<div class="mobile-nav mobile-nav-hide" id="mobileHead">
+  <div class="overlay-content">
+    <div class="overlay-close" onclick="mobileNav()"></div>
+    <ul class="nav-links">
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/solution.html">What We Solve</a>
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/platform.html">Platform</a>
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/science.html">Science</a>
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/about.html">Who We Are</a>
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/contact.html">Contact Us</a>
+      </li>
+    </ul>
+  </div>
+</div>
