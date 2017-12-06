@@ -1,4 +1,17 @@
 ---
+- member: Hossein Fakhrai-Rad, Ph.D.
+  name: Hossein Fakhrai-Rad, Ph.D.
+  position: Founder & Chief Scientific Officer
+  image: "/assets/images/team/hossein_fakhrai.jpg"
+  thumbnail: "/assets/images/team/hossein_fakhrai.jpg"
+  linkedin_url: https://www.linkedin.com/in/hossein-fakhrai-rad-38718b2
+  department: management
+  specialty: general
+  id: 11
+  bio: |-
+    After years of biotechnology and molecular biology research at the Karolinska Institutet in Sweden and the Stanford Genome Technology Center, Hossein founded BaseHealth to help decrease individuals’ risk of preventable disease. Hossein oversees BaseHealth’s long-term vision and growth strategy.
+    In addition to his passion for genomics, personalized medicine, and wellness, Hossein is a proven life sciences entrepreneur. His first startup, ParAllele Bioscience, was acquired in 2005 by Affymetrix, a global leader in genomic analysis tools.
+    Hossein earned his bachelor’s degree in molecular biology and biotechnology from Stockholm University in Sweden, and his Ph.D. in medical genetics from the Karolinska Institute in Sweden. In 2001, he held a postdoctoral research fellowship at the Stanford Genome Technology Center.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
