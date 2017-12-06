@@ -1,24 +1,43 @@
 ---
-- member:
-  name: "Dan Hoemke"
-  position: "VP Value Based Health Management Solutions"
-  image: "danhoemke-thumb.jpg"
-  thumbnail: "danhoemke-thumb.jpg"
-  linkedin_url: "https://www.linkedin.com/in/dfhoemke"
-  department: "management"
-  specialty: "general"
+- member: 
+  name: Dan Hoemke
+  position: VP Value Based Health Management Solutions
+  image: danhoemke-thumb.jpg
+  thumbnail: danhoemke-thumb.jpg
+  linkedin_url: https://www.linkedin.com/in/dfhoemke
+  department: management
+  specialty: general
   post_order: 6
   id: 1
-  bio: "Dan brings more than 25 years of applied employee benefits and healthcare experience to BaseHealth serving in an assortment of leadership and executive management roles. In addition to founding and serving as Managing Partner for Nine Oars, a broadly recognized healthcare market research and business strategy firm, Dan served as Regional President & CEO for Humana and in Regional Vice President roles with both AETNA and United Healthcare, and as Corporate Vice President of National Accounts for PacifiCare. He is an industry leader in the advancement of healthcare consumerism and advocate for integrated and accountable healthcare solutions. Dan is recipient of Humana’s President Club CEO of the Year award and is a former Executive Mentor to the Association of Health Insurance Plans (AHIP) and Executive Delegate to the Concourse International Learning Summit. He in addition to active participation in numerous industry associations, Dan serves as Executive Mentor to the Entrepreneurship & Innovation Group at Arizona State University."
-- member:
-  name: "Ronald W. Davis, Ph.D."
-  position: "DIRECTOR OF THE STANFORD GENOME TECHNOLOGY CENTER, STANFORD UNIVERSITY"
-  image: "ronalddavis-thumb.jpg"
-  thumbnail: "ronalddavis-thumb.jpg"
-  linkedin_url: "https://www.linkedin.com/in/ron-davis-56a34852"
-  department: "advisor"
-  specialty: "scientific"
+  bio: Dan brings more than 25 years of applied employee benefits and healthcare experience
+    to BaseHealth serving in an assortment of leadership and executive management
+    roles. In addition to founding and serving as Managing Partner for Nine Oars,
+    a broadly recognized healthcare market research and business strategy firm, Dan
+    served as Regional President & CEO for Humana and in Regional Vice President roles
+    with both AETNA and United Healthcare, and as Corporate Vice President of National
+    Accounts for PacifiCare. He is an industry leader in the advancement of healthcare
+    consumerism and advocate for integrated and accountable healthcare solutions.
+    Dan is recipient of Humana’s President Club CEO of the Year award and is a former
+    Executive Mentor to the Association of Health Insurance Plans (AHIP) and Executive
+    Delegate to the Concourse International Learning Summit. He in addition to active
+    participation in numerous industry associations, Dan serves as Executive Mentor
+    to the Entrepreneurship & Innovation Group at Arizona State University.
+- member: 
+  name: Ronald W. Davis, Ph.D.
+  position: DIRECTOR OF THE STANFORD GENOME TECHNOLOGY CENTER, STANFORD UNIVERSITY
+  image: ronalddavis-thumb.jpg
+  thumbnail: ronalddavis-thumb.jpg
+  linkedin_url: https://www.linkedin.com/in/ron-davis-56a34852
+  department: advisor
+  specialty: scientific
   post_order: 1
   id: 2
-  bio: "Dr. Davis is the Director of the Stanford Genome Technology Center and a professor of biochemistry and genetics at the Stanford University School of Medicine. As a leader in the fast-growing field of genomics, Dr. Davis has helped spin-off several promising genomic startup companies out of his Stanford laboratory including Personalis and GenapSys. He is also a member of the National Academy of Sciences and has served on the National Institutes of Health (NIH) Genome Research Review Committee and was chairman of the World Health Organization Strategic Research Steering Committee. Dr. Davis brings unique thought leadership to BaseHealth and guides the team on new developments in the field of genomic science and technology."
----
+  bio: Dr. Davis is the Director of the Stanford Genome Technology Center and a professor
+    of biochemistry and genetics at the Stanford University School of Medicine. As
+    a leader in the fast-growing field of genomics, Dr. Davis has helped spin-off
+    several promising genomic startup companies out of his Stanford laboratory including
+    Personalis and GenapSys. He is also a member of the National Academy of Sciences
+    and has served on the National Institutes of Health (NIH) Genome Research Review
+    Committee and was chairman of the World Health Organization Strategic Research
+    Steering Committee. Dr. Davis brings unique thought leadership to BaseHealth and
+    guides the team on new developments in the field of genomic science and technology.
