@@ -43,8 +43,8 @@ They bring expertise in the fields of genomics, personalized medicine, molecular
       <div class="modal-grid-content"> <!-- establish modal grid content (for resizing) -->
 
         <div class="modal-grid-row"><!-- establish modal grid row -->
-            {% for member in team %}
-              {% if member.department == 'managment' %}
+            {% for member in site.data.team %}
+              {% if member.department == 'management' %}
                 {% include lmnt-member-card.html %}
               {% endif %}
             {% endfor %}
@@ -70,10 +70,8 @@ They bring expertise in the fields of genomics, personalized medicine, molecular
 
         <div class="modal-grid-row"><!-- establish modal grid row -->
           {% for member in team %}
-            {% if member.department == 'advisors' %}
-              {% if member.category == 'scientific' %}
-                {% include lmnt-member-card.html %}
-              {% endif %}
+            {% if member.department == 'advisor' and member.specialty == 'scientific' %}
+              {% include lmnt-member-card.html %}
             {% endif %}
           {% endfor %}
         </div><!-- /modal grid row -->
@@ -87,10 +85,8 @@ They bring expertise in the fields of genomics, personalized medicine, molecular
 
         <div class="modal-grid-row"><!-- establish modal grid row -->
           {% for member in team %}
-            {% if member.department == 'advisors' %}
-              {% if member.category == 'medical' %}
-                {% include lmnt-member-card.html %}
-              {% endif %}
+            {% if member.department == 'advisor' and member.specialty == 'medical' %}
+              {% include lmnt-member-card.html %}
             {% endif %}
           {% endfor %}
         </div><!-- /modal grid row -->
@@ -105,10 +101,8 @@ They bring expertise in the fields of genomics, personalized medicine, molecular
 
         <div class="modal-grid-row"><!-- establish modal grid row -->
           {% for member in team %}
-            {% if member.department == 'advisors' %}
-              {% if member.category == 'technical' %}
-                {% include lmnt-member-card.html %}
-              {% endif %}
+            {% if member.department == 'advisor' and member.specialty == 'technical' %}
+              {% include lmnt-member-card.html %}
             {% endif %}
           {% endfor %}
         </div><!-- /modal grid row -->
