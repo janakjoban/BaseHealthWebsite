@@ -1074,6 +1074,57 @@ input[type='checkbox']{
   .event-icon-cta {
     padding-top:$content-spacing*1.75;
   }
+
+  &.event-bar-theme-1 {
+    background-color:#8CD7FF !important;
+    color:$clr-white !important;
+    a {
+      color:$clr-white !important;
+      &:hover {
+        color:$clr-white !important;
+      }
+    }
+    a.btn-cta {
+      color:$clr-ocean !important;
+      &:hover {
+        color:$clr-ocean !important;
+      }
+    }
+    .event-title {
+      color: #1F3466 !important;
+    }
+    .event-subhead {
+      color:rgba($clr-white,.8) !important;
+    }
+    .event-subhead-focus {
+      color:$clr-ocean !important;
+    }
+  }
+  &.event-bar-theme-2 {
+    background-color:#1F3466 !important;
+    color:$clr-white !important;
+    a {
+      color:$clr-white !important;
+      &:hover {
+        color:$clr-white !important;
+      }
+    }
+    a.btn-cta {
+      color:$clr-ocean !important;
+      &:hover {
+        color:$clr-ocean !important;
+      }
+    }
+    .event-title {
+      color: $clr-white !important;
+    }
+    .event-subhead {
+      color:rgba($clr-white,.8) !important;
+    }
+    .event-subhead-focus {
+      color:lighten($clr-ocean,10%) !important;
+    }
+  }
 }
 
 // mobile ----------------------------------------------------------------------
