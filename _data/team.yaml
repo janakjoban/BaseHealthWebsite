@@ -1,4 +1,20 @@
 ---
+- member: Jason Pyle, MD, Ph.D.
+  name: Jason Pyle, MD, Ph.D.
+  position: Chief Executive Officer
+  image: "/assets/images/team/jasonpyle-thumb.jpg"
+  thumbnail: "/assets/images/team/jasonpyle-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/jason-pyle-551127
+  department: Management
+  specialty: ''
+  id: '01'
+  bio: |2-
+
+    Jason Pyle is an accomplished biotechnology executive with over fifteen years of emerging technology experience. He has founded and led successful biotechnology firms, including Triton Innovations, Fabric Media Inc., Sapphire Energy, Epoc Bioengineering Inc., and Pria Diagnostics.
+
+    Jason is committed to developing healthcare technologies and bringing science-backed wellness management tools to the masses. He has received numerous awards for both his contributions to biotechnology and his business leadership in the biological sciences, including Top 100 Green Executive by Forbes, Top Tech Executive by San Diego Magazine, and National Energy Innovator by the U.S. Department of Energy.
+
+    Jason holds a number of pending and issued patents in the engineering and biological sciences and has worked in diverse cross-discipline areas such as nanofabrication, optical engineering, and structural biology. He earned both his MD and PhD in Molecular and Cellular Physiology from the Stanford University School of Medicine.
 - member: Dan Hoemke
   name: Dan Hoemke
   position: VP Value Based Health Management Solutions
