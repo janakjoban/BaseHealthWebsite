@@ -1,4 +1,18 @@
 ---
+- member: Prakash Menon
+  name: Prakash Menon
+  position: Chief Technology Officer
+  image: "/assets/images/team/prakashmenon-thumb.jpg"
+  thumbnail: "/assets/images/team/prakashmenon-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/prakashmenon1/
+  department: management
+  specialty: general
+  id: 14
+  bio: |-
+    In a long career in software development, Prakash has helped build patient management and hospital management systems on multiple continents. Prior to joining BaseHealth, he served as the Vice President of Development at Hara Software, a KPCB-backed startup that has defined and led the energy management market.
+    He also spent more than a decade at Oracle, where he led teams that built cutting-edge performance management solutions for distributed Enterprise applications.
+    Prakash has always been intrigued by the promise of data-driven medical care, particularly its role in prevention. He joined BaseHealth in March 2013.
+    Prakash holds a bachelor’s degree in Engineering and a master’s degree in business.
 - member: Tamara StClare
   name: Tamara StClare
   position: Chief Operating Officer
