@@ -18,5 +18,6 @@ excerpt: One of the pressing concerns in health care is the validity of medical 
   validation…
 external-button-url: http://www.emrandehr.com/tag/basehealth
 external-button-label: ''
-categories: []
+categories:
+- press
 ---
