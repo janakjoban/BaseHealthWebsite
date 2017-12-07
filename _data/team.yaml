@@ -1,17 +1,4 @@
 ---
-- member: Nancy Pedersen, Ph.D.
-  name: Nancy Pedersen, Ph.D.
-  position: ''
-  image: "/assets/images/team/nancy-thumb.jpg"
-  thumbnail: "/assets/images/team/nancy-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/nancy-pedersen-1a436834
-  department: advisors
-  specialty: scientific
-  id: 1299
-  bio: |-
-    Dr. Nancy Pedersen is the Vice Dean of Research at Karolinska Institute, Sweden’s only medical university and one of Europe’s most prestigious.
-    Prior to serving as Vice Dean at the Karolinska Institute, Dr. Pederson was the Director of the Swedish Twin Registry, the largest twin registry in the world. As the principal investigator of the Swedish Adoption/Twin Study of Aging and the Study of Dementia in Swedish Twins, she has made important breakthroughs in our understanding of how genetic influences affect the onset and severity of Alzheimer’s and other chronic diseases of the elderly.
-    Dr. Pedersen advises BaseHealth in the development of the integrated health management platform for preventing disease in patients with genetic risk.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
@@ -176,3 +163,30 @@
     Committee and was chairman of the World Health Organization Strategic Research
     Steering Committee. Dr. Davis brings unique thought leadership to BaseHealth and
     guides the team on new developments in the field of genomic science and technology.
+- member: Nancy Pedersen, Ph.D.
+  name: Nancy Pedersen, Ph.D.
+  position: ''
+  image: "/assets/images/team/nancy-thumb.jpg"
+  thumbnail: "/assets/images/team/nancy-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/nancy-pedersen-1a436834
+  department: advisors
+  specialty: scientific
+  id: 1299
+  bio: |-
+    Dr. Nancy Pedersen is the Vice Dean of Research at Karolinska Institute, Sweden’s only medical university and one of Europe’s most prestigious.
+    Prior to serving as Vice Dean at the Karolinska Institute, Dr. Pederson was the Director of the Swedish Twin Registry, the largest twin registry in the world. As the principal investigator of the Swedish Adoption/Twin Study of Aging and the Study of Dementia in Swedish Twins, she has made important breakthroughs in our understanding of how genetic influences affect the onset and severity of Alzheimer’s and other chronic diseases of the elderly.
+    Dr. Pedersen advises BaseHealth in the development of the integrated health management platform for preventing disease in patients with genetic risk.
+- member: Keyan Salari, MD, Ph.D.
+  position: ''
+  image: "/assets/images/team/keyan_salari-thumb.jpg"
+  thumbnail: "/assets/images/team/keyan_salari-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/keyansalari/
+  department: advisors
+  id: q31957
+  name: Keyan Salari, MD, Ph.D.
+  specialty: scientific
+  bio: |-
+    Dr. Salari is a resident at the Harvard Program in Urologic Surgery at the Massachusetts General Hospital and a Clinical Fellow in Surgery at Harvard Medical School.
+    He is also a postdoctoral cancer genomics researcher at the Broad Institute, where his research focuses on characterizing cancer genomes using high-throughput genomic technologies with the goal of translating novel findings to improved diagnostics, prognostication, and treatment strategies for cancer patients..
+    Dr. Salari is a graduate of the Medical Scientist Training Program at the Stanford School of Medicine, where he earned an M.D. and Ph.D. in Genetics. While at the Stanford, Dr. Salari developed a first-of-its-kind course on genomics and personalized medicine, where students have the opportunity to undergo personal genome testing as a part of the curriculum.
+    He is a founding member of BaseHealth and serves as a key advisor to the science team.
