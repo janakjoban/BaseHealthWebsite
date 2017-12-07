@@ -1,59 +1,4 @@
 ---
-- member: Ardy Arianpour, MBA
-  name: Ardy Arianpour, MBA
-  position: Chief Business Officer
-  image: "/assets/images/team/ardy-thumb.jpg"
-  thumbnail: "/assets/images/team/ardy-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/ardyarianpour/
-  department: management
-  specialty: general
-  id: 15
-  bio: |-
-    CHIEF BUSINESS OFFICER
-    Ardy Arianpour is a genomics pioneer and visionary commercial leader with more than 15+ years of experience in the biotech industry. He has a distinguished track record of transforming start-up companies into established and recognized multimillion-dollar enterprises and launching disrupting products that have changed healthcare for the benefit of the patient and consumer.
-    Previously, Ardy was Chief Commercial Officer of Pathway Genomics and Senior Vice President of Business Development for Ambry Genetics and helped lead the companies through periods of tremendous growth. Throughout his career, Arianpour has served in senior business and commercial roles, including for Clinical Data (acquired for $1.2 billion by Forest Laboratories), Cogenics (acquired by Beckman Coulter) and Eurogentec North America (acquired by Kaneka, a Japanese chemical company). He holds a bachelor’s degree in biological sciences from the University of California, Irvine, and an MBA in strategic management from Marshall Goldsmith School of Management.
-- member: Prakash Menon
-  name: Prakash Menon
-  position: Chief Technology Officer
-  image: "/assets/images/team/prakashmenon-thumb.jpg"
-  thumbnail: "/assets/images/team/prakashmenon-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/prakashmenon1/
-  department: management
-  specialty: general
-  id: 14
-  bio: |-
-    In a long career in software development, Prakash has helped build patient management and hospital management systems on multiple continents. Prior to joining BaseHealth, he served as the Vice President of Development at Hara Software, a KPCB-backed startup that has defined and led the energy management market.
-    He also spent more than a decade at Oracle, where he led teams that built cutting-edge performance management solutions for distributed Enterprise applications.
-    Prakash has always been intrigued by the promise of data-driven medical care, particularly its role in prevention. He joined BaseHealth in March 2013.
-    Prakash holds a bachelor’s degree in Engineering and a master’s degree in business.
-- member: Tamara StClare
-  name: Tamara StClare
-  position: Chief Operating Officer
-  image: "/assets/images/team/tamara-thumb.jpg"
-  thumbnail: "/assets/images/team/tamara-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/tamarastclaire/
-  department: 'management '
-  specialty: general
-  id: 13
-  bio: |-
-    Tamara StClaire is the Chief Operating Officer at BaseHealth, where her goal is to challenge the status quo in healthcare and encourage providers, ACOs, and payers alike to focus on patient-driven care to not only save lives, but also reduce spend in the push toward value-based care. She’s responsible for sales, marketing, and business development efforts.
-    Previously, Tamara was the Chief Innovation Officer at Xerox Healthcare where her role was to create and lead the growth of new solutions sitting at the nexus of R&D, M&A and partnerships. With over two decades of experience in the healthcare industry at large corporations and small startups, including Xerox Healthcare, Roche Diagnostics, Abbott Laboratories and now, BaseHealth, she has a proven track record of developing new lines of revenue by building networks and business connections.
-    Tamara is a health IT expert advising organizations looking to grow and expand their product portfolio. She is a frequent advisor in this space and consults for a venture accelerator on digital health.
-    She speaks frequently on healthcare technology and innovation. Previous engagements include the IEEE Rock Stars of Technology Event 2017, Health:Further Summit 2016, Health Data Management and Mining 2016 and Health 2.0 2015. She was named one of the Most Powerful Women in Healthcare IT by Health Data Management and recognized as a Social Media Ambassador at HIMSS 2016 and HIMSS 2017.
-    She holds a PhD in chemistry from the University of California, Davis and a joint MBA from Columbia University and UC Berkeley.
-- member: Hossein Fakhrai-Rad, Ph.D.
-  name: Hossein Fakhrai-Rad, Ph.D.
-  position: Founder & Chief Scientific Officer
-  image: "/assets/images/team/hossein_fakhrai.jpg"
-  thumbnail: "/assets/images/team/hossein_fakhrai.jpg"
-  linkedin_url: https://www.linkedin.com/in/hossein-fakhrai-rad-38718b2
-  department: management
-  specialty: general
-  id: 11
-  bio: |-
-    After years of biotechnology and molecular biology research at the Karolinska Institutet in Sweden and the Stanford Genome Technology Center, Hossein founded BaseHealth to help decrease individuals’ risk of preventable disease. Hossein oversees BaseHealth’s long-term vision and growth strategy.
-    In addition to his passion for genomics, personalized medicine, and wellness, Hossein is a proven life sciences entrepreneur. His first startup, ParAllele Bioscience, was acquired in 2005 by Affymetrix, a global leader in genomic analysis tools.
-    Hossein earned his bachelor’s degree in molecular biology and biotechnology from Stockholm University in Sweden, and his Ph.D. in medical genetics from the Karolinska Institute in Sweden. In 2001, he held a postdoctoral research fellowship at the Stanford Genome Technology Center.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
@@ -70,6 +15,89 @@
     Jason is committed to developing healthcare technologies and bringing science-backed wellness management tools to the masses. He has received numerous awards for both his contributions to biotechnology and his business leadership in the biological sciences, including Top 100 Green Executive by Forbes, Top Tech Executive by San Diego Magazine, and National Energy Innovator by the U.S. Department of Energy.
 
     Jason holds a number of pending and issued patents in the engineering and biological sciences and has worked in diverse cross-discipline areas such as nanofabrication, optical engineering, and structural biology. He earned both his MD and PhD in Molecular and Cellular Physiology from the Stanford University School of Medicine.
+- member: Hossein Fakhrai-Rad, Ph.D.
+  name: Hossein Fakhrai-Rad, Ph.D.
+  position: Founder & Chief Scientific Officer
+  image: "/assets/images/team/hossein_fakhrai.jpg"
+  thumbnail: "/assets/images/team/hossein_fakhrai.jpg"
+  linkedin_url: https://www.linkedin.com/in/hossein-fakhrai-rad-38718b2
+  department: management
+  specialty: general
+  id: 11
+  bio: |-
+    After years of biotechnology and molecular biology research at the Karolinska Institutet in Sweden and the Stanford Genome Technology Center, Hossein founded BaseHealth to help decrease individuals’ risk of preventable disease. Hossein oversees BaseHealth’s long-term vision and growth strategy.
+    In addition to his passion for genomics, personalized medicine, and wellness, Hossein is a proven life sciences entrepreneur. His first startup, ParAllele Bioscience, was acquired in 2005 by Affymetrix, a global leader in genomic analysis tools.
+    Hossein earned his bachelor’s degree in molecular biology and biotechnology from Stockholm University in Sweden, and his Ph.D. in medical genetics from the Karolinska Institute in Sweden. In 2001, he held a postdoctoral research fellowship at the Stanford Genome Technology Center.
+- member: Tamara StClare
+  name: Tamara StClare
+  position: Chief Operating Officer
+  image: "/assets/images/team/tamara-thumb.jpg"
+  thumbnail: "/assets/images/team/tamara-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/tamarastclaire/
+  department: 'management '
+  specialty: general
+  id: 13
+  bio: |-
+    Tamara StClaire is the Chief Operating Officer at BaseHealth, where her goal is to challenge the status quo in healthcare and encourage providers, ACOs, and payers alike to focus on patient-driven care to not only save lives, but also reduce spend in the push toward value-based care. She’s responsible for sales, marketing, and business development efforts.
+    Previously, Tamara was the Chief Innovation Officer at Xerox Healthcare where her role was to create and lead the growth of new solutions sitting at the nexus of R&D, M&A and partnerships. With over two decades of experience in the healthcare industry at large corporations and small startups, including Xerox Healthcare, Roche Diagnostics, Abbott Laboratories and now, BaseHealth, she has a proven track record of developing new lines of revenue by building networks and business connections.
+    Tamara is a health IT expert advising organizations looking to grow and expand their product portfolio. She is a frequent advisor in this space and consults for a venture accelerator on digital health.
+    She speaks frequently on healthcare technology and innovation. Previous engagements include the IEEE Rock Stars of Technology Event 2017, Health:Further Summit 2016, Health Data Management and Mining 2016 and Health 2.0 2015. She was named one of the Most Powerful Women in Healthcare IT by Health Data Management and recognized as a Social Media Ambassador at HIMSS 2016 and HIMSS 2017.
+    She holds a PhD in chemistry from the University of California, Davis and a joint MBA from Columbia University and UC Berkeley.
+- member: Prakash Menon
+  name: Prakash Menon
+  position: Chief Technology Officer
+  image: "/assets/images/team/prakashmenon-thumb.jpg"
+  thumbnail: "/assets/images/team/prakashmenon-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/prakashmenon1/
+  department: management
+  specialty: general
+  id: 14
+  bio: |-
+    In a long career in software development, Prakash has helped build patient management and hospital management systems on multiple continents. Prior to joining BaseHealth, he served as the Vice President of Development at Hara Software, a KPCB-backed startup that has defined and led the energy management market.
+    He also spent more than a decade at Oracle, where he led teams that built cutting-edge performance management solutions for distributed Enterprise applications.
+    Prakash has always been intrigued by the promise of data-driven medical care, particularly its role in prevention. He joined BaseHealth in March 2013.
+    Prakash holds a bachelor’s degree in Engineering and a master’s degree in business.
+- member: Ardy Arianpour, MBA
+  name: Ardy Arianpour, MBA
+  position: Chief Business Officer
+  image: "/assets/images/team/ardy-thumb.jpg"
+  thumbnail: "/assets/images/team/ardy-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/ardyarianpour/
+  department: management
+  specialty: general
+  id: 15
+  bio: |-
+    CHIEF BUSINESS OFFICER
+    Ardy Arianpour is a genomics pioneer and visionary commercial leader with more than 15+ years of experience in the biotech industry. He has a distinguished track record of transforming start-up companies into established and recognized multimillion-dollar enterprises and launching disrupting products that have changed healthcare for the benefit of the patient and consumer.
+    Previously, Ardy was Chief Commercial Officer of Pathway Genomics and Senior Vice President of Business Development for Ambry Genetics and helped lead the companies through periods of tremendous growth. Throughout his career, Arianpour has served in senior business and commercial roles, including for Clinical Data (acquired for $1.2 billion by Forest Laboratories), Cogenics (acquired by Beckman Coulter) and Eurogentec North America (acquired by Kaneka, a Japanese chemical company). He holds a bachelor’s degree in biological sciences from the University of California, Irvine, and an MBA in strategic management from Marshall Goldsmith School of Management.
+- member: Nick van Terheyden
+  name: Nick van Terheyden
+  position: Chief Medical Officer
+  image: "/assets/images/team/terheyden-thumb.jpg"
+  thumbnail: "/assets/images/team/terheyden-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/nickvt/
+  department: management
+  specialty: general
+  id: 123
+  bio: "Dr. Nick van Terheyden is chief medical officer at BaseHealth, Inc., where
+    he serves as the voice of the physician and the patient at the company. He brings
+    strategic insights in product development and marketing to BaseHealth as the company
+    transforms the population health management space using predictive analytics to
+    find the #InvisiblePatient. These are the patients that healthcare professionals
+    need to identify, so they can intervene to both prevent diseases before they start
+    and control them before it’s too late.\nPrior to joining BaseHealth, Dr. Nick
+    served as chief medical officer for Dell Healthcare & Life Sciences, where he
+    was responsible for providing strategic insight to help Dell advance its support
+    of healthcare organizations, healthcare professionals and patients through information-enabled
+    healthcare.\nA graduate of the Royal Free Hospital School of Medicine, University
+    of London, Dr. Nick is a pioneering creator in the evolution of healthcare technology.
+    After several years as a medical practitioner in London and Australia, he joined
+    an international who's who in healthcare, academia and business, in the development
+    and implementation of one of the first paperless medical records in the early
+    1990's and later, as a business leader in one of the first speech recognition
+    companies. His rare combination of patience, creativity, skill and intrinsic business
+    ethics has led him to a diverse career in healthcare with some of the most prestigious
+    hospitals, consulting firms, and technology companies. "
 - member: Dan Hoemke
   name: Dan Hoemke
   position: VP Value Based Health Management Solutions
