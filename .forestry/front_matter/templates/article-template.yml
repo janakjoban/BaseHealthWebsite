@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/articles/article-name.md
 - _posts/articles/10-18-17-basehealth-series-c.html
 hide_body: false
 fields:
