@@ -2,7 +2,7 @@
 title: BaseHealth Partners with LABCO Quality Diagnostics to Give Millions of Users
   Access to Personalized Health Management Platform
 layout: article
-date: 2014-12-02 06:41:39 -0800
+date: 2014-12-02 14:41:39 +0000
 description: BaseHealth, the maker of the world’s first comprehensive health management
   platform, and LABCO, the leading European medical diagnostics group based on a unique
   network of local and regional clinical laboratories, today announced a strategic
