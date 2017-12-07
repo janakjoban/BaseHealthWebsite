@@ -1,16 +1,17 @@
 ---
-- member: Kazutaka Ohno
-  name: Kazutaka Ohno
-  position: Chief Financial Officer
-  image: "/assets/images/team/kazutakaohno-thumb.jpg"
-  thumbnail: "/assets/images/team/kazutakaohno-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/kazutaka-ohno-26b37b/
+- member: Dianna Wilusz
+  name: Dianna Wilusz
+  position: Director of Human Resources
+  image: "/assets/images/team/diannawilusz-thumb.jpg"
+  thumbnail: "/assets/images/team/diannawilusz-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/diannawilusz/
   department: management
   specialty: general
-  id: 126
-  bio: |-
-    Kazu has more than twenty years of experience in Financial Management spanning startups to large international corporations in the US, Japan and Brazil. As a senior finance executive, he has helped raise over US$150M for start-ups such as Genesys Labs, Centerbeam Inc. and Reply.com in the Bay Area.
-    Prior to joining BaseHealth, Kazu served as Director of Business Planning and Strategies at Visa International and Director of Business Planning and Strategies at Prestige International, Japan’s leading value added CRM solutions provider during Pre-IPOs. Most recently, Kazu worked in Sao Paulo, Brazil to broker M&A deals among Brazilian and foreign companies in Logistic Services. Kazu earned B.A in Economics from Doshisha University in Kyoto, Japan and an MBA from East Carolina University.
+  id: f29375
+  bio: |2-
+
+    Dianna has over 25 years human resources management and operations experience, and has worked with across industries around the world in the areas of compensation, leadership development, recruiting, talent management, and human resources information systems. Prior to joining BaseHealth, she held senior global leadership roles at National Semiconductor, was Vice President of Operations and HR at Hara Software, Director of HR at Beceem Communications, and Managing Director of HR Operations at Lam Research. She is a founding partner of The Pendolino Group.
+    Dianna has a Bachelor degree in Psychology from the University of Maryland and an MBA in Technology Management. Dianna is a board advisor to several for-profit and not-for-profit organizations.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
@@ -110,6 +111,18 @@
     companies. His rare combination of patience, creativity, skill and intrinsic business
     ethics has led him to a diverse career in healthcare with some of the most prestigious
     hospitals, consulting firms, and technology companies. "
+- member: Kazutaka Ohno
+  name: Kazutaka Ohno
+  position: Chief Financial Officer
+  image: "/assets/images/team/kazutakaohno-thumb.jpg"
+  thumbnail: "/assets/images/team/kazutakaohno-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/kazutaka-ohno-26b37b/
+  department: management
+  specialty: general
+  id: 126
+  bio: |-
+    Kazu has more than twenty years of experience in Financial Management spanning startups to large international corporations in the US, Japan and Brazil. As a senior finance executive, he has helped raise over US$150M for start-ups such as Genesys Labs, Centerbeam Inc. and Reply.com in the Bay Area.
+    Prior to joining BaseHealth, Kazu served as Director of Business Planning and Strategies at Visa International and Director of Business Planning and Strategies at Prestige International, Japan’s leading value added CRM solutions provider during Pre-IPOs. Most recently, Kazu worked in Sao Paulo, Brazil to broker M&A deals among Brazilian and foreign companies in Logistic Services. Kazu earned B.A in Economics from Doshisha University in Kyoto, Japan and an MBA from East Carolina University.
 - member: Dan Hoemke
   name: Dan Hoemke
   position: VP Value Based Health Management Solutions
