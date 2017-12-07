@@ -1,7 +1,7 @@
 ---
 title: 'Roundup of notable digital health hires: Voalte, Brigham and Women''s  Healthways'
 layout: article
-date: 2016-04-27 12:48:41 +0000
+date: 2016-04-27 05:48:41 -0700
 description: Hospital communication company Voalte appointed a new CEO and Chairman,
   Adam McMullin. McMullin comes to Voalte via Hill-Rom, where he led the Clinical
   Workflow Solutions business. Trey Lauderdale, founder of Voalte and the current
@@ -16,5 +16,6 @@ excerpt: Hospital communication company Voalte appointed a new CEO and Chairman,
   the next phase...
 external-button-url: http://www.mobihealthnews.com/content/roundup-notable-digital-health-hires-voalte-brigham-and-womens-healthways
 external-button-label: ''
-categories: []
+categories:
+- press
 ---
