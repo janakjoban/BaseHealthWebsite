@@ -1,4 +1,16 @@
 ---
+- member: Richard Lee, MD
+  name: Richard Lee, MD
+  position: ''
+  image: "/assets/images/team/richard_lee-thumb.jpg"
+  thumbnail: "/assets/images/team/richard_lee-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/richard-lee-1711b11
+  department: advisor
+  specialty: medical
+  id: 23905723
+  bio: |-
+    Richard Lee M.D. is a family physician who has been practicing in Palo Alto for over 20 years. For the last 5 years, Dr. Lee has been gathering and interpreting genomic information for his patients in order to significantly modify disease risk that may be present due to genetic variations by educating them on medical interventions and lifestyle management.
+    Dr. Lee advocates for sophisticated data only when it can be interpreted in a manner that patients can understand and use to reduce their health risk and better their lives. Dr. Lee’s philosophy is “it’s not your genes is what to do with them”, and he is an expert at guiding patients through the process of improving their lives by making the best of that which makes them unique. He is the seventh physician in a family spanning 3 generations of medical service. His grandfather, Dr. Russel V. Lee, founded the Palo Alto Medical Clinic and the Palo Alto Medical Foundation.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
