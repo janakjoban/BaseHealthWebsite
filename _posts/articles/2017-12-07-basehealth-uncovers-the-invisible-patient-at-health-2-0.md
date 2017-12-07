@@ -13,7 +13,8 @@ excerpt: " BaseHealth, the creator of the first predictive, evidence-based, and 
   Conference taking place this week in Santa Clara, Calif."
 external-button-label: ''
 external-button-url: ''
-categories: []
+categories:
+- news
 ---
 # **BaseHealth Uncovers the “Invisible Patient” at Health 2.0**
 
