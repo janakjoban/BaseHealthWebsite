@@ -9,18 +9,27 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: ''
+  config:
+    required: true
 - name: description
   label: Description
   type: textarea
   hidden: false
   default: ''
+  description: Short Description
+  config:
+    required: true
 - name: date
-  label: Date
+  label: Publish Date
   type: datetime
   hidden: false
-  default: ''
+  default: Invalid date
+  config:
+    required: true
+  description: You can schedule posts to appear in the future, as well. Also utilize
+    this to rearrange your posts, as we are displaying them by most recent.
 - name: subhead
   label: Subhead
   type: text
@@ -36,18 +45,25 @@ fields:
   type: textarea
   hidden: false
   default: ''
+  config:
+    required: true
+    wysiwyg: false
 - name: external-button-label
   label: External button label
   type: text
   hidden: false
   default: ''
+  description: If this is left empty, we will default to the 'Read More' label.
 - name: external-button-url
   label: External button url
   type: text
   hidden: false
   default: ''
+  description: If this is left empty, we will direct users to the blog post link.
+    If you are linking to an external article - put it here.
 - name: categories
   label: Categories
   type: tag_list
   hidden: false
   default: ''
+  description: "** Case sensitive: 'news', 'press', or 'event'."
