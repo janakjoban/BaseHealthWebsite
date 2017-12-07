@@ -1,21 +1,4 @@
 ---
-- member: Prakash Menon
-  name: Prakash Menon
-  position: Chief Technology Officer
-  image: "/assets/images/team/prakashmenon-thumb.jpg"
-  thumbnail: "/assets/images/team/prakashmenon-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/prakashmenon1
-  department: board of directors
-  specialty: general
-  id: 93859237598236
-  bio: |-
-    In a long career in software development, Prakash has helped build patient management and hospital management systems on multiple continents. Prior to joining BaseHealth, he served as the Vice President of Development at Hara Software, a KPCB-backed startup that has defined and led the energy management market.
-
-    He also spent more than a decade at Oracle, where he led teams that built cutting-edge performance management solutions for distributed Enterprise applications.
-
-    Prakash has always been intrigued by the promise of data-driven medical care, particularly its role in prevention. He joined BaseHealth in March 2013.
-
-    Prakash holds a bachelor’s degree in Engineering and a master’s degree in business.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
@@ -329,3 +312,33 @@
     In addition to his passion for genomics, personalized medicine, and wellness, Hossein is a proven life sciences entrepreneur. His first startup, ParAllele Bioscience, was acquired in 2005 by Affymetrix, a global leader in genomic analysis tools.
 
     Hossein earned his bachelor’s degree in molecular biology and biotechnology from Stockholm University in Sweden, and his Ph.D. in medical genetics from the Karolinska Institute in Sweden. In 2001, he held a postdoctoral research fellowship at the Stanford Genome Technology Center.
+- member: Prakash Menon
+  name: Prakash Menon
+  position: Chief Technology Officer
+  image: "/assets/images/team/prakashmenon-thumb.jpg"
+  thumbnail: "/assets/images/team/prakashmenon-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/prakashmenon1
+  department: board of directors
+  specialty: general
+  id: 93859237598236
+  bio: |-
+    In a long career in software development, Prakash has helped build patient management and hospital management systems on multiple continents. Prior to joining BaseHealth, he served as the Vice President of Development at Hara Software, a KPCB-backed startup that has defined and led the energy management market.
+
+    He also spent more than a decade at Oracle, where he led teams that built cutting-edge performance management solutions for distributed Enterprise applications.
+
+    Prakash has always been intrigued by the promise of data-driven medical care, particularly its role in prevention. He joined BaseHealth in March 2013.
+
+    Prakash holds a bachelor’s degree in Engineering and a master’s degree in business.
+- member: Saeid Akhtari
+  name: Saeid Akhtari
+  position: Managing Director at HBM Genomics
+  image: "/assets/images/team/saeid_akhtari-thumb.jpg"
+  thumbnail: "/assets/images/team/saeid_akhtari-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/akhtari
+  department: board of directors
+  specialty: general
+  id: 7349342057
+  bio: |-
+    Saeid has more than 25 years of experience as an entrepreneur building successful genomics companies from scratch. He is the Managing Director at HBM Genomics investing in world-class entrepreneurs in seed and early stage startups.
+    Saeid was the founder, President & CEO of NextBio which was acquired by Illumina in 2013. Prior to founding NextBio, he was the President & CEO of Silicon Genetics which was acquired by Agilent in 2004. Mr. Akhtari has also held executive management positions at several other life sciences companies.
+    Saeid holds a bachelor’s degree in Engineering and an MBA.

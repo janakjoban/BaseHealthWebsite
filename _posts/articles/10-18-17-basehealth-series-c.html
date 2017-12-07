@@ -1,14 +1,18 @@
 ---
-title: 'BaseHealth Raises $8.5 Million in Series C Funding'
-description: 'Company uses predictive analytics to uncover rising risk patients within a population'
-layout: 'article'
+title: BaseHealth Raises $8.5 Million in Series C Funding
+description: Company uses predictive analytics to uncover rising risk patients within
+  a population
+layout: article
 date: 2017-10-29 11:18:34 +0000
-subhead: 'Sunnyvale, California'
-author: 'Erin Isselmann'
-excerpt: 'The genomics industry has tremendous potential to move the needle in health. Delivering on the promise of genomics depends on three main factors—many of which are within the purview of digital health. Through our survey of one thousand consumers, we provide novel data and insights…'
+subhead: Sunnyvale, California
+author: Erin Isselmann
+excerpt: The genomics industry has tremendous potential to move the needle in health.
+  Delivering on the promise of genomics depends on three main factors—many of which
+  are within the purview of digital health. Through our survey of one thousand consumers,
+  we provide novel data and insights…
 external-button-label: ''
 external-button-url: ''
-category: 'news'
+categories: news
 ---
 
 Sunnyvale, California: Oct. 18, 2017 - BaseHealth, the creator of the first predictive, evidence-based, and data-driven population health management solution, today announced that it has received an overall investment of $8.5 million, including $2.5 million from lead investor HBM Healthcare Investments (SIX HBMN), a listed healthcare investment company with net assets over $1 billion.
