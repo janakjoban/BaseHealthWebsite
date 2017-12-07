@@ -1,20 +1,21 @@
 ---
-- member: Jason Pyle, MD, Ph.D.
-  name: Jason Pyle, MD, Ph.D.
-  position: Chief Executive Officer
-  image: "/assets/images/team/jason_pyle.jpg"
-  thumbnail: "/assets/images/team/jason_pyle.jpg"
-  linkedin_url: https://www.linkedin.com/in/jason-pyle-551127/
+- member: Prakash Menon
+  name: Prakash Menon
+  position: Chief Technology Officer
+  image: "/assets/images/team/prakashmenon-thumb.jpg"
+  thumbnail: "/assets/images/team/prakashmenon-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/prakashmenon1
   department: board of directors
   specialty: general
-  id: 396873498673452
-  bio: |2-
+  id: 93859237598236
+  bio: |-
+    In a long career in software development, Prakash has helped build patient management and hospital management systems on multiple continents. Prior to joining BaseHealth, he served as the Vice President of Development at Hara Software, a KPCB-backed startup that has defined and led the energy management market.
 
-    Jason Pyle is an accomplished biotechnology executive with over fifteen years of emerging technology experience. He has founded and led successful biotechnology firms, including Triton Innovations, Fabric Media Inc., Sapphire Energy, Epoc Bioengineering Inc., and Pria Diagnostics.
+    He also spent more than a decade at Oracle, where he led teams that built cutting-edge performance management solutions for distributed Enterprise applications.
 
-    Jason is committed to developing healthcare technologies and bringing science-backed wellness management tools to the masses. He has received numerous awards for both his contributions to biotechnology and his business leadership in the biological sciences, including Top 100 Green Executive by Forbes, Top Tech Executive by San Diego Magazine, and National Energy Innovator by the U.S. Department of Energy.
+    Prakash has always been intrigued by the promise of data-driven medical care, particularly its role in prevention. He joined BaseHealth in March 2013.
 
-    Jason holds a number of pending and issued patents in the engineering and biological sciences and has worked in diverse cross-discipline areas such as nanofabrication, optical engineering, and structural biology. He earned both his MD and PhD in Molecular and Cellular Physiology from the Stanford University School of Medicine.
+    Prakash holds a bachelor’s degree in Engineering and a master’s degree in business.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
@@ -297,3 +298,34 @@
     Mostafa is an experienced entrepreneur and was involved in the start-up of four life sciences companies. In 2007, Mostafa co-founded Avantome, a privately held sequencing company (acquired by Illumina in 2008). Before this, he co-founded NextBio, a search engine for life science data (acquired by Illumina in 2013). In 2001, Mostafa co-founded ParAllele Bioscience, which was eventually acquired by Affymetrix, Inc., and was involved in the development and commercialization of highly multiplexed technology for genetic testing. In 1997, he co-founded Pyrosequencing AB, which was renamed to Biotage in 2003, and led the company to a successful initial public offering in June 2000 on the Stockholm Stock Exchange.
     Mostafa was a principal investigator at Stanford University from 2002­ until 2008 and focused on the development of novel tools for molecular diagnostic applications. He serves on the board of directors of Aurora Algae and BaseHealth.
     Mostafa earned his Ph.D. from the Royal Institute of Technology in Sweden. He holds more than 50 pending and issued patents and has written more than 70 peer-reviewed publications in journals and books.
+- member: Jason Pyle, MD, Ph.D.
+  name: Jason Pyle, MD, Ph.D.
+  position: Chief Executive Officer
+  image: "/assets/images/team/jason_pyle.jpg"
+  thumbnail: "/assets/images/team/jason_pyle.jpg"
+  linkedin_url: https://www.linkedin.com/in/jason-pyle-551127/
+  department: board of directors
+  specialty: general
+  id: 396873498673452
+  bio: |2-
+
+    Jason Pyle is an accomplished biotechnology executive with over fifteen years of emerging technology experience. He has founded and led successful biotechnology firms, including Triton Innovations, Fabric Media Inc., Sapphire Energy, Epoc Bioengineering Inc., and Pria Diagnostics.
+
+    Jason is committed to developing healthcare technologies and bringing science-backed wellness management tools to the masses. He has received numerous awards for both his contributions to biotechnology and his business leadership in the biological sciences, including Top 100 Green Executive by Forbes, Top Tech Executive by San Diego Magazine, and National Energy Innovator by the U.S. Department of Energy.
+
+    Jason holds a number of pending and issued patents in the engineering and biological sciences and has worked in diverse cross-discipline areas such as nanofabrication, optical engineering, and structural biology. He earned both his MD and PhD in Molecular and Cellular Physiology from the Stanford University School of Medicine.
+- member: Hossein Fakhrai-Rad, Ph.D.
+  name: Hossein Fakhrai-Rad, Ph.D.
+  position: Founder & Chief Scientific Officer
+  image: "/assets/images/team/hossein_fakhrai.jpg"
+  thumbnail: "/assets/images/team/hossein_fakhrai.jpg"
+  linkedin_url: https://www.linkedin.com/in/hossein-fakhrai-rad-38718b2/
+  department: board of directors
+  specialty: general
+  id: 193857349256734
+  bio: |-
+    After years of biotechnology and molecular biology research at the Karolinska Institutet in Sweden and the Stanford Genome Technology Center, Hossein founded BaseHealth to help decrease individuals’ risk of preventable disease. Hossein oversees BaseHealth’s long-term vision and growth strategy.
+
+    In addition to his passion for genomics, personalized medicine, and wellness, Hossein is a proven life sciences entrepreneur. His first startup, ParAllele Bioscience, was acquired in 2005 by Affymetrix, a global leader in genomic analysis tools.
+
+    Hossein earned his bachelor’s degree in molecular biology and biotechnology from Stockholm University in Sweden, and his Ph.D. in medical genetics from the Karolinska Institute in Sweden. In 2001, he held a postdoctoral research fellowship at the Stanford Genome Technology Center.
