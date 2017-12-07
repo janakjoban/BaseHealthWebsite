@@ -1,7 +1,7 @@
 ---
 title: NextBio and Genophen Form Partnership
 layout: article
-date: 2013-04-02 13:45:08 +0000
+date: 2013-04-02 06:45:08 -0700
 description: SANTA CLARA, Calif., April 2, 2013 /PRNewswire/ -- NextBio and Genophen
   announced today a partnership aimed at furthering the adoption of genomics for disease
   prevention and wellness. The partnership enables Genophen to interpret full genome
