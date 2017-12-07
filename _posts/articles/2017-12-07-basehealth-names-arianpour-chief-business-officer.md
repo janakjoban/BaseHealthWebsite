@@ -1,7 +1,7 @@
 ---
 title: BaseHealth Names Arianpour Chief Business Officer
 layout: article
-date: 2016-04-26 12:51:02 +0000
+date: 2016-04-26 05:51:02 -0700
 description: BaseHealth, the comprehensive predictive analytics company for healthcare,
   today announced that Ardy Arianpour has joined the company as Chief Business Officer.
   Arianpour, a genomics pioneer and visionary commercial leader with over 14 years
@@ -18,5 +18,6 @@ excerpt: BaseHealth, the comprehensive predictive analytics company for healthca
 external-button-url: http://www.mobilehealthtimes.com/basehealth-names-ardy-arianpour-as-chief-business-officer/
 author: ''
 external-button-label: ''
-categories: []
+categories:
+- press
 ---
