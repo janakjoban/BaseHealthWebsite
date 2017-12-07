@@ -17,5 +17,6 @@ excerpt: BaseHealth, a comprehensive predictive analytics company for healthcare
   to enhance their personalized wellness assessments and action plans...
 external-button-url: http://hitconsultant.net/2016/07/27/basehealth-inks-executive-health-centre
 external-button-label: ''
-categories: []
+categories:
+- press
 ---

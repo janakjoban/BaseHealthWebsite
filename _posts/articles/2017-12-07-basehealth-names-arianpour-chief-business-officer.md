@@ -18,5 +18,6 @@ excerpt: BaseHealth, the comprehensive predictive analytics company for healthca
 external-button-url: http://www.mobilehealthtimes.com/basehealth-names-ardy-arianpour-as-chief-business-officer/
 author: ''
 external-button-label: ''
-categories: []
+categories:
+- press
 ---

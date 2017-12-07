@@ -18,5 +18,6 @@ excerpt: The BaseHealth team has spent more than 5 years searching through more 
   activities that are most likely to reverse or diminish those risks…
 external-button-url: http://www.managedhealthcareconnect.com/articles/Can-Tracking-Health-Risks-Improve-Outcomes
 external-button-label: ''
-categories: []
+categories:
+- press
 ---

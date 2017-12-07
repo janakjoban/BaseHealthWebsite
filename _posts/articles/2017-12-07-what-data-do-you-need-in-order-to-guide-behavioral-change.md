@@ -22,5 +22,6 @@ excerpt: This is an exciting time for the health care field, as its aspirations 
   behavioral data and leverages the individual interests of each participant...
 external-button-url: http://www.emrandhipaa.com/andy/2016/06/02/what-data-do-you-need-in-order-to-guide-behavioral-change
 external-button-label: ''
-categories: []
+categories:
+- press
 ---
