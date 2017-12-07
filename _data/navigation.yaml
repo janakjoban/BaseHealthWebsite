@@ -1,14 +1,14 @@
 ---
 header-navigation:
-- label: 'What We Solve'
-  url: '/solution.html'
-- label: 'Platform'
-  url: '/platform.html'
-- label: 'Science'
-  url: '/science.html'
-- label: 'About'
-  url: '/about.html'
-- label: 'News'
-  url: '/news.html'
-- label: 'Contact Us'
-  url: '/contact.html'
+- label: What We Solve
+  url: "/solution.html"
+- label: Platform
+  url: "/platform.html"
+- label: Science
+  url: "/science.html"
+- label: About
+  url: "/about.html"
+- label: News
+  url: "/news.html"
+- label: Contact Us
+  url: "/contact.html"

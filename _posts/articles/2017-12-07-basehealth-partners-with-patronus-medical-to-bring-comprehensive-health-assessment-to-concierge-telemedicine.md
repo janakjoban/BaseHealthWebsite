@@ -2,7 +2,7 @@
 title: BaseHealth Partners with Patronus Medical To Bring Comprehensive Health Assessment
   to Concierge Telemedicine
 layout: article
-date: 2016-02-18 06:37:52 -0800
+date: 2016-02-18 14:37:52 +0000
 description: BaseHealth, a comprehensive predictive-analytics company for healthcare,
   today announced a partnership with Patronus Medical, a private health-management
   platform that offers comprehensive, premium, and discreet medical-care solutions

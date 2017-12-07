@@ -2,7 +2,7 @@
 title: BaseHealth Announces Enterprise Offering to Enable Precision Medicine Inside
   of Health and Wellbeing Platforms
 layout: article
-date: 2015-04-09 06:40:22 -0700
+date: 2015-04-09 13:40:22 +0000
 description: REDWOOD CITY, Calif.--(BUSINESS WIRE)--BaseHealth, a platform enabler
   that adds genomic precision to modern health and wellbeing offerings, today announced
   its new integrated enterprise offering for health organizations. Its technology

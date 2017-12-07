@@ -1,7 +1,7 @@
 ---
 title: BaseHealth Launches World's Most Comprehensive Genomic API
 layout: article
-date: 2015-06-02 06:39:19 -0700
+date: 2015-06-02 13:39:19 +0000
 description: BaseHealth, the precision health and medicine company, today announced
   the launch of the BaseHealth API, a set of five calls that gives developers the
   ability to integrate genomic data and comprehensive health assessments into their

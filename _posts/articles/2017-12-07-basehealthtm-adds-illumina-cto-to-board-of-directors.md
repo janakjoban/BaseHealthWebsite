@@ -1,7 +1,7 @@
 ---
 title: BaseHealthTM Adds Illumina CTO To Board Of Directors
 layout: article
-date: 2014-05-15 06:43:23 -0700
+date: 2014-05-15 13:43:23 +0000
 description: BaseHealth, the maker of the integrated health management platform GenophenTM,
   today announced the addition of Dr. Mostafa Ronaghi to the company’s Board of Directors.
   Dr. Ronaghi is the current Chief Technology Officer of Illumina, Inc., the leader

@@ -2,7 +2,7 @@
 title: Executive Health Centre Taps BaseHealth for Genomics-driven Health Assessment
   Engine
 layout: article
-date: 2016-07-27 05:24:58 -0700
+date: 2016-07-27 12:24:58 +0000
 description: BaseHealth, a comprehensive predictive analytics company for healthcare
   has inked a partnership with Canada-based Executive Health Centre, one of the leading
   preventative health care clinics in North America. Through the partnership, Executive
