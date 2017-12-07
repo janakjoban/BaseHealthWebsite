@@ -26,7 +26,7 @@
       Manage Liability Exposure.</h2>
     {% endif %}
     {% if page.footer-url %}
-    <a href="{{ site.baseurl }}{{ page.footer-url }}" class="btn-cta btn-outline__white">
+    <a href="{{ page.footer-url }}" class="btn-cta btn-outline__white"{% if page.footer-external %} target="_blank"{% endif %}>
       {{ page.footer-button-label }}
     </a>
     {% else %}
