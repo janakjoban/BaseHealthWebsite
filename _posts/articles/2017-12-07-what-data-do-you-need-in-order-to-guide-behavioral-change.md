@@ -1,7 +1,7 @@
 ---
 title: What Data Do You Need in Order to Guide Behavioral Change?
 layout: article
-date: 2016-06-02 05:30:06 -0700
+date: 2016-06-02 12:30:06 +0000
 description: This is an exciting time for the health care field, as its aspirations
   toward value-based payments and behavioral responses to chronic conditions converge
   on a more and more precise solution. Dr. Joseph Kvedar has called this comprehensive

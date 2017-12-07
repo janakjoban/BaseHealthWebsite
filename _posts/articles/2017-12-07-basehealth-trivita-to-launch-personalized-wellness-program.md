@@ -1,7 +1,7 @@
 ---
 title: BaseHealth, TriVita to Launch Personalized Wellness Program
 layout: article
-date: 2016-05-20 05:31:57 -0700
+date: 2016-05-20 12:31:57 +0000
 description: BaseHealth, a healthcare-focused predictive analytics company has teamed
   up with health and wellness company TriVita to launch a new personalized wellness
   program at scale for consumers. Through the partnership, BaseHealth’s comprehensive
