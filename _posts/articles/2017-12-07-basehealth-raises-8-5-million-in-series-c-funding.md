@@ -11,7 +11,8 @@ excerpt: BaseHealth announcing that it has received an overall investment of $8.
   million, including $2.5 million from lead investor.
 external-button-label: ''
 external-button-url: ''
-categories: []
+categories:
+- news
 ---
 **  
 Sunnyvale, California: Oct. 18, 2017** – [BaseHealth](http://www.basehealth.com/), the creator of the first predictive, evidence-based, and data-driven population health management solution, today announced that it has received an overall investment of $8.5 million, including $2.5 million from lead investor [HBM Healthcare Investments](http://www.basehealth.com/posts/www.hbmhealthcare.com/en/unternehmen/profil.php) (SIX HBMN), a listed healthcare investment company with net assets over $1 billion.
