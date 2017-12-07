@@ -1,17 +1,17 @@
 ---
-- member: Dianna Wilusz
-  name: Dianna Wilusz
-  position: Director of Human Resources
-  image: "/assets/images/team/diannawilusz-thumb.jpg"
-  thumbnail: "/assets/images/team/diannawilusz-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/diannawilusz/
-  department: management
-  specialty: general
-  id: f29375
-  bio: |2-
-
-    Dianna has over 25 years human resources management and operations experience, and has worked with across industries around the world in the areas of compensation, leadership development, recruiting, talent management, and human resources information systems. Prior to joining BaseHealth, she held senior global leadership roles at National Semiconductor, was Vice President of Operations and HR at Hara Software, Director of HR at Beceem Communications, and Managing Director of HR Operations at Lam Research. She is a founding partner of The Pendolino Group.
-    Dianna has a Bachelor degree in Psychology from the University of Maryland and an MBA in Technology Management. Dianna is a board advisor to several for-profit and not-for-profit organizations.
+- member: Nancy Pedersen, Ph.D.
+  name: Nancy Pedersen, Ph.D.
+  position: ''
+  image: "/assets/images/team/nancy-thumb.jpg"
+  thumbnail: "/assets/images/team/nancy-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/nancy-pedersen-1a436834
+  department: advisors
+  specialty: scientific
+  id: asodhg
+  bio: |-
+    Dr. Nancy Pedersen is the Vice Dean of Research at Karolinska Institute, Sweden’s only medical university and one of Europe’s most prestigious.
+    Prior to serving as Vice Dean at the Karolinska Institute, Dr. Pederson was the Director of the Swedish Twin Registry, the largest twin registry in the world. As the principal investigator of the Swedish Adoption/Twin Study of Aging and the Study of Dementia in Swedish Twins, she has made important breakthroughs in our understanding of how genetic influences affect the onset and severity of Alzheimer’s and other chronic diseases of the elderly.
+    Dr. Pedersen advises BaseHealth in the development of the integrated health management platform for preventing disease in patients with genetic risk.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
@@ -145,6 +145,19 @@
     Delegate to the Concourse International Learning Summit. He in addition to active
     participation in numerous industry associations, Dan serves as Executive Mentor
     to the Entrepreneurship & Innovation Group at Arizona State University.
+- member: Dianna Wilusz
+  name: Dianna Wilusz
+  position: Director of Human Resources
+  image: "/assets/images/team/diannawilusz-thumb.jpg"
+  thumbnail: "/assets/images/team/diannawilusz-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/diannawilusz/
+  department: management
+  specialty: general
+  id: f29375
+  bio: |2-
+
+    Dianna has over 25 years human resources management and operations experience, and has worked with across industries around the world in the areas of compensation, leadership development, recruiting, talent management, and human resources information systems. Prior to joining BaseHealth, she held senior global leadership roles at National Semiconductor, was Vice President of Operations and HR at Hara Software, Director of HR at Beceem Communications, and Managing Director of HR Operations at Lam Research. She is a founding partner of The Pendolino Group.
+    Dianna has a Bachelor degree in Psychology from the University of Maryland and an MBA in Technology Management. Dianna is a board advisor to several for-profit and not-for-profit organizations.
 - member: Ronald W. Davis, Ph.D.
   name: Ronald W. Davis, Ph.D.
   position: DIRECTOR OF THE STANFORD GENOME TECHNOLOGY CENTER, STANFORD UNIVERSITY
