@@ -1,16 +1,4 @@
 ---
-- member: 'Sean P. David, MD, D. Phil. '
-  name: 'Sean P. David, MD, D. Phil. '
-  position: ''
-  image: "/assets/images/team/sean_david-thumb.jpg"
-  thumbnail: "/assets/images/team/sean_david-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/sean-p-david-1260657/
-  department: advisor
-  specialty: medical
-  id: 998687
-  bio: |-
-    Dr. Sean David is an associate professor of medicine at the Stanford University School of Medicine and a pioneer in the emerging field of pharmacogenics — a field that studies how genetic variations affect an individual’s response to drugs and the use of genomic techniques to discover new drugs. Dr. David’s research encompasses a collaborative, transdisciplinary initiative to translate molecular insights to genomically-tailored and patient-centered personalized medicine.
-    Dr. David advises BaseHealth on pharmacogenomics, drug interactions, and internal medicine. He has also enrolled in the Genophen physician network and will provide advice to Genophen members.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
@@ -202,3 +190,41 @@
     He is also a postdoctoral cancer genomics researcher at the Broad Institute, where his research focuses on characterizing cancer genomes using high-throughput genomic technologies with the goal of translating novel findings to improved diagnostics, prognostication, and treatment strategies for cancer patients..
     Dr. Salari is a graduate of the Medical Scientist Training Program at the Stanford School of Medicine, where he earned an M.D. and Ph.D. in Genetics. While at the Stanford, Dr. Salari developed a first-of-its-kind course on genomics and personalized medicine, where students have the opportunity to undergo personal genome testing as a part of the curriculum.
     He is a founding member of BaseHealth and serves as a key advisor to the science team.
+- member: 'Sean P. David, MD, D. Phil. '
+  name: 'Sean P. David, MD, D. Phil. '
+  position: ''
+  image: "/assets/images/team/sean_david-thumb.jpg"
+  thumbnail: "/assets/images/team/sean_david-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/sean-p-david-1260657/
+  department: advisor
+  specialty: medical
+  id: 998687
+  bio: |-
+    Dr. Sean David is an associate professor of medicine at the Stanford University School of Medicine and a pioneer in the emerging field of pharmacogenics — a field that studies how genetic variations affect an individual’s response to drugs and the use of genomic techniques to discover new drugs. Dr. David’s research encompasses a collaborative, transdisciplinary initiative to translate molecular insights to genomically-tailored and patient-centered personalized medicine.
+    Dr. David advises BaseHealth on pharmacogenomics, drug interactions, and internal medicine. He has also enrolled in the Genophen physician network and will provide advice to Genophen members.
+- member: Florence Comite, MD
+  name: Florence Comite, MD
+  position: ''
+  image: "/assets/images/team/florence_comite-thumb.jpg"
+  thumbnail: "/assets/images/team/florence_comite-thumb.jpg"
+  department: advisor
+  specialty: medical
+  id: 9235798
+  bio: 'Dr. Comite is a leader in the field of Precision Medicine and graduate of
+    Yale University School of Medicine where she taught for 25 years as an associate
+    clinical professor. An endocrinologist with multidisciplinary training in Internal
+    Medicine, Pediatrics, Gynecology and Andrology, she employs genomics, metabolomics,
+    proteomics and other diagnostic measures to detect, prevent and reverse disease
+    at the cellular level. Additionally, Dr. Comite has conducted seminal clinical
+    research at Yale and the National Institutes of Health in Reproductive Endocrinology
+    and Metabolism. Dr. Comite is the CEO and founder of a Precision Medicine practice
+    in New York City where she works with clients worldwide. She is currently developing
+    a digital platform that will provide Precision Medicine access for employers and
+    employees nationwide. Her work in Precision Medicine has been featured in the
+    New York Times, Yahoo! and Prevention, and she has authored articles on Precision
+    Medicine, digital health and genomics for CNBC, VentureBeat, MarketWatch and Newsweek,
+    among others. Dr. Comite also wrote the Amazon best-seller on men''s health, Keep
+    It Up: The Power of Precision Medicine to Conquer Low T and Revitalize Your Life
+    (Rodale 2013), the first book to be published for the mass market on the subject
+    of Precision Medicine.'
+  linkedin_url: https://www.linkedin.com/in/florence-comite-260a041b/
