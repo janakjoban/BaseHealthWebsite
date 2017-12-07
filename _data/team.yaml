@@ -73,8 +73,8 @@
 - member: Dan Hoemke
   name: Dan Hoemke
   position: VP Value Based Health Management Solutions
-  image: danhoemke-thumb.jpg
-  thumbnail: danhoemke-thumb.jpg
+  image: "/assets/images/team/danhoemke-thumb.jpg"
+  thumbnail: "/assets/images/team/danhoemke-thumb.jpg"
   linkedin_url: https://www.linkedin.com/in/dfhoemke
   department: management
   specialty: general
@@ -95,8 +95,8 @@
 - member: Ronald W. Davis, Ph.D.
   name: Ronald W. Davis, Ph.D.
   position: DIRECTOR OF THE STANFORD GENOME TECHNOLOGY CENTER, STANFORD UNIVERSITY
-  image: ronalddavis-thumb.jpg
-  thumbnail: ronalddavis-thumb.jpg
+  image: "/assets/images/team/ronalddavis-thumb.jpg"
+  thumbnail: "/assets/images/team/ronalddavis-thumb.jpg"
   linkedin_url: https://www.linkedin.com/in/ron-davis-56a34852
   department: advisor
   specialty: scientific
