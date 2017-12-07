@@ -16,7 +16,7 @@ excerpt: BaseHealth, a healthcare-focused predictive analytics company has teame
   assessments will power TriVita Shield, a new personalized wellness program. BaseHealth
   claims this marks the first time that predictive analytics for healthcare is available
   to consumers at scale...
-author: ''
+author: Jasmine Pennic
 external-button-label: ''
 categories: []
 ---
