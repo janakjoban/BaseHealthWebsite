@@ -1,7 +1,7 @@
 ---
 title: BaseHealth Raises $8.5 Million in Series C Funding
 layout: article
-date: 2017-10-01 03:09:03 -0700
+date: 2017-10-01 10:09:03 +0000
 description: BaseHealth announcing that it has received an overall investment of $8.5
   million, including $2.5 million from lead investor.
 subhead: Company uses predictive analytics to uncover rising risk patients within
