@@ -13,7 +13,7 @@ fields:
   label: Layout
   type: text
   hidden: true
-  default: ''
+  default: article
   config:
     required: true
 - name: description
