@@ -1,0 +1,27 @@
+<li class="news-article news-post">
+  {% if article.subhead != '' %}
+  <span class="news-subhead"> <!-- news-provider -->
+    {{ article.subhead }}
+  </span>
+  {% endif %}
+  <h2> <!-- news-title -->
+    {{ article.title }}
+  </h2>
+  <span class="news-subhead head__line-break-blue"> <!-- news-name + news-date -->
+    {{ article.author }}
+  </span>
+  <p class="news-excerpt"> <!-- news-excerpt -->
+    {{ article.excerpt }}
+  </p>
+  {% if article.external-button-url != '' %}
+  <span class="news-button">
+    <a href="{{ article.external-button-url }}" class="btn-cta btn-blue" target="_blank"> <!-- news-url -->
+      {% if article.external-button-label != '' %}
+      {{ article.external-button-label }}
+      {% else %}
+      Read more
+      {% endif %}
+    </a>
+  </span>
+  {% endif %}
+</li>
