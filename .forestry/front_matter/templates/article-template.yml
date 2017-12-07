@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/articles/10-18-17-style-reference.html
 hide_body: false
 fields:
 - name: title
