@@ -1,17 +1,19 @@
 ---
-- member: Emin Martinian
-  name: Emin Martinian
-  position: ''
-  image: "/assets/images/team/eminmartinian.jpg"
-  thumbnail: "/assets/images/team/eminmartinian.jpg"
-  linkedin_url: https://www.linkedin.com/in/emin-martinian-5497381/
-  department: advisor
-  specialty: technical
-  id: 22093572
-  bio: |-
-    Emin Martinian has two decades of experience in predictive analytics, software engineering, and data science. He enjoys finding creative solutions to complex problems in machine learning, data compression, prediction, optimization, health, and finance.
-    Emin received his B.S. from UC Berkeley and M.S. and Ph.D degrees from the Massachusetts Institute of Technology all in electrical engineering and computer science. He has published over 30 articles in peer reviewed journals, conferences, and international standards, is an inventor on over 15 granted patents, and has received numerous awards for his research and academic work.
-    Emin is currently the founder and CEO of AOCKS LLC, a provider of analysis, optimization, computing, and knowledge services to companies in finance, software, and medicine. Previously, he spent almost a decade at Bain Capital in a number of roles including trading, investment, research, and technology. In addition to trading interest rates, currencies, commodities, and stock index futures, Emin also led initial development of the software for global macro investing and risk management. Before joining Bain Capital, Emin worked with a number of technology start-ups, research labs, and universities.
+- member: Mostafa Ronaghi, Ph.D.
+  name: Mostafa Ronaghi, Ph.D.
+  position: SENIOR VICE PRESIDENT & CTO ILLUMINA, INC.
+  image: "/assets/images/team/mostafa_ronaghi-thumb.jpg"
+  thumbnail: "/assets/images/team/mostafa_ronaghi-thumb.jpg"
+  linkedin_url: ''
+  department: board of directors
+  specialty: general
+  id: 203750892375
+  bio: |2-
+
+    Mostafa Ronaghi, Ph.D., joined Illumina in August 2008 and is responsible for leading internal research and the Illumina accelerator program.
+    Mostafa is an experienced entrepreneur and was involved in the start-up of four life sciences companies. In 2007, Mostafa co-founded Avantome, a privately held sequencing company (acquired by Illumina in 2008). Before this, he co-founded NextBio, a search engine for life science data (acquired by Illumina in 2013). In 2001, Mostafa co-founded ParAllele Bioscience, which was eventually acquired by Affymetrix, Inc., and was involved in the development and commercialization of highly multiplexed technology for genetic testing. In 1997, he co-founded Pyrosequencing AB, which was renamed to Biotage in 2003, and led the company to a successful initial public offering in June 2000 on the Stockholm Stock Exchange.
+    Mostafa was a principal investigator at Stanford University from 2002­ until 2008 and focused on the development of novel tools for molecular diagnostic applications. He serves on the board of directors of Aurora Algae and BaseHealth.
+    Mostafa earned his Ph.D. from the Royal Institute of Technology in Sweden. He holds more than 50 pending and issued patents and has written more than 70 peer-reviewed publications in journals and books.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
@@ -253,3 +255,16 @@
   bio: |-
     Richard Lee M.D. is a family physician who has been practicing in Palo Alto for over 20 years. For the last 5 years, Dr. Lee has been gathering and interpreting genomic information for his patients in order to significantly modify disease risk that may be present due to genetic variations by educating them on medical interventions and lifestyle management.
     Dr. Lee advocates for sophisticated data only when it can be interpreted in a manner that patients can understand and use to reduce their health risk and better their lives. Dr. Lee’s philosophy is “it’s not your genes is what to do with them”, and he is an expert at guiding patients through the process of improving their lives by making the best of that which makes them unique. He is the seventh physician in a family spanning 3 generations of medical service. His grandfather, Dr. Russel V. Lee, founded the Palo Alto Medical Clinic and the Palo Alto Medical Foundation.
+- member: Emin Martinian
+  name: Emin Martinian
+  position: ''
+  image: "/assets/images/team/eminmartinian.jpg"
+  thumbnail: "/assets/images/team/eminmartinian.jpg"
+  linkedin_url: https://www.linkedin.com/in/emin-martinian-5497381/
+  department: advisor
+  specialty: technical
+  id: 22093572
+  bio: |-
+    Emin Martinian has two decades of experience in predictive analytics, software engineering, and data science. He enjoys finding creative solutions to complex problems in machine learning, data compression, prediction, optimization, health, and finance.
+    Emin received his B.S. from UC Berkeley and M.S. and Ph.D degrees from the Massachusetts Institute of Technology all in electrical engineering and computer science. He has published over 30 articles in peer reviewed journals, conferences, and international standards, is an inventor on over 15 granted patents, and has received numerous awards for his research and academic work.
+    Emin is currently the founder and CEO of AOCKS LLC, a provider of analysis, optimization, computing, and knowledge services to companies in finance, software, and medicine. Previously, he spent almost a decade at Bain Capital in a number of roles including trading, investment, research, and technology. In addition to trading interest rates, currencies, commodities, and stock index futures, Emin also led initial development of the software for global macro investing and risk management. Before joining Bain Capital, Emin worked with a number of technology start-ups, research labs, and universities.
