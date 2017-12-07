@@ -16,5 +16,6 @@ excerpt: BaseHealth, a predictive analytics company for healthcare, announced on
   enhance their personalized wellness assessments and action plans.
 external-button-url: http://mhealthwatch.com/basehealth-partners-with-executive-health-centre-canada-27436/
 external-button-label: ''
-categories: []
+categories:
+- press
 ---
