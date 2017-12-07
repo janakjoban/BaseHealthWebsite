@@ -1,59 +1,20 @@
 ---
-- member: Ardy Arianpour, MBA
-  name: Ardy Arianpour, MBA
-  position: Chief Business Officer
-  image: "/assets/images/team/ardy-thumb.jpg"
-  thumbnail: "/assets/images/team/ardy-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/ardyarianpour/
-  department: management
+- member: Jason Pyle, MD, Ph.D.
+  name: Jason Pyle, MD, Ph.D.
+  position: Chief Executive Officer
+  image: "/assets/images/team/jason_pyle.jpg"
+  thumbnail: "/assets/images/team/jason_pyle.jpg"
+  linkedin_url: https://www.linkedin.com/in/jason-pyle-551127/
+  department: board of directors
   specialty: general
-  id: 15
-  bio: |-
-    CHIEF BUSINESS OFFICER
-    Ardy Arianpour is a genomics pioneer and visionary commercial leader with more than 15+ years of experience in the biotech industry. He has a distinguished track record of transforming start-up companies into established and recognized multimillion-dollar enterprises and launching disrupting products that have changed healthcare for the benefit of the patient and consumer.
-    Previously, Ardy was Chief Commercial Officer of Pathway Genomics and Senior Vice President of Business Development for Ambry Genetics and helped lead the companies through periods of tremendous growth. Throughout his career, Arianpour has served in senior business and commercial roles, including for Clinical Data (acquired for $1.2 billion by Forest Laboratories), Cogenics (acquired by Beckman Coulter) and Eurogentec North America (acquired by Kaneka, a Japanese chemical company). He holds a bachelor’s degree in biological sciences from the University of California, Irvine, and an MBA in strategic management from Marshall Goldsmith School of Management.
-- member: Prakash Menon
-  name: Prakash Menon
-  position: Chief Technology Officer
-  image: "/assets/images/team/prakashmenon-thumb.jpg"
-  thumbnail: "/assets/images/team/prakashmenon-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/prakashmenon1/
-  department: management
-  specialty: general
-  id: 14
-  bio: |-
-    In a long career in software development, Prakash has helped build patient management and hospital management systems on multiple continents. Prior to joining BaseHealth, he served as the Vice President of Development at Hara Software, a KPCB-backed startup that has defined and led the energy management market.
-    He also spent more than a decade at Oracle, where he led teams that built cutting-edge performance management solutions for distributed Enterprise applications.
-    Prakash has always been intrigued by the promise of data-driven medical care, particularly its role in prevention. He joined BaseHealth in March 2013.
-    Prakash holds a bachelor’s degree in Engineering and a master’s degree in business.
-- member: Tamara StClare
-  name: Tamara StClare
-  position: Chief Operating Officer
-  image: "/assets/images/team/tamara-thumb.jpg"
-  thumbnail: "/assets/images/team/tamara-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/tamarastclaire/
-  department: 'management '
-  specialty: general
-  id: 13
-  bio: |-
-    Tamara StClaire is the Chief Operating Officer at BaseHealth, where her goal is to challenge the status quo in healthcare and encourage providers, ACOs, and payers alike to focus on patient-driven care to not only save lives, but also reduce spend in the push toward value-based care. She’s responsible for sales, marketing, and business development efforts.
-    Previously, Tamara was the Chief Innovation Officer at Xerox Healthcare where her role was to create and lead the growth of new solutions sitting at the nexus of R&D, M&A and partnerships. With over two decades of experience in the healthcare industry at large corporations and small startups, including Xerox Healthcare, Roche Diagnostics, Abbott Laboratories and now, BaseHealth, she has a proven track record of developing new lines of revenue by building networks and business connections.
-    Tamara is a health IT expert advising organizations looking to grow and expand their product portfolio. She is a frequent advisor in this space and consults for a venture accelerator on digital health.
-    She speaks frequently on healthcare technology and innovation. Previous engagements include the IEEE Rock Stars of Technology Event 2017, Health:Further Summit 2016, Health Data Management and Mining 2016 and Health 2.0 2015. She was named one of the Most Powerful Women in Healthcare IT by Health Data Management and recognized as a Social Media Ambassador at HIMSS 2016 and HIMSS 2017.
-    She holds a PhD in chemistry from the University of California, Davis and a joint MBA from Columbia University and UC Berkeley.
-- member: Hossein Fakhrai-Rad, Ph.D.
-  name: Hossein Fakhrai-Rad, Ph.D.
-  position: Founder & Chief Scientific Officer
-  image: "/assets/images/team/hossein_fakhrai.jpg"
-  thumbnail: "/assets/images/team/hossein_fakhrai.jpg"
-  linkedin_url: https://www.linkedin.com/in/hossein-fakhrai-rad-38718b2
-  department: management
-  specialty: general
-  id: 11
-  bio: |-
-    After years of biotechnology and molecular biology research at the Karolinska Institutet in Sweden and the Stanford Genome Technology Center, Hossein founded BaseHealth to help decrease individuals’ risk of preventable disease. Hossein oversees BaseHealth’s long-term vision and growth strategy.
-    In addition to his passion for genomics, personalized medicine, and wellness, Hossein is a proven life sciences entrepreneur. His first startup, ParAllele Bioscience, was acquired in 2005 by Affymetrix, a global leader in genomic analysis tools.
-    Hossein earned his bachelor’s degree in molecular biology and biotechnology from Stockholm University in Sweden, and his Ph.D. in medical genetics from the Karolinska Institute in Sweden. In 2001, he held a postdoctoral research fellowship at the Stanford Genome Technology Center.
+  id: 396873498673452
+  bio: |2-
+
+    Jason Pyle is an accomplished biotechnology executive with over fifteen years of emerging technology experience. He has founded and led successful biotechnology firms, including Triton Innovations, Fabric Media Inc., Sapphire Energy, Epoc Bioengineering Inc., and Pria Diagnostics.
+
+    Jason is committed to developing healthcare technologies and bringing science-backed wellness management tools to the masses. He has received numerous awards for both his contributions to biotechnology and his business leadership in the biological sciences, including Top 100 Green Executive by Forbes, Top Tech Executive by San Diego Magazine, and National Energy Innovator by the U.S. Department of Energy.
+
+    Jason holds a number of pending and issued patents in the engineering and biological sciences and has worked in diverse cross-discipline areas such as nanofabrication, optical engineering, and structural biology. He earned both his MD and PhD in Molecular and Cellular Physiology from the Stanford University School of Medicine.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
@@ -70,6 +31,101 @@
     Jason is committed to developing healthcare technologies and bringing science-backed wellness management tools to the masses. He has received numerous awards for both his contributions to biotechnology and his business leadership in the biological sciences, including Top 100 Green Executive by Forbes, Top Tech Executive by San Diego Magazine, and National Energy Innovator by the U.S. Department of Energy.
 
     Jason holds a number of pending and issued patents in the engineering and biological sciences and has worked in diverse cross-discipline areas such as nanofabrication, optical engineering, and structural biology. He earned both his MD and PhD in Molecular and Cellular Physiology from the Stanford University School of Medicine.
+- member: Hossein Fakhrai-Rad, Ph.D.
+  name: Hossein Fakhrai-Rad, Ph.D.
+  position: Founder & Chief Scientific Officer
+  image: "/assets/images/team/hossein_fakhrai.jpg"
+  thumbnail: "/assets/images/team/hossein_fakhrai.jpg"
+  linkedin_url: https://www.linkedin.com/in/hossein-fakhrai-rad-38718b2
+  department: management
+  specialty: general
+  id: 11
+  bio: |-
+    After years of biotechnology and molecular biology research at the Karolinska Institutet in Sweden and the Stanford Genome Technology Center, Hossein founded BaseHealth to help decrease individuals’ risk of preventable disease. Hossein oversees BaseHealth’s long-term vision and growth strategy.
+    In addition to his passion for genomics, personalized medicine, and wellness, Hossein is a proven life sciences entrepreneur. His first startup, ParAllele Bioscience, was acquired in 2005 by Affymetrix, a global leader in genomic analysis tools.
+    Hossein earned his bachelor’s degree in molecular biology and biotechnology from Stockholm University in Sweden, and his Ph.D. in medical genetics from the Karolinska Institute in Sweden. In 2001, he held a postdoctoral research fellowship at the Stanford Genome Technology Center.
+- member: Tamara StClare
+  name: Tamara StClare
+  position: Chief Operating Officer
+  image: "/assets/images/team/tamara-thumb.jpg"
+  thumbnail: "/assets/images/team/tamara-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/tamarastclaire/
+  department: 'management '
+  specialty: general
+  id: 13
+  bio: |-
+    Tamara StClaire is the Chief Operating Officer at BaseHealth, where her goal is to challenge the status quo in healthcare and encourage providers, ACOs, and payers alike to focus on patient-driven care to not only save lives, but also reduce spend in the push toward value-based care. She’s responsible for sales, marketing, and business development efforts.
+    Previously, Tamara was the Chief Innovation Officer at Xerox Healthcare where her role was to create and lead the growth of new solutions sitting at the nexus of R&D, M&A and partnerships. With over two decades of experience in the healthcare industry at large corporations and small startups, including Xerox Healthcare, Roche Diagnostics, Abbott Laboratories and now, BaseHealth, she has a proven track record of developing new lines of revenue by building networks and business connections.
+    Tamara is a health IT expert advising organizations looking to grow and expand their product portfolio. She is a frequent advisor in this space and consults for a venture accelerator on digital health.
+    She speaks frequently on healthcare technology and innovation. Previous engagements include the IEEE Rock Stars of Technology Event 2017, Health:Further Summit 2016, Health Data Management and Mining 2016 and Health 2.0 2015. She was named one of the Most Powerful Women in Healthcare IT by Health Data Management and recognized as a Social Media Ambassador at HIMSS 2016 and HIMSS 2017.
+    She holds a PhD in chemistry from the University of California, Davis and a joint MBA from Columbia University and UC Berkeley.
+- member: Prakash Menon
+  name: Prakash Menon
+  position: Chief Technology Officer
+  image: "/assets/images/team/prakashmenon-thumb.jpg"
+  thumbnail: "/assets/images/team/prakashmenon-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/prakashmenon1/
+  department: management
+  specialty: general
+  id: 14
+  bio: |-
+    In a long career in software development, Prakash has helped build patient management and hospital management systems on multiple continents. Prior to joining BaseHealth, he served as the Vice President of Development at Hara Software, a KPCB-backed startup that has defined and led the energy management market.
+    He also spent more than a decade at Oracle, where he led teams that built cutting-edge performance management solutions for distributed Enterprise applications.
+    Prakash has always been intrigued by the promise of data-driven medical care, particularly its role in prevention. He joined BaseHealth in March 2013.
+    Prakash holds a bachelor’s degree in Engineering and a master’s degree in business.
+- member: Ardy Arianpour, MBA
+  name: Ardy Arianpour, MBA
+  position: Chief Business Officer
+  image: "/assets/images/team/ardy-thumb.jpg"
+  thumbnail: "/assets/images/team/ardy-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/ardyarianpour/
+  department: management
+  specialty: general
+  id: 15
+  bio: |-
+    CHIEF BUSINESS OFFICER
+    Ardy Arianpour is a genomics pioneer and visionary commercial leader with more than 15+ years of experience in the biotech industry. He has a distinguished track record of transforming start-up companies into established and recognized multimillion-dollar enterprises and launching disrupting products that have changed healthcare for the benefit of the patient and consumer.
+    Previously, Ardy was Chief Commercial Officer of Pathway Genomics and Senior Vice President of Business Development for Ambry Genetics and helped lead the companies through periods of tremendous growth. Throughout his career, Arianpour has served in senior business and commercial roles, including for Clinical Data (acquired for $1.2 billion by Forest Laboratories), Cogenics (acquired by Beckman Coulter) and Eurogentec North America (acquired by Kaneka, a Japanese chemical company). He holds a bachelor’s degree in biological sciences from the University of California, Irvine, and an MBA in strategic management from Marshall Goldsmith School of Management.
+- member: Nick van Terheyden
+  name: Nick van Terheyden
+  position: Chief Medical Officer
+  image: "/assets/images/team/terheyden-thumb.jpg"
+  thumbnail: "/assets/images/team/terheyden-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/nickvt/
+  department: management
+  specialty: general
+  id: 123
+  bio: "Dr. Nick van Terheyden is chief medical officer at BaseHealth, Inc., where
+    he serves as the voice of the physician and the patient at the company. He brings
+    strategic insights in product development and marketing to BaseHealth as the company
+    transforms the population health management space using predictive analytics to
+    find the #InvisiblePatient. These are the patients that healthcare professionals
+    need to identify, so they can intervene to both prevent diseases before they start
+    and control them before it’s too late.\nPrior to joining BaseHealth, Dr. Nick
+    served as chief medical officer for Dell Healthcare & Life Sciences, where he
+    was responsible for providing strategic insight to help Dell advance its support
+    of healthcare organizations, healthcare professionals and patients through information-enabled
+    healthcare.\nA graduate of the Royal Free Hospital School of Medicine, University
+    of London, Dr. Nick is a pioneering creator in the evolution of healthcare technology.
+    After several years as a medical practitioner in London and Australia, he joined
+    an international who's who in healthcare, academia and business, in the development
+    and implementation of one of the first paperless medical records in the early
+    1990's and later, as a business leader in one of the first speech recognition
+    companies. His rare combination of patience, creativity, skill and intrinsic business
+    ethics has led him to a diverse career in healthcare with some of the most prestigious
+    hospitals, consulting firms, and technology companies. "
+- member: Kazutaka Ohno
+  name: Kazutaka Ohno
+  position: Chief Financial Officer
+  image: "/assets/images/team/kazutakaohno-thumb.jpg"
+  thumbnail: "/assets/images/team/kazutakaohno-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/kazutaka-ohno-26b37b/
+  department: management
+  specialty: general
+  id: 126
+  bio: |-
+    Kazu has more than twenty years of experience in Financial Management spanning startups to large international corporations in the US, Japan and Brazil. As a senior finance executive, he has helped raise over US$150M for start-ups such as Genesys Labs, Centerbeam Inc. and Reply.com in the Bay Area.
+    Prior to joining BaseHealth, Kazu served as Director of Business Planning and Strategies at Visa International and Director of Business Planning and Strategies at Prestige International, Japan’s leading value added CRM solutions provider during Pre-IPOs. Most recently, Kazu worked in Sao Paulo, Brazil to broker M&A deals among Brazilian and foreign companies in Logistic Services. Kazu earned B.A in Economics from Doshisha University in Kyoto, Japan and an MBA from East Carolina University.
 - member: Dan Hoemke
   name: Dan Hoemke
   position: VP Value Based Health Management Solutions
@@ -92,9 +148,22 @@
     Delegate to the Concourse International Learning Summit. He in addition to active
     participation in numerous industry associations, Dan serves as Executive Mentor
     to the Entrepreneurship & Innovation Group at Arizona State University.
+- member: Dianna Wilusz
+  name: Dianna Wilusz
+  position: Director of Human Resources
+  image: "/assets/images/team/diannawilusz-thumb.jpg"
+  thumbnail: "/assets/images/team/diannawilusz-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/diannawilusz/
+  department: management
+  specialty: general
+  id: f29375
+  bio: |2-
+
+    Dianna has over 25 years human resources management and operations experience, and has worked with across industries around the world in the areas of compensation, leadership development, recruiting, talent management, and human resources information systems. Prior to joining BaseHealth, she held senior global leadership roles at National Semiconductor, was Vice President of Operations and HR at Hara Software, Director of HR at Beceem Communications, and Managing Director of HR Operations at Lam Research. She is a founding partner of The Pendolino Group.
+    Dianna has a Bachelor degree in Psychology from the University of Maryland and an MBA in Technology Management. Dianna is a board advisor to several for-profit and not-for-profit organizations.
 - member: Ronald W. Davis, Ph.D.
   name: Ronald W. Davis, Ph.D.
-  position: DIRECTOR OF THE STANFORD GENOME TECHNOLOGY CENTER, STANFORD UNIVERSITY
+  position: ''
   image: "/assets/images/team/ronalddavis-thumb.jpg"
   thumbnail: "/assets/images/team/ronalddavis-thumb.jpg"
   linkedin_url: https://www.linkedin.com/in/ron-davis-56a34852
@@ -110,3 +179,121 @@
     Committee and was chairman of the World Health Organization Strategic Research
     Steering Committee. Dr. Davis brings unique thought leadership to BaseHealth and
     guides the team on new developments in the field of genomic science and technology.
+- member: Nancy Pedersen, Ph.D.
+  name: Nancy Pedersen, Ph.D.
+  position: ''
+  image: "/assets/images/team/nancy-thumb.jpg"
+  thumbnail: "/assets/images/team/nancy-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/nancy-pedersen-1a436834
+  department: advisor
+  specialty: scientific
+  id: 1299
+  bio: |-
+    Dr. Nancy Pedersen is the Vice Dean of Research at Karolinska Institute, Sweden’s only medical university and one of Europe’s most prestigious.
+    Prior to serving as Vice Dean at the Karolinska Institute, Dr. Pederson was the Director of the Swedish Twin Registry, the largest twin registry in the world. As the principal investigator of the Swedish Adoption/Twin Study of Aging and the Study of Dementia in Swedish Twins, she has made important breakthroughs in our understanding of how genetic influences affect the onset and severity of Alzheimer’s and other chronic diseases of the elderly.
+    Dr. Pedersen advises BaseHealth in the development of the integrated health management platform for preventing disease in patients with genetic risk.
+- member: Keyan Salari, MD, Ph.D.
+  position: ''
+  image: "/assets/images/team/keyan_salari-thumb.jpg"
+  thumbnail: "/assets/images/team/keyan_salari-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/keyansalari/
+  department: advisor
+  id: q31957
+  name: Keyan Salari, MD, Ph.D.
+  specialty: scientific
+  bio: |-
+    Dr. Salari is a resident at the Harvard Program in Urologic Surgery at the Massachusetts General Hospital and a Clinical Fellow in Surgery at Harvard Medical School.
+    He is also a postdoctoral cancer genomics researcher at the Broad Institute, where his research focuses on characterizing cancer genomes using high-throughput genomic technologies with the goal of translating novel findings to improved diagnostics, prognostication, and treatment strategies for cancer patients..
+    Dr. Salari is a graduate of the Medical Scientist Training Program at the Stanford School of Medicine, where he earned an M.D. and Ph.D. in Genetics. While at the Stanford, Dr. Salari developed a first-of-its-kind course on genomics and personalized medicine, where students have the opportunity to undergo personal genome testing as a part of the curriculum.
+    He is a founding member of BaseHealth and serves as a key advisor to the science team.
+- member: 'Sean P. David, MD, D. Phil. '
+  name: 'Sean P. David, MD, D. Phil. '
+  position: ''
+  image: "/assets/images/team/sean_david-thumb.jpg"
+  thumbnail: "/assets/images/team/sean_david-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/sean-p-david-1260657/
+  department: advisor
+  specialty: medical
+  id: 998687
+  bio: |-
+    Dr. Sean David is an associate professor of medicine at the Stanford University School of Medicine and a pioneer in the emerging field of pharmacogenics — a field that studies how genetic variations affect an individual’s response to drugs and the use of genomic techniques to discover new drugs. Dr. David’s research encompasses a collaborative, transdisciplinary initiative to translate molecular insights to genomically-tailored and patient-centered personalized medicine.
+    Dr. David advises BaseHealth on pharmacogenomics, drug interactions, and internal medicine. He has also enrolled in the Genophen physician network and will provide advice to Genophen members.
+- member: Florence Comite, MD
+  name: Florence Comite, MD
+  position: ''
+  image: "/assets/images/team/florence_comite-thumb.jpg"
+  thumbnail: "/assets/images/team/florence_comite-thumb.jpg"
+  department: advisor
+  specialty: medical
+  id: 9235798
+  bio: 'Dr. Comite is a leader in the field of Precision Medicine and graduate of
+    Yale University School of Medicine where she taught for 25 years as an associate
+    clinical professor. An endocrinologist with multidisciplinary training in Internal
+    Medicine, Pediatrics, Gynecology and Andrology, she employs genomics, metabolomics,
+    proteomics and other diagnostic measures to detect, prevent and reverse disease
+    at the cellular level. Additionally, Dr. Comite has conducted seminal clinical
+    research at Yale and the National Institutes of Health in Reproductive Endocrinology
+    and Metabolism. Dr. Comite is the CEO and founder of a Precision Medicine practice
+    in New York City where she works with clients worldwide. She is currently developing
+    a digital platform that will provide Precision Medicine access for employers and
+    employees nationwide. Her work in Precision Medicine has been featured in the
+    New York Times, Yahoo! and Prevention, and she has authored articles on Precision
+    Medicine, digital health and genomics for CNBC, VentureBeat, MarketWatch and Newsweek,
+    among others. Dr. Comite also wrote the Amazon best-seller on men''s health, Keep
+    It Up: The Power of Precision Medicine to Conquer Low T and Revitalize Your Life
+    (Rodale 2013), the first book to be published for the mass market on the subject
+    of Precision Medicine.'
+  linkedin_url: https://www.linkedin.com/in/florence-comite-260a041b/
+- member: Richard Lee, MD
+  name: Richard Lee, MD
+  position: ''
+  image: "/assets/images/team/richard_lee-thumb.jpg"
+  thumbnail: "/assets/images/team/richard_lee-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/richard-lee-1711b11
+  department: advisor
+  specialty: medical
+  id: 23905723
+  bio: |-
+    Richard Lee M.D. is a family physician who has been practicing in Palo Alto for over 20 years. For the last 5 years, Dr. Lee has been gathering and interpreting genomic information for his patients in order to significantly modify disease risk that may be present due to genetic variations by educating them on medical interventions and lifestyle management.
+    Dr. Lee advocates for sophisticated data only when it can be interpreted in a manner that patients can understand and use to reduce their health risk and better their lives. Dr. Lee’s philosophy is “it’s not your genes is what to do with them”, and he is an expert at guiding patients through the process of improving their lives by making the best of that which makes them unique. He is the seventh physician in a family spanning 3 generations of medical service. His grandfather, Dr. Russel V. Lee, founded the Palo Alto Medical Clinic and the Palo Alto Medical Foundation.
+- member: Emin Martinian
+  name: Emin Martinian
+  position: ''
+  image: "/assets/images/team/eminmartinian.jpg"
+  thumbnail: "/assets/images/team/eminmartinian.jpg"
+  linkedin_url: https://www.linkedin.com/in/emin-martinian-5497381/
+  department: advisor
+  specialty: technical
+  id: 22093572
+  bio: |-
+    Emin Martinian has two decades of experience in predictive analytics, software engineering, and data science. He enjoys finding creative solutions to complex problems in machine learning, data compression, prediction, optimization, health, and finance.
+    Emin received his B.S. from UC Berkeley and M.S. and Ph.D degrees from the Massachusetts Institute of Technology all in electrical engineering and computer science. He has published over 30 articles in peer reviewed journals, conferences, and international standards, is an inventor on over 15 granted patents, and has received numerous awards for his research and academic work.
+    Emin is currently the founder and CEO of AOCKS LLC, a provider of analysis, optimization, computing, and knowledge services to companies in finance, software, and medicine. Previously, he spent almost a decade at Bain Capital in a number of roles including trading, investment, research, and technology. In addition to trading interest rates, currencies, commodities, and stock index futures, Emin also led initial development of the software for global macro investing and risk management. Before joining Bain Capital, Emin worked with a number of technology start-ups, research labs, and universities.
+- member: Afasneh Naimollah
+  name: Afasneh Naimollah
+  position: ''
+  image: "/assets/images/team/afsaneh-thumb.jpg"
+  thumbnail: "/assets/images/team/afsaneh-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/afsaneh-naimollah-44a120/
+  department: advisor
+  specialty: business
+  id: 23058203
+  bio: |-
+    Ms. Naimollah is an accomplished global technology and healthcare IT executive and investment banker. She has advised many technology and healthcare companies on their corporate strategy, alliances, M&A, cross-border transactions and debt/capital raise. She has experience in working in start up as well as large corporate environments. Afsaneh holds a Masters in International Finance from the University of Wisconsin, Madison and has completed her post graduate studies at Northwestern University. For ten years, she was Global Head of Technology Group at Barclays Capital. She is a former Board Member of ON2 Technologies, a publicly traded technology company, which was acquired by Google.
+    In addition to public speaking at industry conferences, Afsaneh is the senior editor of Marlin's HITs "Greatest Hits" newsletter which is widely read by industry executives. Here is a link to her publication
+    Ms. Naimollah advises BaseHealth on channel strategy and partnerships.
+- member: Mostafa Ronaghi, Ph.D.
+  name: Mostafa Ronaghi, Ph.D.
+  position: SENIOR VICE PRESIDENT & CTO ILLUMINA, INC.
+  image: "/assets/images/team/mostafa_ronaghi-thumb.jpg"
+  thumbnail: "/assets/images/team/mostafa_ronaghi-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/mostafa-ronaghi-505440/
+  department: board of directors
+  specialty: general
+  id: 203750892375
+  bio: |2-
+
+    Mostafa Ronaghi, Ph.D., joined Illumina in August 2008 and is responsible for leading internal research and the Illumina accelerator program.
+    Mostafa is an experienced entrepreneur and was involved in the start-up of four life sciences companies. In 2007, Mostafa co-founded Avantome, a privately held sequencing company (acquired by Illumina in 2008). Before this, he co-founded NextBio, a search engine for life science data (acquired by Illumina in 2013). In 2001, Mostafa co-founded ParAllele Bioscience, which was eventually acquired by Affymetrix, Inc., and was involved in the development and commercialization of highly multiplexed technology for genetic testing. In 1997, he co-founded Pyrosequencing AB, which was renamed to Biotage in 2003, and led the company to a successful initial public offering in June 2000 on the Stockholm Stock Exchange.
+    Mostafa was a principal investigator at Stanford University from 2002­ until 2008 and focused on the development of novel tools for molecular diagnostic applications. He serves on the board of directors of Aurora Algae and BaseHealth.
+    Mostafa earned his Ph.D. from the Royal Institute of Technology in Sweden. He holds more than 50 pending and issued patents and has written more than 70 peer-reviewed publications in journals and books.
