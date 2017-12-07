@@ -1,18 +1,18 @@
 $( document ).ready(function() {
     var news_posts = $('.news-post');
 
-    if (news_posts.length == 0) {
+    if (news_posts.length < 4) {
         $('#news-show-more').hide();
     }
 
-    if (news_posts.length > 4 || press_posts.length <= 4) {
+    if (news_posts.length > 4 || news_posts.length <= 4) {
         var hide = news_posts.slice(4, news_posts.length);
         hide.hide();
     }
 
     var press_posts = $('.press-post');
 
-    if (press_posts.length == 0 || press_posts.length <= 4) {
+    if (press_posts.length < 4 || press_posts.length <= 4) {
         $('#press-show-more').hide();
     }
 
@@ -23,7 +23,7 @@ $( document ).ready(function() {
 
     var events_posts = $('.events-post');
 
-    if (events_posts.length == 0 || events_posts.length <= 4) {
+    if (events_posts.length < 4 || events_posts.length <= 4) {
         $('#events-show-more').hide();
     }
 

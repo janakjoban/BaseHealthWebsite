@@ -64,6 +64,50 @@ h3 {
   font-weight:600;
 }
 
+.content-document-post {
+  article {
+    padding-bottom:$indent*4;
+  }
+  h3 {
+    font-size:$fnt-body-size*2;
+    line-height:$fnt-body-size*2+10px;
+    color:$clr-ocean;
+    font-weight:600;
+    padding-top:$indent;
+    margin-top:$indent;
+    position:relative;
+    padding-bottom:$indent/2;
+    &:before {
+      position:absolute;
+      content:'';
+      left:0;
+      top:0;
+      width:90px;
+      height:1px;
+      background-color:$clr-ocean;
+    }
+  }
+  h2 {
+    font-size:$fnt-body-size*3.5;
+    line-height:1.1;
+    color:$clr-ocean;
+    font-weight:600;
+    padding-top:$indent;
+    margin-top:$indent;
+    position:relative;
+    padding-bottom:$indent/2;
+    &:before {
+      position:absolute;
+      content:'';
+      left:0;
+      top:0;
+      width:90px;
+      height:1px;
+      background-color:$clr-ocean;
+    }
+  }
+}
+
 .head__quote {
   font-style:italic;
   color:lighten($clr-gunmetal,30%);
