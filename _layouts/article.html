@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+{% include lmnt-head.html %}
+<body id="pageBody">
+  <main id="pageBody" class="wrapper">
+    {% if site.data.event-bar.display == true %}
+      {% include event-bar.html %}
+    {% endif %}
+    {% include lmnt-nav.html %}
+    {{ content }}
+    {% include lmnt-footer.html %}
+  </main>
+  <script src="{{site.baseurl}}/js/functions.js"></script>
+    <script src="{{site.baseurl}}/js/jquery-visible.min.js"></script>
+</body>
+</html>
