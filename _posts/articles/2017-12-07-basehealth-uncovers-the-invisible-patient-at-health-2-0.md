@@ -3,7 +3,7 @@ title: BaseHealth Uncovers the "Invisible Patient" at Health 2.0
 layout: article
 date: 2017-12-07 00:00:00 +0000
 description: Tamara StClaire named Chief Operating Officer and Dr. Nick van Terheyden
-  to serve as Chief Medical Officer
+  to serve as Chief Medical Officer...
 author: Erin Isselmann
 subhead: Tamara StClaire named Chief Operating Officer and Dr. Nick van Terheyden
   to serve as Chief Medical Officer.
