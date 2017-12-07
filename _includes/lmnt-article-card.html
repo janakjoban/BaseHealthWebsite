@@ -11,7 +11,7 @@
     {{ article.author }}
   </span>
   <p class="news-excerpt"> <!-- news-excerpt -->
-    {{ article.excerpt }}
+    <b>{{ article.date | date: "%B %e, %Y" }}</b> - {{ article.excerpt }}
   </p>
   {% if article.external-button-url != '' %}
   <span class="news-button">

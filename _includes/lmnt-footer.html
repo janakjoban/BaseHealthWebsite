@@ -1,15 +1,42 @@
+{% if include.config %}
 <section class="foot-cta foot-events-active-cta">
   <div class="foot-cta__upper-corner foot-cta__upper-corner--white"></div>
   <div class="foot-cta__lower-corner"></div>
   <div class="content">
-    <h2>Operate Proactively.<br />
-    Effectively Measure Risk.<br />
-    Manage Liability Exposure.</h2>
+    {% if include.headline %}
+      <h2>{{ include.headline }}</h2>
+    {% endif %}
+    {% if include.url %}
+    <a href="{{ site.baseurl }}{{ include.url }}" class="btn-cta btn-outline__white">
+      {{ include.button-label }}
+    </a>
+    {% endif %}
+  </div>
+</section>
+{% else %}
+<section class="foot-cta foot-events-active-cta">
+  <div class="foot-cta__upper-corner foot-cta__upper-corner--white"></div>
+  <div class="foot-cta__lower-corner"></div>
+  <div class="content">
+    {% if page.footer-headline %}
+      <h2>{{ page.footer-headline }}</h2>
+    {% else %}
+      <h2>Operate Proactively.<br />
+      Effectively Measure Risk.<br />
+      Manage Liability Exposure.</h2>
+    {% endif %}
+    {% if page.footer-url %}
+    <a href="{{ site.baseurl }}{{ page.footer-url }}" class="btn-cta btn-outline__white">
+      {{ page.footer-button-label }}
+    </a>
+    {% else %}
     <a href="{{site.baseurl}}/contact.html" class="btn-cta btn-outline__white">
       Schedule an Assessment
     </a>
+    {% endif %}
   </div>
 </section>
+{% endif %}
 
 <footer class="foot-events-active">
   <div class="content">
