@@ -7,7 +7,7 @@ author: sdfkjsdfjhsdfjhsdfjk
 excerpt: sdkjsdgkjsdgjksdgjksdgkjsd
 external-button-url: https://google.com/
 external-button-label: View Article
-layout: ''
+layout: 'article'
 categories:
 - press
 ---
