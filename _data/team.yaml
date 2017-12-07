@@ -1,19 +1,17 @@
 ---
-- member: Mostafa Ronaghi, Ph.D.
-  name: Mostafa Ronaghi, Ph.D.
-  position: SENIOR VICE PRESIDENT & CTO ILLUMINA, INC.
-  image: "/assets/images/team/mostafa_ronaghi-thumb.jpg"
-  thumbnail: "/assets/images/team/mostafa_ronaghi-thumb.jpg"
-  linkedin_url: ''
-  department: board of directors
-  specialty: general
-  id: 203750892375
-  bio: |2-
-
-    Mostafa Ronaghi, Ph.D., joined Illumina in August 2008 and is responsible for leading internal research and the Illumina accelerator program.
-    Mostafa is an experienced entrepreneur and was involved in the start-up of four life sciences companies. In 2007, Mostafa co-founded Avantome, a privately held sequencing company (acquired by Illumina in 2008). Before this, he co-founded NextBio, a search engine for life science data (acquired by Illumina in 2013). In 2001, Mostafa co-founded ParAllele Bioscience, which was eventually acquired by Affymetrix, Inc., and was involved in the development and commercialization of highly multiplexed technology for genetic testing. In 1997, he co-founded Pyrosequencing AB, which was renamed to Biotage in 2003, and led the company to a successful initial public offering in June 2000 on the Stockholm Stock Exchange.
-    Mostafa was a principal investigator at Stanford University from 2002­ until 2008 and focused on the development of novel tools for molecular diagnostic applications. He serves on the board of directors of Aurora Algae and BaseHealth.
-    Mostafa earned his Ph.D. from the Royal Institute of Technology in Sweden. He holds more than 50 pending and issued patents and has written more than 70 peer-reviewed publications in journals and books.
+- member: Afasneh Naimollah
+  name: Afasneh Naimollah
+  position: ''
+  image: "/assets/images/team/afsaneh-thumb.jpg"
+  thumbnail: "/assets/images/team/afsaneh-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/afsaneh-naimollah-44a120/
+  department: advisor
+  specialty: business
+  id: 23058203
+  bio: |-
+    Ms. Naimollah is an accomplished global technology and healthcare IT executive and investment banker. She has advised many technology and healthcare companies on their corporate strategy, alliances, M&A, cross-border transactions and debt/capital raise. She has experience in working in start up as well as large corporate environments. Afsaneh holds a Masters in International Finance from the University of Wisconsin, Madison and has completed her post graduate studies at Northwestern University. For ten years, she was Global Head of Technology Group at Barclays Capital. She is a former Board Member of ON2 Technologies, a publicly traded technology company, which was acquired by Google.
+    In addition to public speaking at industry conferences, Afsaneh is the senior editor of Marlin's HITs "Greatest Hits" newsletter which is widely read by industry executives. Here is a link to her publication
+    Ms. Naimollah advises BaseHealth on channel strategy and partnerships.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
@@ -268,3 +266,18 @@
     Emin Martinian has two decades of experience in predictive analytics, software engineering, and data science. He enjoys finding creative solutions to complex problems in machine learning, data compression, prediction, optimization, health, and finance.
     Emin received his B.S. from UC Berkeley and M.S. and Ph.D degrees from the Massachusetts Institute of Technology all in electrical engineering and computer science. He has published over 30 articles in peer reviewed journals, conferences, and international standards, is an inventor on over 15 granted patents, and has received numerous awards for his research and academic work.
     Emin is currently the founder and CEO of AOCKS LLC, a provider of analysis, optimization, computing, and knowledge services to companies in finance, software, and medicine. Previously, he spent almost a decade at Bain Capital in a number of roles including trading, investment, research, and technology. In addition to trading interest rates, currencies, commodities, and stock index futures, Emin also led initial development of the software for global macro investing and risk management. Before joining Bain Capital, Emin worked with a number of technology start-ups, research labs, and universities.
+- member: Mostafa Ronaghi, Ph.D.
+  name: Mostafa Ronaghi, Ph.D.
+  position: SENIOR VICE PRESIDENT & CTO ILLUMINA, INC.
+  image: "/assets/images/team/mostafa_ronaghi-thumb.jpg"
+  thumbnail: "/assets/images/team/mostafa_ronaghi-thumb.jpg"
+  linkedin_url: ''
+  department: board of directors
+  specialty: general
+  id: 203750892375
+  bio: |2-
+
+    Mostafa Ronaghi, Ph.D., joined Illumina in August 2008 and is responsible for leading internal research and the Illumina accelerator program.
+    Mostafa is an experienced entrepreneur and was involved in the start-up of four life sciences companies. In 2007, Mostafa co-founded Avantome, a privately held sequencing company (acquired by Illumina in 2008). Before this, he co-founded NextBio, a search engine for life science data (acquired by Illumina in 2013). In 2001, Mostafa co-founded ParAllele Bioscience, which was eventually acquired by Affymetrix, Inc., and was involved in the development and commercialization of highly multiplexed technology for genetic testing. In 1997, he co-founded Pyrosequencing AB, which was renamed to Biotage in 2003, and led the company to a successful initial public offering in June 2000 on the Stockholm Stock Exchange.
+    Mostafa was a principal investigator at Stanford University from 2002­ until 2008 and focused on the development of novel tools for molecular diagnostic applications. He serves on the board of directors of Aurora Algae and BaseHealth.
+    Mostafa earned his Ph.D. from the Royal Institute of Technology in Sweden. He holds more than 50 pending and issued patents and has written more than 70 peer-reviewed publications in journals and books.
