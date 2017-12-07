@@ -1,14 +1,16 @@
 ---
-- member: Sean P. David, MD
-  name: ''
+- member: 'Sean P. David, MD, D. Phil. '
+  name: 'Sean P. David, MD, D. Phil. '
   position: ''
-  image: ''
-  thumbnail: ''
-  linkedin_url: ''
-  department: ''
-  specialty: ''
-  id: ''
-  bio: ''
+  image: "/assets/images/team/sean_david-thumb.jpg"
+  thumbnail: "/assets/images/team/sean_david-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/sean-p-david-1260657/
+  department: advisor
+  specialty: scientific
+  id: 998687
+  bio: |-
+    Dr. Sean David is an associate professor of medicine at the Stanford University School of Medicine and a pioneer in the emerging field of pharmacogenics — a field that studies how genetic variations affect an individual’s response to drugs and the use of genomic techniques to discover new drugs. Dr. David’s research encompasses a collaborative, transdisciplinary initiative to translate molecular insights to genomically-tailored and patient-centered personalized medicine.
+    Dr. David advises BaseHealth on pharmacogenomics, drug interactions, and internal medicine. He has also enrolled in the Genophen physician network and will provide advice to Genophen members.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
