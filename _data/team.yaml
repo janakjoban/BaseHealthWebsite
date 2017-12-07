@@ -1,17 +1,4 @@
 ---
-- member: Saeid Akhtari
-  name: Saeid Akhtari
-  position: Managing Director at HBM Genomics
-  image: "/assets/images/team/saeid_akhtari-thumb.jpg"
-  thumbnail: "/assets/images/team/saeid_akhtari-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/akhtari
-  department: board of directors
-  specialty: general
-  id: 7349342057
-  bio: |-
-    Saeid has more than 25 years of experience as an entrepreneur building successful genomics companies from scratch. He is the Managing Director at HBM Genomics investing in world-class entrepreneurs in seed and early stage startups.
-    Saeid was the founder, President & CEO of NextBio which was acquired by Illumina in 2013. Prior to founding NextBio, he was the President & CEO of Silicon Genetics which was acquired by Agilent in 2004. Mr. Akhtari has also held executive management positions at several other life sciences companies.
-    Saeid holds a bachelor’s degree in Engineering and an MBA.
 - member: Jason Pyle, MD, Ph.D.
   name: Jason Pyle, MD, Ph.D.
   position: Chief Executive Officer
@@ -342,3 +329,16 @@
     Prakash has always been intrigued by the promise of data-driven medical care, particularly its role in prevention. He joined BaseHealth in March 2013.
 
     Prakash holds a bachelor’s degree in Engineering and a master’s degree in business.
+- member: Saeid Akhtari
+  name: Saeid Akhtari
+  position: Managing Director at HBM Genomics
+  image: "/assets/images/team/saeid_akhtari-thumb.jpg"
+  thumbnail: "/assets/images/team/saeid_akhtari-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/akhtari
+  department: board of directors
+  specialty: general
+  id: 7349342057
+  bio: |-
+    Saeid has more than 25 years of experience as an entrepreneur building successful genomics companies from scratch. He is the Managing Director at HBM Genomics investing in world-class entrepreneurs in seed and early stage startups.
+    Saeid was the founder, President & CEO of NextBio which was acquired by Illumina in 2013. Prior to founding NextBio, he was the President & CEO of Silicon Genetics which was acquired by Agilent in 2004. Mr. Akhtari has also held executive management positions at several other life sciences companies.
+    Saeid holds a bachelor’s degree in Engineering and an MBA.
