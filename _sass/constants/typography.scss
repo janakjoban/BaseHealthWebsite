@@ -123,6 +123,9 @@ h3 {
     font-size:$fnt-body-size*1.5 !important;
     line-height:1.5 !important;
   }
+  img {
+    max-width:100%;
+  }
 }
 
 .head__quote {
