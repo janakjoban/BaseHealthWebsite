@@ -1,7 +1,7 @@
 ---
 title: Meeko is My Hero
 layout: article
-date: 2017-12-07 00:00:00 +0000
+date: 2017-12-06 09:04:51 -0800
 description: 'Meeko is top dog, dawgy dogggggggggg! '
 subhead: Brought to you by Jason Pyle
 author: Peter Laxalt
