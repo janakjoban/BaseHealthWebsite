@@ -13,8 +13,7 @@ external-button-url: ''
 categories:
 - news
 ---
-**  
-Sunnyvale, California: Oct. 18, 2017** – [BaseHealth](http://www.basehealth.com/), the creator of the first predictive, evidence-based, and data-driven population health management solution, today announced that it has received an overall investment of $8.5 million, including $2.5 million from lead investor [HBM Healthcare Investments](http://www.basehealth.com/posts/www.hbmhealthcare.com/en/unternehmen/profil.php) (SIX HBMN), a listed healthcare investment company with net assets over $1 billion.
+[BaseHealth](http://www.basehealth.com/), the creator of the first predictive, evidence-based, and data-driven population health management solution, today announced that it has received an overall investment of $8.5 million, including $2.5 million from lead investor [HBM Healthcare Investments](http://www.basehealth.com/posts/www.hbmhealthcare.com/en/unternehmen/profil.php) (SIX HBMN), a listed healthcare investment company with net assets over $1 billion.
 
 The investment will be used to further develop BaseHealth’s analytics engine, which is based on peer-reviewed medical literature, curated by physicians and scientists, and enhanced with laboratory, biometric, social, family history and behavioral data. BaseHealth supplements this with retrospective claims and ICD data. The data is then passed through the analytics engine, which uses machine learning and artificial intelligence (AI) to assess patient risk for 43 possible disease threats.
 
