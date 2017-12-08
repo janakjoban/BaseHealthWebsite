@@ -25,7 +25,7 @@ HBM Healthcare Investments has a track-record of over 100 biopharma and healthca
 
 “We look for companies that are at an advanced stage of development, that are closely tracked and actively guided on their strategic direction. We see a lot of potential in the BaseHealth model in addressing improvements in patient care and controlling costs in the healthcare system,” said Dr. Andreas Wicki, CEO, HBM Healthcare Investments.
 
-### **About BaseHealth**
+### About BaseHealth
 
 BaseHealth is the comprehensive predictive analytics company for population health management. The company’s proprietary platform leverages machine learning to sift through millions of medical journals and patient records curated by scientists and physicians to offer healthcare providers the ability to identify patients with underlying risks for 43 chronic diseases and prevent costly treatments before they’re needed. At BaseHealth, we take the guesswork out of risk and population health management and put science in the driver’s seat.
 
