@@ -11,9 +11,7 @@ excerpt: The genomics industry has tremendous potential to move the needle in he
   Delivering on the promise of genomics depends on three main factors—many of which
   are within the purview of digital health.
 author: Lauren Devos
-subhead: The genomics industry has tremendous potential to move the needle in health.
-  Delivering on the promise of genomics depends on three main factors—many of which
-  are within the purview of digital health.
+subhead: Rockhealth
 external-button-label: ''
 categories:
 - press
