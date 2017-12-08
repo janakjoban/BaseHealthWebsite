@@ -15,11 +15,7 @@ external-button-url: ''
 categories:
 - news
 ---
-# **BaseHealth Uncovers the “Invisible Patient” at Health 2.0**
-
-Tamara StClaire named Chief Operating Officer and Dr. Nick van Terheyden to serve as Chief Medical Officer
-
-**Santa Clara, California: Oct. 2, 2017** - [BaseHealth](http://www.basehealth.com/), the creator of the first predictive, evidence-based, and data-driven population health management solution, will demonstrate its analytic platform and highlight the concept of the [#InvisiblePatient](https://twitter.com/hashtag/InvisiblePatient?src=hash) at the [11th Annual Health 2.0 Fall Conference](http://health2con.com/) taking place this week in Santa Clara, Calif.
+[BaseHealth](http://www.basehealth.com/), the creator of the first predictive, evidence-based, and data-driven population health management solution, will demonstrate its analytic platform and highlight the concept of the [#InvisiblePatient](https://twitter.com/hashtag/InvisiblePatient?src=hash) at the [11th Annual Health 2.0 Fall Conference](http://health2con.com/) taking place this week in Santa Clara, Calif.
 
 The company also announced the appointments of Tamara StClaire ([@drstclaire](https://twitter.com/drstclaire)) as Chief Operating Officer and Dr. Nick van Terheyden ([@drnic1](https://twitter.com/drnic1)) as Chief Medical Officer. These strategic additions to the executive team build on recent momentum at the company.
 
@@ -33,9 +29,13 @@ At Health 2.0, BaseHealth is also launching an [#InvisiblePatient](https://twit
 
 ### StClaire and van Terheyden Appointments
 
-![](http://www.basehealth.com/images/posts/10-1-17-tamara.png) . Previously the Chief Innovation Officer for Xerox Healthcare, **StClaire** joins BaseHealth with experience under her belt from a number of healthcare companies, including Roche Diagnostics and Abbott Laboratories. She will lead sales, marketing, and business development efforts at BaseHealth, with a goal of challenging the status quo in healthcare and encouraging providers, accountable care organizations, and payers alike to focus on patient-driven care to not only save lives, but also reduce spend in the push toward value-based care.
+![](http://www.basehealth.com/images/posts/10-1-17-tamara.png) 
 
-![](http://www.basehealth.com/images/posts/10-1-17-van.png)  **Van Terheyden** comes to BaseHealth following a role as Chief Medical Officer at Dell. He brings a distinctive blend of medical practitioner and business strategist, both national and international, to the realm of healthcare technology. At BaseHealth, van Terheyden will bring the physician perspective, helping the company bring practical solutions to market that always keep an eye first and foremost on the patient. [Learn more about our team.](http://www.basehealth.com/about.html)
+Previously the Chief Innovation Officer for Xerox Healthcare, **StClaire** joins BaseHealth with experience under her belt from a number of healthcare companies, including Roche Diagnostics and Abbott Laboratories. She will lead sales, marketing, and business development efforts at BaseHealth, with a goal of challenging the status quo in healthcare and encouraging providers, accountable care organizations, and payers alike to focus on patient-driven care to not only save lives, but also reduce spend in the push toward value-based care.
+
+![](http://www.basehealth.com/images/posts/10-1-17-van.png)  
+
+**Van Terheyden** comes to BaseHealth following a role as Chief Medical Officer at Dell. He brings a distinctive blend of medical practitioner and business strategist, both national and international, to the realm of healthcare technology. At BaseHealth, van Terheyden will bring the physician perspective, helping the company bring practical solutions to market that always keep an eye first and foremost on the patient. [Learn more about our team.](http://www.basehealth.com/about.html)
 
 ### About BaseHealth
 
