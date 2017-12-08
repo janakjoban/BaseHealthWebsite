@@ -3,7 +3,7 @@ title: BaseHealth Uncovers the "Invisible Patient" at Health 2.0
 layout: article
 date: 2017-10-01 12:10:45 +0000
 description: Tamara StClaire named Chief Operating Officer and Dr. Nick van Terheyden
-  to serve as Chief Medical Officer...
+  to serve as Chief Medical Officer.
 author: Erin Isselmann
 subhead: BaseHealth
 excerpt: " BaseHealth, the creator of the first predictive, evidence-based, and data-driven
@@ -27,13 +27,15 @@ In a demo session on [“Transforming Care & Insights Through Big Data & Analyt
 
 At Health 2.0, BaseHealth is also launching an [#InvisiblePatient](https://twitter.com/hashtag/InvisiblePatient?src=hash) social media campaign, encouraging both show attendees and others following via social media, to show their support for the invisible patient by tagging a selfie or sharing a related story with the [#InvisiblePatient](https://twitter.com/hashtag/InvisiblePatient?src=hash) hashtag on Twitter or posting with the hashtag to the [BaseHealth Facebook page.](https://www.facebook.com/BasehealthInc/)
 
-### StClaire and van Terheyden Appointments
+### Tamara StClaire
 
-![](http://www.basehealth.com/images/posts/10-1-17-tamara.png) 
+![](http://www.basehealth.com/images/posts/10-1-17-tamara.png)
 
 Previously the Chief Innovation Officer for Xerox Healthcare, **StClaire** joins BaseHealth with experience under her belt from a number of healthcare companies, including Roche Diagnostics and Abbott Laboratories. She will lead sales, marketing, and business development efforts at BaseHealth, with a goal of challenging the status quo in healthcare and encouraging providers, accountable care organizations, and payers alike to focus on patient-driven care to not only save lives, but also reduce spend in the push toward value-based care.
 
-![](http://www.basehealth.com/images/posts/10-1-17-van.png)  
+### Nick van Terheyden
+
+![](http://www.basehealth.com/images/posts/10-1-17-van.png)
 
 **Van Terheyden** comes to BaseHealth following a role as Chief Medical Officer at Dell. He brings a distinctive blend of medical practitioner and business strategist, both national and international, to the realm of healthcare technology. At BaseHealth, van Terheyden will bring the physician perspective, helping the company bring practical solutions to market that always keep an eye first and foremost on the patient. [Learn more about our team.](http://www.basehealth.com/about.html)
 
