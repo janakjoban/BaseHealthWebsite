@@ -84,6 +84,7 @@
     left:50%;
     top: 50%;
     transform: translate(-50%,-50%); // ie fallback
+    pointer-events:none;
     @media (max-width:676px) {
       padding:0 $indent/2;
       margin-top:0;
@@ -103,6 +104,10 @@
       @media (max-width:676px) {
         padding:0 $content-spacing*3;
       }
+    }
+    .btn-cta {
+      pointer-events: auto !important;
+      cursor: auto !important;
     }
   }
 }
