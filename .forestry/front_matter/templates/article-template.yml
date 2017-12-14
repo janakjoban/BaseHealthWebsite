@@ -1,8 +1,9 @@
 ---
 pages:
+- _posts/evans-post.md
+- _posts/articles/2017-12-07-basehealth-raises-8-5-million-in-series-c-funding.md
 - _posts/example-post.md
 - _posts/articles/2017-12-07-basehealth-uncovers-the-invisible-patient-at-health-2-0.md
-- _posts/articles/2017-12-07-basehealth-raises-8-5-million-in-series-c-funding.md
 hide_body: false
 fields:
 - name: title
