@@ -1,4 +1,4 @@
-<li class="news-article{% if article.categories contains 'news' %} news-post{% else %}{% if article.categories contains 'press' %} press-post{% endif %}{% if article.categories contains 'events' %} events-post{% endif %}{% endif %}">
+<li class="news-article{% if article.categories contains 'news' %} news-post{% else %}{% if article.categories contains 'blogs' %} blogs-post{% endif %}{% endif %}">
   {% if article.subhead != '' %}
   <span class="news-subhead"> <!-- news-provider -->
     {{ article.subhead }}

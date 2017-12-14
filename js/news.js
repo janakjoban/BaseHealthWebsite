@@ -10,25 +10,14 @@ $( document ).ready(function() {
         hide.hide();
     }
 
-    var press_posts = $('.press-post');
+    var blogs_posts = $('.blogs-post');
 
-    if (press_posts.length < 4 || press_posts.length <= 4) {
-        $('#press-show-more').hide();
+    if (blogs_posts.length < 4 || blogs_posts.length <= 4) {
+        $('#blogs-show-more').hide();
     }
 
-    if (press_posts.length > 4) {
-        var hide = press_posts.slice(4, press_posts.length);
-        hide.hide();
-    }
-
-    var events_posts = $('.events-post');
-
-    if (events_posts.length < 4 || events_posts.length <= 4) {
-        $('#events-show-more').hide();
-    }
-
-    if (events_posts.length > 4) {
-        var hide = events_posts.slice(4, events_posts.length);
+    if (blogs_posts.length > 4) {
+        var hide = blogs_posts.slice(4, blogs_posts.length);
         hide.hide();
     }
 });
@@ -50,8 +39,8 @@ function showMoreNews() {
     }
 }
 
-function showMorePress() {
-    var hidden_posts = $('.press-post:hidden');
+function showMoreBlogs() {
+    var hidden_posts = $('.blogs-post:hidden');
 
     // show 4 at a time
     if (hidden_posts.length >= 4) {
@@ -62,24 +51,7 @@ function showMorePress() {
     }
 
     // hide the button if there are no more hidden posts
-    if ($('.press-post:hidden').length == 0) {
-        $('#press-show-more').hide();
-    }
-}
-
-function showMoreEvents() {
-    var hidden_posts = $('.events-post:hidden');
-
-    // show 4 at a time
-    if (hidden_posts.length >= 4) {
-        hidden_posts.slice(0, 4).show();
-    }
-    else {
-        hidden_posts.show();
-    }
-
-    // hide the button if there are no more hidden posts
-    if ($('.press-post:hidden').length == 0) {
-        $('#press-show-more').hide();
+    if ($('.blogs-post:hidden').length == 0) {
+        $('#blogs-show-more').hide();
     }
 }
