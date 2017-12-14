@@ -10,6 +10,13 @@
     {{ content }}
     {% include lmnt-footer.html %}
   </main>
+
+  {% if page.particles %}
+  <script src='http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js'></script>
+  <script src='http://threejs.org/examples/js/libs/stats.min.js'></script>
+  <script src="{{site.baseurl}}/js/particles-config.js"></script>
+  {% endif %}
+
   <script src="{{site.baseurl}}/js/functions.js"></script>
     <script src="{{site.baseurl}}/js/jquery-visible.min.js"></script>
 </body>
