@@ -2,7 +2,7 @@
 title: Study Reveals BaseHealth Risk Assessment Engine Superior at Type 2 Diabetes
   Prediction Compared to Standard Tools
 layout: article
-date: 2017-12-21 05:00:00 -0800
+date: 2018-01-04 05:00:00 -0800
 description: 'Today, BaseHealth, the creator of the first predictive, evidence-based,
   and data-driven population health management solution, announced a study recently
   published in PLOS ONE that found BaseHealth’s risk assessment engine is more specific
@@ -21,8 +21,6 @@ external-button-label: ''
 external-button-url: ''
 ---
 **SUNNYVALE, Calif., Jan. 4, 2018 –** Diabetes is a preventable disease, yet it’s the eighth leading cause of death worldwide, pointing to a critical need to mitigate disease risk before it occurs. Today, [BaseHealth](http://www.basehealth.com/), the creator of the first predictive, evidence-based, and data-driven population health management solution, announced a study recently published in [PLOS ONE](http://journals.plos.org/plosone/) that found BaseHealth’s risk assessment engine is more specific and sensitive than existing diabetes risk assessment tools, such as [Framingham](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/486842) and [Finnish](https://www.ncbi.nlm.nih.gov/pubmed/12610029) risk score. 
-
-    <br>
 
 For this first-of-its-kind study, researchers from BaseHealth and Lund University in Sweden used data on a cohort of 3,400 Swedish individuals. While none had Type 2 diabetes at the beginning of the study, researchers predicted which of the individuals would at the end of a 15-year span. Using the BaseHealth risk assessment engine, which integrates patients’ environmental and genetic risk factors to assess risk for 42 complex diseases including Type 2 diabetes, the accuracy of prediction in this cohort was 3 and 8 percent higher than the Framingham and the Finnish assessment respectively.(i)
 
