@@ -2,7 +2,7 @@
 title: Study Reveals BaseHealth Risk Assessment Engine Superior at Type 2 Diabetes
   Prediction Compared to Standard Tools
 layout: article
-date: 2018-01-04 05:00:00 -0800
+date: 2017-12-21 05:00:00 -0800
 description: 'Diabetes is a preventable disease, yet it’s the eighth leading cause
   of death worldwide, pointing to a critical need to mitigate disease risk before
   it occurs. Today, BaseHealth, the creator of the first predictive, evidence-based,
