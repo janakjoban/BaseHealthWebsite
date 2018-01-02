@@ -25,7 +25,7 @@ Accountable Care Organizations (ACOs) are putting a tremendous amount of energy 
 
 The real opportunity to hit the quadruple aims bullseye is found in the unknown, rising risk population. A group at BaseHealth we refer to as the “[Invisible Patient](https://medium.com/@basehealth/finding-the-invisible-patient-21c19e384cdc),” these individuals don’t have long, complicated claims histories. They look healthy on paper, but they are in fact at risk of disease and have a high risk of falling ill within the next 6–12 months.
 
-#### **ACOs’ three-legged stool**
+### **ACOs’ three-legged stool**
 
 So, if you’re an executive at an ACO who — like many others — is nervous about the risk your organization has taken on, where do you throw your darts? Think in terms of three parts — each of which are necessary for your value-based care program to stand upright.
 
