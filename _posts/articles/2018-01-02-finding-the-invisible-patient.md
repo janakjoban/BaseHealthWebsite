@@ -17,7 +17,7 @@ author: ''
 external-button-label: ''
 external-button-url: ''
 ---
-Delivering excellent patient care and controlling healthcare costs should not be an oxymoron. Given the unprecedented healthcare spending that is currently happening in this country, it’s hard to imagine a world where these two goals can coexist; however, there is hope.
+**Oct. 2, 2017 -** Delivering excellent patient care and controlling healthcare costs should not be an oxymoron. Given the unprecedented healthcare spending that is currently happening in this country, it’s hard to imagine a world where these two goals can coexist; however, there is hope.
 
 It’s a hope that gets me excited to go to work each morning. It’s knowing that we can tackle two of the country’s greatest challenges — reduce the per capita cost of healthcare and provide access and critical care needed to both improve our overall population’s health and improve the individual patient’s experience with the healthcare system.
 
