@@ -2,7 +2,7 @@
 title: Study Reveals BaseHealth Risk Assessment Engine Superior at Type 2 Diabetes
   Prediction Compared to Standard Tools
 layout: article
-date: 2018-01-01 05:00:00 -0800
+date: 2018-01-01 13:00:00 +0000
 description: 'Today, BaseHealth, the creator of the first predictive, evidence-based,
   and data-driven population health management solution, announced a study recently
   published in PLOS ONE that found BaseHealth’s risk assessment engine is more specific

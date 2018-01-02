@@ -1,7 +1,7 @@
 ---
 title: How Accountable Care Organizations Can Hit the Quadruple Aim Bullseye
 layout: article
-date: 2017-10-23 03:33:49 -0700
+date: 2017-10-23 10:33:49 +0000
 description: 'Accountable Care Organizations (ACOs) are putting a tremendous amount
   of energy into achieving the quadruple aim: bending the cost curve, improving clinical
   and care management outcomes and delivering a superior member/patient experience.

@@ -1,7 +1,7 @@
 ---
 title: 'Dr. Nick van Terheyden: Why I Joined BaseHealth'
 layout: article
-date: 2017-10-05 03:14:54 -0700
+date: 2017-10-05 10:14:54 +0000
 description: Whether it be as a practicing physician where I saw patients daily, to
   numerous opportunities working in both healthcare and computing with consulting
   firms and technology companies — the patient comes first. That, along with the admiration

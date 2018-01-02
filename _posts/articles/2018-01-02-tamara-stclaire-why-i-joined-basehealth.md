@@ -1,7 +1,7 @@
 ---
 title: 'Tamara StClaire: Why I Joined BaseHealth'
 layout: article
-date: 2017-10-10 03:26:34 -0700
+date: 2017-10-10 10:26:34 +0000
 description: Over the course of my career I’ve worked at both large companies and
   startups, and BaseHealth is at that startup phase that I consider my sweet spot.
   I enjoy growing an organization, taking something that’s working well and figuring

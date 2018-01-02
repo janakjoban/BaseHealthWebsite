@@ -1,7 +1,7 @@
 ---
 title: Example Post
 layout: article
-date: 2017-12-27 16:00:00 -0800
+date: 2017-12-28 00:00:00 +0000
 description: test
 excerpt: test
 categories:
