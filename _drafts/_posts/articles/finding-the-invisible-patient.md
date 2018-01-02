@@ -1,7 +1,7 @@
 ---
 title: Finding the Invisible Patient
 layout: article
-date: 2018-01-02 00:00:00 +0000
+date: 2017-10-02 02:51:52 -0700
 description: Delivering excellent patient care and controlling healthcare costs should
   not be an oxymoron. Given the unprecedented healthcare spending that is currently
   happening in this country, it’s hard to imagine a world where these two goals can
