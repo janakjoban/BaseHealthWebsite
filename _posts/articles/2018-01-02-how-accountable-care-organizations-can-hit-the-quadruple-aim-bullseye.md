@@ -17,7 +17,7 @@ author: ''
 external-button-label: ''
 external-button-url: ''
 ---
-The train has left the station and there’s no point looking back at a pre-value-based care world.
+**October 23, 2017** — The train has left the station and there’s no point looking back at a pre-value-based care world.
 
 Accountable Care Organizations (ACOs) are putting a tremendous amount of energy into achieving the quadruple aim: bending the cost curve, improving clinical and care management outcomes and delivering a superior member/patient experience. And rightfully so! The Centers for Medicare & Medicaid Services (CMS) has made the shift all but required through value-based initiatives.
 
