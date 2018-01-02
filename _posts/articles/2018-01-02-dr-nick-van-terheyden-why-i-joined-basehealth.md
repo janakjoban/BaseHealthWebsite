@@ -26,7 +26,7 @@ That, along with the admiration and respect I have for my new co-workers, is why
 
 Why BaseHealth? I’ll tell you my story. I was approached by an industry friend a few months ago, who was working with a new company with potential to have an impact in healthcare and technology. They wanted to speak with me. So, we set up a call — several actually — for me to learn more about the company, what they were offering and the executive leadership team.
 
-    <iframe width="700" height="393" src="https://www.youtube.com/embed/TDSXMWnnWuc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="700" height="393" src="[https://www.youtube.com/embed/TDSXMWnnWuc](https://www.youtube.com/embed/TDSXMWnnWuc "Why I Joined BaseHealth")" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 I was immediately intrigued by the technology, the aggregation of this huge wealth of data — leveraging 23 million peer reviewed scientific publications and data for thousands of risk factors, including medical, environmental, behavioral and genomics — and how it pulled that data together in a way that makes it actionable to physicians at the point of care.
 
