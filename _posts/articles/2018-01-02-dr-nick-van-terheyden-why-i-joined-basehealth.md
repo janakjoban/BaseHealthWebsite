@@ -17,7 +17,6 @@ author: ''
 external-button-label: ''
 external-button-url: ''
 ---
-
 **October 5, 2017** —As a physician, it likely won’t (or shouldn’t!) surprise you to hear that my first and foremost focus has, and always will be, on the patient. Whether it be as a practicing physician where I saw patients daily, to numerous opportunities working in both healthcare and computing with consulting firms and technology companies — the patient comes first.![ “We’re going to change the way the world thinks about population health management.” — Dr. Nick van Terheyden, Chief Medical Officer, BaseHealth](/uploads/2018/01/02/NickvanTerheyden.jpeg " “We’re going to change the way the world thinks about population health management.” — Dr. Nick van Terheyden, Chief Medical Officer, BaseHealth")
 
 That, along with the admiration and respect I have for my new co-workers, is why I’m thrilled to join [BaseHealth](http://www.basehealth.com/), serving as Chief Medical Officer for the company behind a truly predictive, evidence-based and data-driven population health management solution.
@@ -25,8 +24,6 @@ That, along with the admiration and respect I have for my new co-workers, is why
 > We’re going to change the way the world thinks about population health management.
 
 Why BaseHealth? I’ll tell you my story. I was approached by an industry friend a few months ago, who was working with a new company with potential to have an impact in healthcare and technology. They wanted to speak with me. So, we set up a call — several actually — for me to learn more about the company, what they were offering and the executive leadership team.
-
-<iframe width="700" height="393" src="[https://www.youtube.com/embed/TDSXMWnnWuc](https://www.youtube.com/embed/TDSXMWnnWuc "Why I Joined BaseHealth")" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 I was immediately intrigued by the technology, the aggregation of this huge wealth of data — leveraging 23 million peer reviewed scientific publications and data for thousands of risk factors, including medical, environmental, behavioral and genomics — and how it pulled that data together in a way that makes it actionable to physicians at the point of care.
 
