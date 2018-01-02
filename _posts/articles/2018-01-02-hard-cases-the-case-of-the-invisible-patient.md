@@ -16,7 +16,8 @@ excerpt: While it’s true that most people who skip a regular visit to the doct
 author: ''
 external-button-label: ''
 external-button-url: ''
-categories: []
+categories:
+- blog
 ---
 Many patients have underlying issues with their health. Oftentimes, these issues can be identified by certain markers, like a patient’s speech pattern, gait or by looking at vital signs including blood pressure, heart rate, and weight. To an untrained eye, it might be unnoticeable, but physicians are trained to look for these patterns as indicators of a patient’s health.
 
