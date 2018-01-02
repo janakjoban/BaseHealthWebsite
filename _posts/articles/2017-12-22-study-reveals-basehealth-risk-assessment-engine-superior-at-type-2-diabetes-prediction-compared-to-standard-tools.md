@@ -44,8 +44,6 @@ BaseHealth is the comprehensive predictive analytics company for population heal
 
 ### **Media Contacts:**
 
-##### 
-
 **Erin Isselmann (BaseHealth**) /   +1-503-819-6825  /  [isselmann@basehealth.com](mailto:isselmann@basehealth.com)
 
 **Jim Mignano (Text100 for BaseHealth)** /  +1-585-697-2602  /  [jim.mignano@text100.com](mailto:jim.mignano@text100.com)
