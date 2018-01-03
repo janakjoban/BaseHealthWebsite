@@ -21,7 +21,7 @@ external-button-url: https://medium.com/@basehealth/finding-the-invisible-patien
 
 It’s a hope that gets me excited to go to work each morning. It’s knowing that we can tackle two of the country’s greatest challenges — reduce the per capita cost of healthcare and provide access and critical care needed to both improve our overall population’s health and improve the individual patient’s experience with the healthcare system.
 
-!["The invisible patient doesn't have a complicated claims history, but they have a very real and looming risk of a major health issue."— Jason Pyle, CEO, BaseHealth](/assets/images/team/jasonpyle-thumb.jpg ("The invisible patient doesn't have a complicated claims history, but they have a very real and looming risk of a major health issue."— Jason Pyle, CEO, BaseHealth)) How? The short answer is data, but before I go any further, I know what you’re thinking: everyone says data. But where’s the example of data driving real change that both reduces healthcare spend and improves care?
+![](/assets/images/team/jasonpyle-thumb.jpg)How? The short answer is data, but before I go any further, I know what you’re thinking: everyone says data. But where’s the example of data driving real change that both reduces healthcare spend and improves care?
 
 At BaseHealth, we have that example, and it starts by identifying the **“Invisible Patient.”** We all know the story of an invisible patient. It’s someone who looks healthy on paper, until they hit a tipping point, and then it’s one adverse health event after the next. These are the people we all know. With the right medical intervention at the right time, their healthcare trajectory can be improved and can begin to center on well care instead of sick care.
 
