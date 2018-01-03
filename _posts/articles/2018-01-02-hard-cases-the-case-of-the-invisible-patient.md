@@ -1,7 +1,7 @@
 ---
 title: 'Hard Cases: The Case of the Invisible Patient'
 layout: article
-date: 2017-10-19 10:30:39 +0000
+date: 2017-10-19 03:30:39 -0700
 description: While it’s true that most people who skip a regular visit to the doctor
   don’t have a major looming medical crisis, there are a small group of people who
   appear to look healthy on paper but are just one step away from a major medical
@@ -15,7 +15,7 @@ excerpt: While it’s true that most people who skip a regular visit to the doct
   to look healthy on paper but are just one step away from a major medical issue.
 author: ''
 external-button-label: ''
-external-button-url: ''
+external-button-url: https://medium.com/@basehealth/hard-cases-the-case-of-the-invisible-patient-6ef22f6a1231
 categories:
 - blog
 ---
