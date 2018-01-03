@@ -13,7 +13,7 @@ excerpt: Whether it be as a practicing physician where I saw patients daily, to 
 categories:
 - blog
 subhead: ''
-author: ''
+author: Nick Van TerHeyden
 external-button-label: ''
 external-button-url: https://medium.com/@basehealth/dr-nick-van-terheyden-why-i-joined-basehealth-afc049db54be?source=user_profile---------11----------------
 ---
