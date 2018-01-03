@@ -11,7 +11,7 @@ excerpt: Delivering excellent patient care and controlling healthcare costs shou
   happening in this country, it’s hard to imagine a world where these two goals can
   coexist; however, there is hope.
 categories:
-- blog
+- press
 subhead: ''
 author: ''
 external-button-label: ''
