@@ -1,7 +1,7 @@
 ---
 title: How Accountable Care Organizations Can Hit the Quadruple Aim Bullseye
 layout: article
-date: 2017-10-23 10:33:49 +0000
+date: 2017-10-23 03:33:49 -0700
 description: 'Accountable Care Organizations (ACOs) are putting a tremendous amount
   of energy into achieving the quadruple aim: bending the cost curve, improving clinical
   and care management outcomes and delivering a superior member/patient experience.
@@ -15,7 +15,7 @@ categories:
 subhead: ''
 author: ''
 external-button-label: ''
-external-button-url: ''
+external-button-url: https://medium.com/@basehealth/how-accountable-care-organizations-can-hit-the-quadruple-aim-bullseye-c13f6180e137
 ---
 **October 23, 2017** — The train has left the station and there’s no point looking back at a pre-value-based care world.
 
@@ -37,4 +37,4 @@ So, if you’re an executive at an ACO who — like many others — is n
 
 I’d argue that the majority of ACOs don’t have an adequate capability in any _one_ of these three areas. Does yours?
 
-Tomorrow, BaseHealth CEO Jason Pyle will join Dr. Barrie Bradley, Director of advanced analytics and clinical performance at Banner Health, to discuss how [risk stratification can improve population health infrastructure](http://www.worldcongress.com/common/agenda.cfm?level=inside&confCode=HL17017&origconfCode=&agendaID=1298&subAgendaID=3175) at the 4th Annual ACO Strategy Summit. If you’re attending, join them to hear how Banner Health uncovered their rising risk population, and how you can do the same.
+Tomorrow, BaseHealth CEO Jason Pyle will join Dr. Barrie Bradley, Director of advanced analytics and clinical performance at Banner Health, to discuss how [risk stratification can improve population health infrastructure](http://www.worldcongress.com/common/agenda.cfm?level=inside&confCode=HL17017&origconfCode=&agendaID=1298&subAgendaID=3175) at the 4<sup>th</sup> Annual ACO Strategy Summit. If you’re attending, join them to hear how Banner Health uncovered their rising risk population, and how you can do the same.
