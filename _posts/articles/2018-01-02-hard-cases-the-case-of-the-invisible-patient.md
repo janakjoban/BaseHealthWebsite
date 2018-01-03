@@ -6,10 +6,7 @@ description: While it’s true that most people who skip a regular visit to the 
   don’t have a major looming medical crisis, there are a small group of people who
   appear to look healthy on paper but are just one step away from a major medical
   issue.
-subhead: 'This article is part of LinkedIn’s Hard Cases series, where doctors share
-  the toughest challenges they’ve faced in their careers. You can read more about
-  it here and follow along using hashtag #HardCases. The article was originally published
-  here.'
+subhead: ''
 excerpt: While it’s true that most people who skip a regular visit to the doctor don’t
   have a major looming medical crisis, there are a small group of people who appear
   to look healthy on paper but are just one step away from a major medical issue.
