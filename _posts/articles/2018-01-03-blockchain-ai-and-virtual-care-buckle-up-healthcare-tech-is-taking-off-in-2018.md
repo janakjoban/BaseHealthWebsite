@@ -15,6 +15,6 @@ external-button-url: https://medium.com/@basehealth/blockchain-ai-and-virtual-ca
 categories:
 - blog
 subhead: ''
-author: ''
+author: Dr. Nick van Terheyden
 external-button-label: ''
 ---
