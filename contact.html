@@ -29,10 +29,10 @@ footer-button-label: Our Platform
     <div class="col-half">
       <div class="floatbox floatbox-neg-top-indent">
         <h2 class="head__blue">Let's Chat</h2>
-        <form class="contact-form__wrap" action="https://formspree.io/{{ site.data.contact.contact-form-email }}" method="POST" data-parsley-validate="" data-parsley-errors-messages-disabled="">
+        <form class="contact-form__wrap" action="http://basehealth-backendphp.herokuapp.com/" method="POST" data-parsley-validate="" data-parsley-errors-messages-disabled="">
           <input type="text" class="form-control" maxlength="80" name="first_name" placeholder="First Name*" required autofocus data-parsley-error-message="Name is required.">
           <input type="text" class="form-control" maxlength="80" name="last_name" placeholder="Last Name*" required autofocus data-parsley-error-message="Name is required.">
-          <input type="text" class="form-control" maxlength="80" name="_replyto" placeholder="Email*" required autofocus data-parsley-trigger="change" data-parsley-type="email">
+          <input type="text" class="form-control" maxlength="80" name="email" placeholder="Email*" required autofocus data-parsley-trigger="change" data-parsley-type="email">
           <input type="text" class="form-control" maxlength="80" name="phone" placeholder="Phone Number" autofocus>
           <input type="text" class="form-control" maxlength="80" name="company_name" placeholder="Company*" required autofocus>
           <div class="form-row">
@@ -45,10 +45,7 @@ footer-button-label: Our Platform
             <label for="assessment-no">No</label>
           </div>
           <textarea rows="10" class="form-control" name="message" placeholder="How can we help you?" required></textarea>
-          <input type="text" class="form-control" maxlength="80" name="source" placeholder="How did you find out about us?" autofocus minlength="5"></input>
-          <input type="hidden" name="_next" value="{{site.url}}{{site.baseurl}}/contact.html#formcomplete" />
-          <input type="text" name="_gotcha" style="display:none" />
-          <input type="hidden" name="_subject" value="BaseHealth: New contact form submission!" />
+          <input type="text" class="form-control" maxlength="80" name="source" placeholder="How did you find out about us?" autofocus minlength="10"></input>
           <input type="submit" value="Submit" class="btn-cta btn-blue">
         </form>
       </div>
@@ -91,19 +88,19 @@ footer-button-label: Our Platform
         </div>
         <span class="focus-text-small">
           <a href="https://www.google.com/maps/place/111+W+Evelyn+Ave+%23209,+Sunnyvale,+CA+94086/@37.3777277,-122.0316943,17z/data=!4m5!3m4!1s0x808fb65cf335b037:0xecac8ed911fa4997!8m2!3d37.3777277!4d-122.0295056" target="_blank">
-            {{ site.data.contact.address-line-1 }}
+            111 West Evelyn Ave, Suite 209
           </a>
         </span>
         <span class="focus-text-small head__line-break-blue">
           <a href="https://www.google.com/maps/place/111+W+Evelyn+Ave+%23209,+Sunnyvale,+CA+94086/@37.3777277,-122.0316943,17z/data=!4m5!3m4!1s0x808fb65cf335b037:0xecac8ed911fa4997!8m2!3d37.3777277!4d-122.0295056" target="_blank">
-            {{ site.data.contact.address-line-2 }}
+            Sunnyvale, CA 94086
           </a>
         </span>
         <span class="focus-text-small head__top-indent">
-          {{ site.data.contact.phone }}
+          +1 (650) 453-3170
         </span>
         <span class="focus-text-small head__line-break-blue">
-          {{ site.data.contact.email }}
+          info@basehealth.com
         </span>
         <p>
           BaseHealth is actively seeking investor partnerships and alliances with
