@@ -13,7 +13,7 @@ excerpt: Artificial intelligence (AI) has tremendous potential to improve both c
   from its aspirational value of tomorrow. This is where most AI technology falls
   victim to the hype.
 categories:
-- press
+- blog
 external-button-url: https://medium.com/@basehealth/beyond-the-hype-ai-and-healthcare-f138cebfb8ed
 subhead: ''
 author: ''

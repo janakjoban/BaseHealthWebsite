@@ -13,7 +13,7 @@ excerpt: Technology continues to move at an exponential pace, leaving virtually 
   reduce costs and extend the capabilities of our limited skilled clinical resources.
 external-button-url: https://medium.com/@basehealth/blockchain-ai-and-virtual-care-buckle-up-healthcare-tech-is-taking-off-in-2018-8882af579e82
 categories:
-- press
+- blog
 subhead: ''
 author: ''
 external-button-label: ''
