@@ -11,7 +11,7 @@ excerpt: Over the course of my career I’ve worked at both large companies and 
   an organization, taking something that’s working well and figuring out how to scale
   it.
 subhead: ''
-author: ''
+author: Tamara StClaire
 external-button-label: ''
 external-button-url: https://medium.com/@basehealth/tamara-stclaire-why-i-joined-basehealth-8287a2e34803
 categories:
