@@ -14,8 +14,7 @@ excerpt: 'Today, BaseHealth, the creator of the first predictive, evidence-based
   published in PLOS ONE that found BaseHealth’s risk assessment engine is more specific
   and sensitive than existing diabetes risk assessment tools, such as Framingham and
   Finnish risk score. '
-categories:
-- news
+categories: []
 subhead: ''
 external-button-label: ''
 external-button-url: ''
