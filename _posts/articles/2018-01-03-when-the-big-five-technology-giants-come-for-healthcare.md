@@ -7,7 +7,7 @@ description: Have you heard the rumors? The ones whispered among colleagues at i
   “Big 5” technology giants entering the healthcare market has accelerated to the
   point that Christina Farr’s entire beat at CNBC is dedicated to reporting on it.
   And the articles don’t disappoint.
-subhead: Or what we really should be learning from this “threat.”
+subhead: ''
 excerpt: Have you heard the rumors? The ones whispered among colleagues at industry
   networking events and on company conference calls? This conversation around the
   “Big 5” technology giants entering the healthcare market has accelerated to the
