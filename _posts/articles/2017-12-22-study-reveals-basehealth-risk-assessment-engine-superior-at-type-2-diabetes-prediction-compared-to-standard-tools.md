@@ -45,7 +45,7 @@ BaseHealth uses the most updated, validated, and replicated risk factor data tha
 
 ### **About BaseHealth**
 
-BaseHealth is the comprehensive predictive analytics company for population health management. The company’s proprietary platform leverages machine learning to sift through millions of peer-reviewed, published medical studies covering data on 70 million lives that is curated by scientists and physicians to offer healthcare providers the ability to identify patients with underlying risks for 42 complex diseases and prevent costly treatments before they’re needed. At BaseHealth, we take the guesswork out of risk and population health management and put science in the driver’s seat.Learn more at [basehealth.com](http://www.basehealth.com/).
+BaseHealth is the comprehensive predictive analytics company for population health management. The company’s proprietary platform leverages machine learning to sift through millions of peer-reviewed, published medical studies covering data on 70 million lives that is curated by scientists and physicians to offer healthcare providers the ability to identify patients with underlying risks for 42 complex diseases and prevent costly treatments before they’re needed. At BaseHealth, we take the guesswork out of risk and population health management and put science in the driver’s seat. Learn more at [basehealth.com](http://www.basehealth.com/).
 
 ### **Media Contacts:**
 
