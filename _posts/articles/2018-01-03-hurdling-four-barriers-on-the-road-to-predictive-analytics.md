@@ -7,7 +7,7 @@ description: I recently read a Becker’s Hospital Review article on four common
   the reporter who penned the article, highlighted insights from Andy Bartley, senior
   solutions architect at Intel Corp., who discussed these roadblocks at the Becker’s
   Hospital Review 3rd Annual Health IT + Revenue Cycle Conference in Chicago.
-author: Tamara StClare
+author: Tamara StClaire
 excerpt: I recently read a Becker’s Hospital Review article on four common roadblocks
   organizations face when adopting predictive analytics in healthcare. Emily Rappleye,
   the reporter who penned the article, highlighted insights from Andy Bartley, senior
