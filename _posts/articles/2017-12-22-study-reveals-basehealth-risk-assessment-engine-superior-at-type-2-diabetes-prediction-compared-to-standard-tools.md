@@ -40,7 +40,7 @@ BaseHealth uses the most updated, validated, and replicated risk factor data tha
 <br>
 “This research study clearly demonstrates how our solution can help healthcare professionals navigate their patients’ risk of developing prevalent and costly diseases such as Type 2 diabetes before they start,” said Hossein Fakhrai-Rad, PhD, founder and chief scientific officer of BaseHealth. “It’s why we founded BaseHealth and we couldn’t be more pleased to be recognized for our scientific contribution to improving the health of populations and the future of care delivery.”
 <br>
-
+<br>
 “Our research collaboration with BaseHealth highlights what’s possible with better technology for disease risk assessment—and that’s incredibly exciting,” said Professor Olle Melander, from the department of clinical sciences at Lund University in Sweden. “The BaseHealth platform meets an important need not only for the research community but also for the larger healthcare community, and for the millions of people who can benefit from earlier interventions to manage the risk of developing prevalent diseases such as Type 2 diabetes.”
 
 ### **About BaseHealth**
