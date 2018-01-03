@@ -29,7 +29,7 @@ footer-button-label: Our Platform
     <div class="col-half">
       <div class="floatbox floatbox-neg-top-indent">
         <h2 class="head__blue">Let's Chat</h2>
-        <form class="contact-form__wrap" action="http://basehealth-backendphp.herokuapp.com/" method="POST" data-parsley-validate="" data-parsley-errors-messages-disabled="">
+        <form class="contact-form__wrap" action="https://formspree.io/{{ site.data.contact.contact-form-email }}" method="POST" data-parsley-validate="" data-parsley-errors-messages-disabled="">
           <input type="text" class="form-control" maxlength="80" name="first_name" placeholder="First Name*" required autofocus data-parsley-error-message="Name is required.">
           <input type="text" class="form-control" maxlength="80" name="last_name" placeholder="Last Name*" required autofocus data-parsley-error-message="Name is required.">
           <input type="text" class="form-control" maxlength="80" name="email" placeholder="Email*" required autofocus data-parsley-trigger="change" data-parsley-type="email">
@@ -91,19 +91,19 @@ footer-button-label: Our Platform
         </div>
         <span class="focus-text-small">
           <a href="https://www.google.com/maps/place/111+W+Evelyn+Ave+%23209,+Sunnyvale,+CA+94086/@37.3777277,-122.0316943,17z/data=!4m5!3m4!1s0x808fb65cf335b037:0xecac8ed911fa4997!8m2!3d37.3777277!4d-122.0295056" target="_blank">
-            111 West Evelyn Ave, Suite 209
+            {{ site.data.contact.address-line-1 }}
           </a>
         </span>
         <span class="focus-text-small head__line-break-blue">
           <a href="https://www.google.com/maps/place/111+W+Evelyn+Ave+%23209,+Sunnyvale,+CA+94086/@37.3777277,-122.0316943,17z/data=!4m5!3m4!1s0x808fb65cf335b037:0xecac8ed911fa4997!8m2!3d37.3777277!4d-122.0295056" target="_blank">
-            Sunnyvale, CA 94086
+            {{ site.data.contact.address-line-2 }}
           </a>
         </span>
         <span class="focus-text-small head__top-indent">
-          +1 (650) 453-3170
+          {{ site.data.contact.phone }}
         </span>
         <span class="focus-text-small head__line-break-blue">
-          info@basehealth.com
+          {{ site.data.contact.displayed-email }}
         </span>
         <p>
           BaseHealth is actively seeking investor partnerships and alliances with
