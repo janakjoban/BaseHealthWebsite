@@ -16,6 +16,6 @@ categories:
 - blog
 external-button-url: https://medium.com/@basehealth/beyond-the-hype-ai-and-healthcare-f138cebfb8ed
 subhead: ''
-author: ''
+author: Tamara StClaire
 external-button-label: ''
 ---
