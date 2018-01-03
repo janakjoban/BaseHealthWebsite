@@ -1,7 +1,7 @@
 ---
 title: Finding the Invisible Patient
 layout: article
-date: 2017-10-02 09:51:52 +0000
+date: 2017-10-02 02:51:52 -0700
 description: Delivering excellent patient care and controlling healthcare costs should
   not be an oxymoron. Given the unprecedented healthcare spending that is currently
   happening in this country, it’s hard to imagine a world where these two goals can
@@ -15,7 +15,7 @@ categories:
 subhead: ''
 author: ''
 external-button-label: ''
-external-button-url: ''
+external-button-url: https://medium.com/@basehealth/finding-the-invisible-patient-21c19e384cdc
 ---
 **Oct. 2, 2017 -** Delivering excellent patient care and controlling healthcare costs should not be an oxymoron. Given the unprecedented healthcare spending that is currently happening in this country, it’s hard to imagine a world where these two goals can coexist; however, there is hope.
 
