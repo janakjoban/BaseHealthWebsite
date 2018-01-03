@@ -13,7 +13,7 @@ excerpt: 'Accountable Care Organizations (ACOs) are putting a tremendous amount 
 categories:
 - blog
 subhead: ''
-author: Dan Home
+author: Dan Hoemke
 external-button-label: ''
 external-button-url: https://medium.com/@basehealth/how-accountable-care-organizations-can-hit-the-quadruple-aim-bullseye-c13f6180e137
 ---
