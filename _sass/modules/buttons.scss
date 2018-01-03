@@ -26,6 +26,9 @@ $btn-spacing:$content-spacing*2;
   background-color:$clr-ice;
   color:$clr-white !important;
   @include transition(all,.5s,ease);
+  &.active {
+    color:$clr-white !important;
+  }
   &:hover {
     background-color:$clr-ocean;
     color:$clr-white !important;
