@@ -48,4 +48,6 @@ BaseHealth is the comprehensive predictive analytics company for population heal
 
 **Jim Mignano (Text100 for BaseHealth)** /  +1-585-697-2602  /  [jim.mignano@text100.com](mailto:jim.mignano@text100.com)
 
-\(i) The concordance of prediction was 3 percent higher than the Framingham assessment (p-value: 0.0017) and 8 percent higher than the Finnish assessment (p-value: < 1 x 10-4).
+<br><br>
+
+<sup>(i)</sup> The concordance of prediction was 3 percent higher than the Framingham assessment (p-value: 0.0017) and 8 percent higher than the Finnish assessment (p-value: < 1 x 10-4).
