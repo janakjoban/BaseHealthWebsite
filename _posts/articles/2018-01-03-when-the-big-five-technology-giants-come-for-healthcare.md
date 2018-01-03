@@ -1,7 +1,7 @@
 ---
 title: When the Big Five Technology Giants Come For Healthcare
 layout: article
-date: 2017-10-31 23:39:52 -0700
+date: 2017-11-01 06:39:52 +0000
 description: Have you heard the rumors? The ones whispered among colleagues at industry
   networking events and on company conference calls? This conversation around the
   “Big 5” technology giants entering the healthcare market has accelerated to the
