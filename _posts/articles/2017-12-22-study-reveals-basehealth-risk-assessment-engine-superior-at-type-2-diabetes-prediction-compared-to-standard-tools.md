@@ -28,6 +28,9 @@ For this first-of-its-kind study, researchers from BaseHealth and Lund Universit
 
 Type 2 diabetes is a multifactorial disease, meaning the risk of developing it is based on a number of environmental risk factors including diet, smoking, physical activity, BMI, and clinical markers like triglyceride levels in addition to genetic risk factors. As such, a multifactorial analysis of all known contributors is key to predicting a patient’s probability of developing the disease.
 
+<br>
+<br>
+
 Researchers and clinicians have traditionally been limited in their ability to accurately forecast which members of a population will develop Type 2 diabetes. Existing risk assessment tools have included fewer risk factors and relied on a single, narrow population.
 
 ### **A better risk assessment for better results**
