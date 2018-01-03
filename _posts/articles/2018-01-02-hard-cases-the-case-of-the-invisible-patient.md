@@ -10,7 +10,7 @@ subhead: ''
 excerpt: While it’s true that most people who skip a regular visit to the doctor don’t
   have a major looming medical crisis, there are a small group of people who appear
   to look healthy on paper but are just one step away from a major medical issue.
-author: ''
+author: Nick Van TerHeyden
 external-button-label: ''
 external-button-url: https://medium.com/@basehealth/hard-cases-the-case-of-the-invisible-patient-6ef22f6a1231
 categories:
