@@ -5,11 +5,11 @@ date: 2017-10-05 03:14:54 -0700
 description: Whether it be as a practicing physician where I saw patients daily, to
   numerous opportunities working in both healthcare and computing with consulting
   firms and technology companies — the patient comes first. That, along with the admiration
-  and respect I have for my new co-workers, is why I’m thrilled to join BaseHealth...
+  and respect I have for my new co-workers, is why I’m thrilled to join BaseHealth.
 excerpt: Whether it be as a practicing physician where I saw patients daily, to numerous
   opportunities working in both healthcare and computing with consulting firms and
   technology companies — the patient comes first. That, along with the admiration
-  and respect I have for my new co-workers, is why I’m thrilled to join BaseHealth...
+  and respect I have for my new co-workers, is why I’m thrilled to join BaseHealth.
 categories:
 - blog
 subhead: ''
