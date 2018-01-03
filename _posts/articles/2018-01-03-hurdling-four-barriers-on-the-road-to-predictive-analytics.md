@@ -1,7 +1,7 @@
 ---
 title: Hurdling four barriers on the road to predictive analytics
 layout: article
-date: 2017-11-22 23:41:39 -0800
+date: 2017-11-23 07:41:39 +0000
 description: I recently read a Becker’s Hospital Review article on four common roadblocks
   organizations face when adopting predictive analytics in healthcare. Emily Rappleye,
   the reporter who penned the article, highlighted insights from Andy Bartley, senior
