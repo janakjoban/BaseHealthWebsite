@@ -13,7 +13,7 @@ excerpt: Delivering excellent patient care and controlling healthcare costs shou
 categories:
 - blog
 subhead: ''
-author: ''
+author: Jason Pyle
 external-button-label: ''
 external-button-url: https://medium.com/@basehealth/finding-the-invisible-patient-21c19e384cdc
 ---
