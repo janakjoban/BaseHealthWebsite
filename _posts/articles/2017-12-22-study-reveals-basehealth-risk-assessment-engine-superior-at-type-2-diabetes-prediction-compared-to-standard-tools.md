@@ -19,7 +19,7 @@ subhead: ''
 external-button-label: ''
 external-button-url: ''
 ---
-**SUNNYVALE, Calif., Jan. 4, 2018 –** Diabetes is a preventable disease, yet it’s the eighth leading cause of death worldwide, pointing to a critical need to mitigate disease risk before it occurs. Today, [BaseHealth](http://www.basehealth.com/), the creator of the first predictive, evidence-based, and data-driven population health management solution, announced a study recently published in [PLOS ONE](http://journals.plos.org/plosone/) that found BaseHealth’s risk assessment engine is more specific and sensitive than existing diabetes risk assessment tools, such as [Framingham](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/486842) and [Finnish](https://www.ncbi.nlm.nih.gov/pubmed/12610029) risk score.
+**Erin is awesome SUNNYVALE, Calif., Jan. 4, 2018 –** Diabetes is a preventable disease, yet it’s the eighth leading cause of death worldwide, pointing to a critical need to mitigate disease risk before it occurs. Today, [BaseHealth](http://www.basehealth.com/), the creator of the first predictive, evidence-based, and data-driven population health management solution, announced a study recently published in [PLOS ONE](http://journals.plos.org/plosone/) that found BaseHealth’s risk assessment engine is more specific and sensitive than existing diabetes risk assessment tools, such as [Framingham](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/486842) and [Finnish](https://www.ncbi.nlm.nih.gov/pubmed/12610029) risk score.
 
 <br>
 
