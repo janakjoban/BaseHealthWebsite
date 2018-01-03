@@ -1,7 +1,7 @@
 ---
 title: 'Dr. Nick van Terheyden: Why I Joined BaseHealth'
 layout: article
-date: 2017-10-05 10:14:54 +0000
+date: 2017-10-05 03:14:54 -0700
 description: Whether it be as a practicing physician where I saw patients daily, to
   numerous opportunities working in both healthcare and computing with consulting
   firms and technology companies — the patient comes first. That, along with the admiration
@@ -15,7 +15,7 @@ categories:
 subhead: ''
 author: ''
 external-button-label: ''
-external-button-url: ''
+external-button-url: https://medium.com/@basehealth/dr-nick-van-terheyden-why-i-joined-basehealth-afc049db54be?source=user_profile---------11----------------
 ---
 **October 5, 2017** —As a physician, it likely won’t (or shouldn’t!) surprise you to hear that my first and foremost focus has, and always will be, on the patient. Whether it be as a practicing physician where I saw patients daily, to numerous opportunities working in both healthcare and computing with consulting firms and technology companies — the patient comes first.![ “We’re going to change the way the world thinks about population health management.” — Dr. Nick van Terheyden, Chief Medical Officer, BaseHealth](/uploads/2018/01/02/NickvanTerheyden.jpeg " “We’re going to change the way the world thinks about population health management.” — Dr. Nick van Terheyden, Chief Medical Officer, BaseHealth")
 
