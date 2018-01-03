@@ -1,7 +1,7 @@
 ---
 title: 'Tamara StClaire: Why I Joined BaseHealth'
 layout: article
-date: 2017-10-10 10:26:34 +0000
+date: 2017-10-10 03:26:34 -0700
 description: Over the course of my career I’ve worked at both large companies and
   startups, and BaseHealth is at that startup phase that I consider my sweet spot.
   I enjoy growing an organization, taking something that’s working well and figuring
@@ -13,8 +13,9 @@ excerpt: Over the course of my career I’ve worked at both large companies and 
 subhead: ''
 author: ''
 external-button-label: ''
-external-button-url: ''
-categories: []
+external-button-url: https://medium.com/@basehealth/tamara-stclaire-why-i-joined-basehealth-8287a2e34803
+categories:
+- blog
 ---
 Last week the industry came together to celebrate [National Health IT Week](http://www.healthcareitnews.com/blog/my-ihearthit-story-north-star-health-it). For me, I always find that it’s a great opportunity to take stock and reflect on the industry we are all so devoted to.
 
