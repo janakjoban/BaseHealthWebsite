@@ -16,6 +16,6 @@ excerpt: Have you heard the rumors? The ones whispered among colleagues at indus
 external-button-url: https://medium.com/@basehealth/when-the-big-five-technology-giants-come-for-healthcare-cd2a9d274146
 categories:
 - blog
-author: ''
+author: Tamara StClaire
 external-button-label: ''
 ---
