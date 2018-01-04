@@ -2,10 +2,9 @@
 display: true
 theme: light
 subhead: BaseHealth News Announcement
-caption: BaseHealth’s risk assessment engine is more specific and sensitive than existing
-  diabetes risk assessment tools, such as Framingham and Finnish risk score.
-headline: 'Study Reveals BaseHealth Risk Assessment Engine Superior at Type 2 Diabetes
+caption: 'Study Reveals BaseHealth Risk Assessment Engine Superior at Type 2 Diabetes
   Prediction '
+headline: " "
 url: http://www.basehealth.com/news/2018/01/04/study-reveals-basehealth-risk-assessment-engine-superior-at-type-2-diabetes-prediction-compared-to-standard-tools.html
 btn-label: Read More
 desc: ''
