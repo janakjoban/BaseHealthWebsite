@@ -15,6 +15,7 @@ excerpt: 'Healthcare is rife with new technologies, but what BaseHealth is doing
   technology. '
 subhead: ''
 external-button-label: ''
-external-button-url: ''
-categories: []
+external-button-url: https://medium.com/@basehealth/basehealth-and-the-future-of-healthcare-technology-f7c8bee4326a
+categories:
+- blog
 ---
