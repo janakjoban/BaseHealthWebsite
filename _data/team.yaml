@@ -26,19 +26,28 @@
     He also spent more than a decade at Oracle, where he led teams that built cutting-edge performance management solutions for distributed Enterprise applications.
     Prakash has always been intrigued by the promise of data-driven medical care, particularly its role in prevention. He joined BaseHealth in March 2013.
     Prakash holds a bachelor’s degree in Engineering and a master’s degree in business.
-- member: Ardy Arianpour, MBA
-  name: Ardy Arianpour, MBA
-  position: Chief Business Officer
-  image: "/assets/images/team/ardy-thumb.jpg"
-  thumbnail: "/assets/images/team/ardy-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/ardyarianpour/
+- member: Dan Hoemke
+  name: Dan Hoemke
+  position: Cheif Business Officer
+  image: "/assets/images/team/danhoemke-thumb.jpg"
+  thumbnail: "/assets/images/team/danhoemke-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/dfhoemke
   department: management
   specialty: general
-  id: 15
-  bio: |-
-    CHIEF BUSINESS OFFICER
-    Ardy Arianpour is a genomics pioneer and visionary commercial leader with more than 15+ years of experience in the biotech industry. He has a distinguished track record of transforming start-up companies into established and recognized multimillion-dollar enterprises and launching disrupting products that have changed healthcare for the benefit of the patient and consumer.
-    Previously, Ardy was Chief Commercial Officer of Pathway Genomics and Senior Vice President of Business Development for Ambry Genetics and helped lead the companies through periods of tremendous growth. Throughout his career, Arianpour has served in senior business and commercial roles, including for Clinical Data (acquired for $1.2 billion by Forest Laboratories), Cogenics (acquired by Beckman Coulter) and Eurogentec North America (acquired by Kaneka, a Japanese chemical company). He holds a bachelor’s degree in biological sciences from the University of California, Irvine, and an MBA in strategic management from Marshall Goldsmith School of Management.
+  id: 1
+  bio: Dan brings more than 25 years of applied employee benefits and healthcare experience
+    to BaseHealth serving in an assortment of leadership and executive management
+    roles. In addition to founding and serving as Managing Partner for Nine Oars,
+    a broadly recognized healthcare market research and business strategy firm, Dan
+    served as Regional President & CEO for Humana and in Regional Vice President roles
+    with both AETNA and United Healthcare, and as Corporate Vice President of National
+    Accounts for PacifiCare. He is an industry leader in the advancement of healthcare
+    consumerism and advocate for integrated and accountable healthcare solutions.
+    Dan is recipient of Humana’s President Club CEO of the Year award and is a former
+    Executive Mentor to the Association of Health Insurance Plans (AHIP) and Executive
+    Delegate to the Concourse International Learning Summit. He in addition to active
+    participation in numerous industry associations, Dan serves as Executive Mentor
+    to the Entrepreneurship & Innovation Group at Arizona State University.
 - member: Nick van Terheyden
   name: Nick van Terheyden
   position: Chief Medical Officer
@@ -79,28 +88,6 @@
   bio: |-
     Kazu has more than twenty years of experience in Financial Management spanning startups to large international corporations in the US, Japan and Brazil. As a senior finance executive, he has helped raise over US$150M for start-ups such as Genesys Labs, Centerbeam Inc. and Reply.com in the Bay Area.
     Prior to joining BaseHealth, Kazu served as Director of Business Planning and Strategies at Visa International and Director of Business Planning and Strategies at Prestige International, Japan’s leading value added CRM solutions provider during Pre-IPOs. Most recently, Kazu worked in Sao Paulo, Brazil to broker M&A deals among Brazilian and foreign companies in Logistic Services. Kazu earned B.A in Economics from Doshisha University in Kyoto, Japan and an MBA from East Carolina University.
-- member: Dan Hoemke
-  name: Dan Hoemke
-  position: VP Value Based Health Management Solutions
-  image: "/assets/images/team/danhoemke-thumb.jpg"
-  thumbnail: "/assets/images/team/danhoemke-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/dfhoemke
-  department: management
-  specialty: general
-  id: 1
-  bio: Dan brings more than 25 years of applied employee benefits and healthcare experience
-    to BaseHealth serving in an assortment of leadership and executive management
-    roles. In addition to founding and serving as Managing Partner for Nine Oars,
-    a broadly recognized healthcare market research and business strategy firm, Dan
-    served as Regional President & CEO for Humana and in Regional Vice President roles
-    with both AETNA and United Healthcare, and as Corporate Vice President of National
-    Accounts for PacifiCare. He is an industry leader in the advancement of healthcare
-    consumerism and advocate for integrated and accountable healthcare solutions.
-    Dan is recipient of Humana’s President Club CEO of the Year award and is a former
-    Executive Mentor to the Association of Health Insurance Plans (AHIP) and Executive
-    Delegate to the Concourse International Learning Summit. He in addition to active
-    participation in numerous industry associations, Dan serves as Executive Mentor
-    to the Entrepreneurship & Innovation Group at Arizona State University.
 - member: Dianna Wilusz
   name: Dianna Wilusz
   position: Director of Human Resources
@@ -183,13 +170,26 @@
   bio: |-
     Richard Lee M.D. is a family physician who has been practicing in Palo Alto for over 20 years. For the last 5 years, Dr. Lee has been gathering and interpreting genomic information for his patients in order to significantly modify disease risk that may be present due to genetic variations by educating them on medical interventions and lifestyle management.
     Dr. Lee advocates for sophisticated data only when it can be interpreted in a manner that patients can understand and use to reduce their health risk and better their lives. Dr. Lee’s philosophy is “it’s not your genes is what to do with them”, and he is an expert at guiding patients through the process of improving their lives by making the best of that which makes them unique. He is the seventh physician in a family spanning 3 generations of medical service. His grandfather, Dr. Russel V. Lee, founded the Palo Alto Medical Clinic and the Palo Alto Medical Foundation.
+- member: Ardy Arianpour, MBA
+  name: Ardy Arianpour, MBA
+  position: Chief Business Officer
+  image: "/assets/images/team/ardy-thumb.jpg"
+  thumbnail: "/assets/images/team/ardy-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/ardyarianpour/
+  department: advisor
+  specialty: technical
+  id: 15
+  bio: |-
+    CHIEF BUSINESS OFFICER
+    Ardy Arianpour is a genomics pioneer and visionary commercial leader with more than 15+ years of experience in the biotech industry. He has a distinguished track record of transforming start-up companies into established and recognized multimillion-dollar enterprises and launching disrupting products that have changed healthcare for the benefit of the patient and consumer.
+    Previously, Ardy was Chief Commercial Officer of Pathway Genomics and Senior Vice President of Business Development for Ambry Genetics and helped lead the companies through periods of tremendous growth. Throughout his career, Arianpour has served in senior business and commercial roles, including for Clinical Data (acquired for $1.2 billion by Forest Laboratories), Cogenics (acquired by Beckman Coulter) and Eurogentec North America (acquired by Kaneka, a Japanese chemical company). He holds a bachelor’s degree in biological sciences from the University of California, Irvine, and an MBA in strategic management from Marshall Goldsmith School of Management.
 - member: Emin Martinian
   name: Emin Martinian
   position: ''
   image: "/assets/images/team/eminmartinian.jpg"
   thumbnail: "/assets/images/team/eminmartinian.jpg"
   linkedin_url: https://www.linkedin.com/in/emin-martinian-5497381/
-  department: advisor
+  department: invalid
   specialty: technical
   id: 22093572
   bio: |-
