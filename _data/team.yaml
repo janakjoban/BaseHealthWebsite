@@ -1,23 +1,4 @@
 ---
-- member: Sam Smith
-  name: Sam Smith
-  position: Vice President of Sales
-  image: "/uploads/2018/02/12/Smith_Sam.jpg"
-  thumbnail: "/uploads/2018/02/12/Smith_Sam-1.jpg"
-  linkedin_url: https://www.linkedin.com/in/sam-smith-0a4615a/
-  department: management
-  specialty: ''
-  id: 23
-  bio: With a background spanning more than 23 years, Sam brings a wealth of proven
-    experience in Business Development, Channel Sales, and Healthcare Technology.   Sam
-    has served in sales and leadership roles with many of the industry’s leading healthcare
-    and technology companies including PacifiCare (now United Healthcare), CVS Caremark,
-    Cole Vision, and Castlight Health.   A leader with a focus on using innovation
-    and technology to improve healthcare outcomes and reducing costs, Sam understands
-    the complexities of healthcare and the challenges employers and payors face.  A
-    native of Texas, Sam earned his degree from Texas State University.  In his spare
-    time Sam enjoys playing a variety of sports and spending time with family and
-    friends.
 - member: Hossein Fakhrai-Rad, Ph.D.
   name: Hossein Fakhrai-Rad, Ph.D.
   position: Founder & Chief Scientific Officer
@@ -107,6 +88,25 @@
   bio: |-
     Kazu has more than twenty years of experience in Financial Management spanning startups to large international corporations in the US, Japan and Brazil. As a senior finance executive, he has helped raise over US$150M for start-ups such as Genesys Labs, Centerbeam Inc. and Reply.com in the Bay Area.
     Prior to joining BaseHealth, Kazu served as Director of Business Planning and Strategies at Visa International and Director of Business Planning and Strategies at Prestige International, Japan’s leading value added CRM solutions provider during Pre-IPOs. Most recently, Kazu worked in Sao Paulo, Brazil to broker M&A deals among Brazilian and foreign companies in Logistic Services. Kazu earned B.A in Economics from Doshisha University in Kyoto, Japan and an MBA from East Carolina University.
+- member: Sam Smith
+  name: Sam Smith
+  position: Vice President of Sales
+  image: "/uploads/2018/02/12/Smith_Sam.jpg"
+  thumbnail: "/uploads/2018/02/12/Smith_Sam-1.jpg"
+  linkedin_url: https://www.linkedin.com/in/sam-smith-0a4615a/
+  department: management
+  specialty: general
+  id: 23
+  bio: With a background spanning more than 23 years, Sam brings a wealth of proven
+    experience in Business Development, Channel Sales, and Healthcare Technology.   Sam
+    has served in sales and leadership roles with many of the industry’s leading healthcare
+    and technology companies including PacifiCare (now United Healthcare), CVS Caremark,
+    Cole Vision, and Castlight Health.   A leader with a focus on using innovation
+    and technology to improve healthcare outcomes and reducing costs, Sam understands
+    the complexities of healthcare and the challenges employers and payors face.  A
+    native of Texas, Sam earned his degree from Texas State University.  In his spare
+    time Sam enjoys playing a variety of sports and spending time with family and
+    friends.
 - member: Dianna Wilusz
   name: Dianna Wilusz
   position: Director of Human Resources
