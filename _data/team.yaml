@@ -76,18 +76,6 @@
     companies. His rare combination of patience, creativity, skill and intrinsic business
     ethics has led him to a diverse career in healthcare with some of the most prestigious
     hospitals, consulting firms, and technology companies. "
-- member: Kazutaka Ohno
-  name: Kazutaka Ohno
-  position: Chief Financial Officer
-  image: "/assets/images/team/kazutakaohno-thumb.jpg"
-  thumbnail: "/assets/images/team/kazutakaohno-thumb.jpg"
-  linkedin_url: https://www.linkedin.com/in/kazutaka-ohno-26b37b/
-  department: management
-  specialty: general
-  id: 126
-  bio: |-
-    Kazu has more than twenty years of experience in Financial Management spanning startups to large international corporations in the US, Japan and Brazil. As a senior finance executive, he has helped raise over US$150M for start-ups such as Genesys Labs, Centerbeam Inc. and Reply.com in the Bay Area.
-    Prior to joining BaseHealth, Kazu served as Director of Business Planning and Strategies at Visa International and Director of Business Planning and Strategies at Prestige International, Japan’s leading value added CRM solutions provider during Pre-IPOs. Most recently, Kazu worked in Sao Paulo, Brazil to broker M&A deals among Brazilian and foreign companies in Logistic Services. Kazu earned B.A in Economics from Doshisha University in Kyoto, Japan and an MBA from East Carolina University.
 - member: Sam Smith
   name: Sam Smith
   position: Vice President of Sales
@@ -107,6 +95,18 @@
     Sam earned his degree from Texas State University and now resides in the DFW area.  In
     his spare time Sam enjoys staying active playing tennis and basketball, traveling,
     and spending time with his wife and two children.
+- member: Kazutaka Ohno
+  name: Kazutaka Ohno
+  position: Chief Financial Officer
+  image: "/assets/images/team/kazutakaohno-thumb.jpg"
+  thumbnail: "/assets/images/team/kazutakaohno-thumb.jpg"
+  linkedin_url: https://www.linkedin.com/in/kazutaka-ohno-26b37b/
+  department: management
+  specialty: general
+  id: 126
+  bio: |-
+    Kazu has more than twenty years of experience in Financial Management spanning startups to large international corporations in the US, Japan and Brazil. As a senior finance executive, he has helped raise over US$150M for start-ups such as Genesys Labs, Centerbeam Inc. and Reply.com in the Bay Area.
+    Prior to joining BaseHealth, Kazu served as Director of Business Planning and Strategies at Visa International and Director of Business Planning and Strategies at Prestige International, Japan’s leading value added CRM solutions provider during Pre-IPOs. Most recently, Kazu worked in Sao Paulo, Brazil to broker M&A deals among Brazilian and foreign companies in Logistic Services. Kazu earned B.A in Economics from Doshisha University in Kyoto, Japan and an MBA from East Carolina University.
 - member: Dianna Wilusz
   name: Dianna Wilusz
   position: Director of Human Resources
