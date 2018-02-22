@@ -1,7 +1,7 @@
 ---
 title: BaseHealth and the Future of Healthcare Technology
 layout: article
-date: 2018-01-31 12:17:10 -0800
+date: 2018-01-31 20:17:10 +0000
 description: 'Here at BaseHealth, we imagine a future where no individual falls through
   the cracks of our healthcare system. A future where no healthcare provider is blindsided
   by the development of a new disease. A future where uncovering the unknown risk

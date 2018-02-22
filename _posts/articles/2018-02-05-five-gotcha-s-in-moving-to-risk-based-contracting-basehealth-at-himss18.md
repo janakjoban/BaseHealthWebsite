@@ -1,7 +1,7 @@
 ---
 title: 'Five Gotcha’s in Moving to Risk-Based Contracting: BaseHealth at HIMSS18 '
 layout: article
-date: 2018-02-05 11:30:00 -0800
+date: 2018-02-05 19:30:00 +0000
 description: 'BaseHealth will be in the HIMSS Solution Lab Pavilion, booth number
   14015. We do hope you will come say hello. This year, we will be showcasing two
   particular use cases for the BaseHealth predictive analytic engine: RAF revenue
