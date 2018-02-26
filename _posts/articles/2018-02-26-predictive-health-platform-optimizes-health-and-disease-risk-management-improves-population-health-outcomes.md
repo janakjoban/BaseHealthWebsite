@@ -52,12 +52,12 @@ Powered by artificial intelligence and machine learning, BaseHealth's precise pr
 
  
 
-**About BaseHealth**
+### **About BaseHealth**
 
 BaseHealth offers the world’s most accurate, comprehensive risk management platform. As the only analytics solution that predicts absolute health condition risk, BaseHealth combines proprietary algorithms with data on health indicators for more than 68 chronic, acute and trauma-related conditions, representing more than 95% of healthcare expenses. Its precise predictive model is powered by machine learning and backed by more than 5 years of extensive research and data. For more information, visit [www.BaseHealth.com](http://www.basehealth.com/).
 
  
 
-**About Banner Health Network**
+### **About Banner Health Network**
 
 Headquartered in Phoenix, Banner Health is one of the largest, nonprofit health care systems in the United States, managing 28 acute care hospitals, the Banner Health Network and Banner Medical Group, long-term care centers, outpatient surgery centers and an array of other services including family clinics, home care and hospice services, and a nursing registry. Banner Health operates in seven states, including Arizona, California, Colorado, Nebraska, Nevada and Wyoming. For more information, visit [www.bannerhealth.com](http://www.bannerhealth.com/).
