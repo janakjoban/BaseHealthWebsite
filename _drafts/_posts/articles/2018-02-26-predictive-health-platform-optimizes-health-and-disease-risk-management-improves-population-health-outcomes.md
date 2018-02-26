@@ -61,4 +61,4 @@ Headquartered in Phoenix, Banner Health is one of the largest, nonprofit health 
 
 ### Media Contacts 
 
-Stephanie Lough (DigitalWire360) / +1-480-664-6120 / stephanie@digitalwire360.com 
+**Stephanie Lough (DigitalWire360)** / +1-480-664-6120 / stephanie@digitalwire360.com 
