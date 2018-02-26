@@ -59,6 +59,6 @@ BaseHealth offers the world’s most accurate, comprehensive risk management pla
 
 Headquartered in Phoenix, Banner Health is one of the largest, nonprofit health care systems in the United States, managing 28 acute care hospitals, the Banner Health Network and Banner Medical Group, long-term care centers, outpatient surgery centers and an array of other services including family clinics, home care and hospice services, and a nursing registry. Banner Health operates in seven states, including Arizona, California, Colorado, Nebraska, Nevada and Wyoming. For more information, visit [www.bannerhealth.com](http://www.bannerhealth.com/).
 
-### Media Contacts 
+### Media Contact 
 
 **Stephanie Lough (DigitalWire360)** / +1-480-664-6120 / stephanie@digitalwire360.com 
