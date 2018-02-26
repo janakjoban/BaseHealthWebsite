@@ -6,9 +6,8 @@ date: 2018-02-26 12:45:10 -0800
 subhead: " Banner Health partners with BaseHealth to drive proactive healthcare solutions
   and actionable insights for rising population health risks"
 categories: []
-description: 'BaseHealth, an industry innovator in predictive analysis of health and
-  disease risk and interventional management, recently announced results from its
-  ongoing partnership with one of the country’s largest health systems, Banner Health. '
+description: " Banner Health partners with BaseHealth to drive proactive healthcare
+  solutions and actionable insights for rising population health risks"
 excerpt: 'BaseHealth, an industry innovator in predictive analysis of health and disease
   risk and interventional management, recently announced results from its ongoing
   partnership with one of the country’s largest health systems, Banner Health. '
