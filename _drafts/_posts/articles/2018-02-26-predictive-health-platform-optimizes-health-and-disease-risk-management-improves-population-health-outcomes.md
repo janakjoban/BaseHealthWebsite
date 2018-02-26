@@ -48,9 +48,7 @@ BaseHealth was a natural partner for Banner where leaders wanted to take a more 
 
  
 
-Powered by artificial intelligence and machine learning, BaseHealth's precise predictive model is backed by more than five years of extensive research and validated data from over 35,000 peer-reviewed articles, encompassing 150 million plus pages of scientific research. 
-
- 
+Powered by artificial intelligence and machine learning, BaseHealth's precise predictive model is backed by more than five years of extensive research and validated data from over 35,000 peer-reviewed articles, encompassing 150 million plus pages of scientific research.  
 
 ### **About BaseHealth**
 
@@ -61,3 +59,7 @@ BaseHealth offers the world’s most accurate, comprehensive risk management pla
 ### **About Banner Health Network**
 
 Headquartered in Phoenix, Banner Health is one of the largest, nonprofit health care systems in the United States, managing 28 acute care hospitals, the Banner Health Network and Banner Medical Group, long-term care centers, outpatient surgery centers and an array of other services including family clinics, home care and hospice services, and a nursing registry. Banner Health operates in seven states, including Arizona, California, Colorado, Nebraska, Nevada and Wyoming. For more information, visit [www.bannerhealth.com](http://www.bannerhealth.com/).
+
+### Media Contacts 
+
+Stephanie Lough (DigitalWire360) / +1-480-664-6120 / stephanie@digitalwire360.com 
