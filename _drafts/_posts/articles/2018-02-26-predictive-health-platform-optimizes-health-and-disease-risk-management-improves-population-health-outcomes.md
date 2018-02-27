@@ -2,10 +2,11 @@
 title: 'Predictive Health Platform Optimizes Health and Disease Risk Management, Improves
   Population Health Outcomes '
 layout: article
-date: 2018-02-26 12:45:10 -0800
+date: 2018-02-27 08:00:00 -0800
 subhead: " Banner Health partners with BaseHealth to drive proactive healthcare solutions
   and actionable insights for rising population health risks"
-categories: []
+categories:
+- news
 description: " Banner Health partners with BaseHealth to drive proactive healthcare
   solutions and actionable insights for rising population health risks"
 excerpt: 'BaseHealth, an industry innovator in predictive analysis of health and disease
