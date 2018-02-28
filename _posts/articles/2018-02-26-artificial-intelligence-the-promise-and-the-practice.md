@@ -1,7 +1,7 @@
 ---
 title: 'Artificial Intelligence: The Promise and The Practice'
 layout: article
-date: 2018-02-26 13:14:31 -0800
+date: 2018-02-26 21:14:31 +0000
 external-button-url: https://medium.com/@basehealth/artificial-intelligence-the-promise-and-the-practice-bdaa03ec54aa
 categories:
 - blog
