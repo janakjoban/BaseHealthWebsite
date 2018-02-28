@@ -1,9 +1,9 @@
 ---
 header-navigation:
-- label: Solutions
-  url: "/solution.html"
 - label: Platform
-  url: "/platform.html"
+  url: "/solution.html"
+# - label: Platform
+#   url: "/platform.html"
 - label: Science
   url: "/science.html"
 - label: About
