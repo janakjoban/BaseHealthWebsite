@@ -1,7 +1,7 @@
 ---
 title: All the Ways to Catch BaseHealth @ HIMSS18
 layout: article
-date: 2018-03-02 12:50:59 -0800
+date: 2018-03-02 20:50:59 +0000
 description: 'We’ve officially closed in on HIMSS18. The healthcare industry will
   soon come together in Las Vegas, Nevada for the annual gathering. The event itself
   is staggering; we recommend checking the #HIMSS18 twitter stream for tips on how
