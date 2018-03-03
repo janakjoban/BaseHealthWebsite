@@ -23,6 +23,9 @@ footer-external: true
       <a href="#blogs" class="btn-cta btn-outline__blue">
         Blog
       </a>
+      <a href="#events" class="btn-cta btn-outline__blue">
+        Events
+      </a>
     </div>
   </div>
 </section>
@@ -69,6 +72,29 @@ footer-external: true
     </ul>
     <span class="show-more-wrapper" id="blogs-show-more">
       <a href="#showmore" class="btn-cta btn-outline__blue btn-center" onclick="showMoreBlogs()">Show more</a>
+    </span>
+  </div>
+</section>
+
+<section class="row">
+  <div class="content content__focus">
+    <a class="anchor" id="events"></a>
+    <h3 class="head__line-break-blue head__line-center">
+      Events
+    </h3>
+  </div>
+</section>
+<section class="row">
+  <div class="content">
+    <ul class="news-container">
+      {% for article in site.posts %}
+        {% if article.categories contains 'event' %}
+          {% include lmnt-article-card.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+    <span class="show-more-wrapper" id="blogs-show-more">
+      <a href="#showmore" class="btn-cta btn-outline__blue btn-center" onclick="showMoreEvents()">Show more</a>
     </span>
   </div>
 </section>
