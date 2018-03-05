@@ -1,7 +1,7 @@
 ---
 title: 'Webinar: If You''re Taking Risk, You Better Manage It'
 layout: article
-date: 2018-03-04 14:00:18 +0000
+date: 2018-03-03 06:00:18 -0800
 description: |-
   Join us for our webinar!
   Revenue Cycle Optimization Series: Part 1
