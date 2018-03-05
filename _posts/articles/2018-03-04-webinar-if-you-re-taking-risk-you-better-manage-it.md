@@ -18,5 +18,6 @@ subhead: " Thursday, March 22, 11:00am PT"
 author: ''
 external-button-label: ''
 external-button-url: ''
-categories: []
+categories:
+- event
 ---
