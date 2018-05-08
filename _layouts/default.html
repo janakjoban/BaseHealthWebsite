@@ -6,9 +6,18 @@
     {% if site.data.event-bar.display == true %}
       {% include event-bar.html %}
     {% endif %}
+
     {% include lmnt-nav.html %}
     {{ content }}
-    {% include lmnt-footer.html %}
+
+    {% if page.language == "es" %}
+      {% include lmnt-footer-es.html %}
+    {% elsif page.language == "en" %}
+      {% include lmnt-footer.html %}
+    {% elsif page.language == null %}
+      {% include lmnt-footer.html %}
+    {% endif %}
+    
   </main>
 
   {% if page.particles %}
