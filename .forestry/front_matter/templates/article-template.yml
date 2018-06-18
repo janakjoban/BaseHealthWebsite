@@ -1,29 +1,4 @@
 ---
-pages:
-- _posts/articles/2018-04-24-social-determinants-of-health-in-the-basehealth-predictive-model.html
-- _posts/articles/2018-04-19-basehealth-at-bridge-to-pophealth-east.html
-- _posts/articles/2018-03-04-webinar-if-you-re-taking-risk-you-better-manage-it.md
-- _posts/articles/2018-03-02-all-the-ways-to-catch-basehealth-himss18.md
-- _posts/2017-12-22-study-reveals-basehealth-risk-assessment-engine-superior-at-type-2-diabetes-prediction-compared-to-standard-tools.md
-- _posts/articles/2018-02-28-three-health-technology-resolutions-for-2018.md
-- _posts/articles/2018-02-26-artificial-intelligence-the-promise-and-the-practice.md
-- _posts/articles/2018-02-26-predictive-health-platform-optimizes-health-and-disease-risk-management-improves-population-health-outcomes.md
-- _posts/articles/2018-02-05-five-gotcha-s-in-moving-to-risk-based-contracting-basehealth-at-himss18.md
-- _posts/articles/2018-01-31-basehealth-and-the-future-of-healthcare-technology-1.md
-- _posts/articles/2018-02-13-it-spending-guide-place-your-betsbasehealth-banner-health.md
-- _posts/articles/2018-01-02-how-accountable-care-organizations-can-hit-the-quadruple-aim-bullseye.md
-- _posts/articles/2018-01-03-when-the-big-five-technology-giants-come-for-healthcare.md
-- _posts/articles/2018-01-03-the-medicare-imperative.md
-- _posts/articles/2018-01-03-blockchain-ai-and-virtual-care-buckle-up-healthcare-tech-is-taking-off-in-2018.md
-- _posts/articles/2018-01-03-hurdling-four-barriers-on-the-road-to-predictive-analytics.md
-- _posts/articles/2018-01-03-beyond-the-hype-ai-and-healthcare.md
-- _posts/articles/2018-01-02-hard-cases-the-case-of-the-invisible-patient.md
-- _posts/articles/2018-01-02-tamara-stclaire-why-i-joined-basehealth.md
-- _posts/articles/2018-01-02-dr-nick-van-terheyden-why-i-joined-basehealth.md
-- _posts/articles/2018-01-02-finding-the-invisible-patient.md
-- _posts/example-post.md
-- _posts/articles/2017-12-07-basehealth-raises-8-5-million-in-series-c-funding.md
-- _posts/articles/2017-12-07-basehealth-uncovers-the-invisible-patient-at-health-2-0.md
 hide_body: false
 is_partial: false
 fields:
@@ -93,3 +68,29 @@ fields:
   hidden: false
   default: ''
   description: "** Case sensitive: 'news', 'press', or 'event'."
+pages:
+- risk-adjustment-factor-gap-analysis.html
+- _posts/articles/2017-12-07-basehealth-raises-8-5-million-in-series-c-funding.md
+- _posts/articles/2018-02-13-it-spending-guide-place-your-betsbasehealth-banner-health.md
+- _posts/articles/2018-03-04-webinar-if-you-re-taking-risk-you-better-manage-it.md
+- _posts/example-post.md
+- _posts/articles/2018-01-02-how-accountable-care-organizations-can-hit-the-quadruple-aim-bullseye.md
+- _posts/articles/2018-01-03-blockchain-ai-and-virtual-care-buckle-up-healthcare-tech-is-taking-off-in-2018.md
+- _posts/2017-12-22-study-reveals-basehealth-risk-assessment-engine-superior-at-type-2-diabetes-prediction-compared-to-standard-tools.md
+- _posts/articles/2018-02-26-artificial-intelligence-the-promise-and-the-practice.md
+- _posts/articles/2018-01-02-hard-cases-the-case-of-the-invisible-patient.md
+- _posts/articles/2018-01-02-tamara-stclaire-why-i-joined-basehealth.md
+- _posts/articles/2018-01-02-dr-nick-van-terheyden-why-i-joined-basehealth.md
+- _posts/articles/2018-04-24-social-determinants-of-health-in-the-basehealth-predictive-model.html
+- _posts/articles/2018-04-19-basehealth-at-bridge-to-pophealth-east.html
+- _posts/articles/2018-03-02-all-the-ways-to-catch-basehealth-himss18.md
+- _posts/articles/2018-02-28-three-health-technology-resolutions-for-2018.md
+- _posts/articles/2018-02-26-predictive-health-platform-optimizes-health-and-disease-risk-management-improves-population-health-outcomes.md
+- _posts/articles/2018-02-05-five-gotcha-s-in-moving-to-risk-based-contracting-basehealth-at-himss18.md
+- _posts/articles/2018-01-31-basehealth-and-the-future-of-healthcare-technology-1.md
+- _posts/articles/2018-01-03-beyond-the-hype-ai-and-healthcare.md
+- _posts/articles/2018-01-03-the-medicare-imperative.md
+- _posts/articles/2018-01-03-hurdling-four-barriers-on-the-road-to-predictive-analytics.md
+- _posts/articles/2018-01-03-when-the-big-five-technology-giants-come-for-healthcare.md
+- _posts/articles/2017-12-07-basehealth-uncovers-the-invisible-patient-at-health-2-0.md
+- _posts/articles/2018-01-02-finding-the-invisible-patient.md
