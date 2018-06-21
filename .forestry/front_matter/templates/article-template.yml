@@ -69,7 +69,6 @@ fields:
   default: ''
   description: "** Case sensitive: 'news', 'press', or 'event'."
 pages:
-- risk-adjustment-factor-gap-analysis.html
 - _posts/articles/2017-12-07-basehealth-raises-8-5-million-in-series-c-funding.md
 - _posts/articles/2018-02-13-it-spending-guide-place-your-betsbasehealth-banner-health.md
 - _posts/articles/2018-03-04-webinar-if-you-re-taking-risk-you-better-manage-it.md
