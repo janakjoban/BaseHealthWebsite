@@ -14,7 +14,7 @@
       {% include lmnt-footer-es.html %}
     {% elsif page.language == "en" %}
       {% include lmnt-footer.html %}
-    {% elsif page.language == null and page.includeFooter != false %}
+    {% elsif page.language == null %}
       {% include lmnt-footer.html %}
     {% endif %}
     
