@@ -4,19 +4,19 @@ is_partial: false
 fields:
 - name: title
   label: Title
-  type: text
+  type: 
   hidden: false
   default: ''
 - name: layout
   label: Layout
-  type: text
+  type: 
   hidden: true
   default: article
   config:
     required: true
 - name: description
   label: Description
-  type: textarea
+  type: 
   hidden: false
   default: ''
   description: Short Description
@@ -24,7 +24,7 @@ fields:
     required: true
 - name: date
   label: Publish Date
-  type: datetime
+  type: 
   hidden: false
   default: Invalid date
   config:
@@ -33,17 +33,17 @@ fields:
     this to rearrange your posts, as we are displaying them by most recent.
 - name: subhead
   label: Subhead
-  type: text
+  type: 
   hidden: false
   default: ''
 - name: author
   label: Author
-  type: text
+  type: 
   hidden: false
   default: ''
 - name: excerpt
   label: Excerpt
-  type: textarea
+  type: 
   hidden: false
   default: ''
   config:
@@ -51,20 +51,20 @@ fields:
     wysiwyg: false
 - name: external-button-label
   label: External button label
-  type: text
+  type: 
   hidden: false
   default: ''
   description: If this is left empty, we will default to the 'Read More' label.
 - name: external-button-url
   label: External button url
-  type: text
+  type: 
   hidden: false
   default: ''
   description: If this is left empty, we will direct users to the blog post link.
     If you are linking to an external article - put it here.
 - name: categories
   label: Categories
-  type: tag_list
+  type: 
   hidden: false
   default: ''
   description: "** Case sensitive: 'news', 'press', or 'event'."
@@ -72,10 +72,8 @@ pages:
 - _posts/articles/2017-12-07-basehealth-raises-8-5-million-in-series-c-funding.md
 - _posts/articles/2018-02-13-it-spending-guide-place-your-betsbasehealth-banner-health.md
 - _posts/articles/2018-03-04-webinar-if-you-re-taking-risk-you-better-manage-it.md
-- _posts/example-post.md
 - _posts/articles/2018-01-02-how-accountable-care-organizations-can-hit-the-quadruple-aim-bullseye.md
 - _posts/articles/2018-01-03-blockchain-ai-and-virtual-care-buckle-up-healthcare-tech-is-taking-off-in-2018.md
-- _posts/2017-12-22-study-reveals-basehealth-risk-assessment-engine-superior-at-type-2-diabetes-prediction-compared-to-standard-tools.md
 - _posts/articles/2018-02-26-artificial-intelligence-the-promise-and-the-practice.md
 - _posts/articles/2018-01-02-hard-cases-the-case-of-the-invisible-patient.md
 - _posts/articles/2018-01-02-tamara-stclaire-why-i-joined-basehealth.md
