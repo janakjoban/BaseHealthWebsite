@@ -4,19 +4,19 @@ is_partial: false
 fields:
 - name: title
   label: Title
-  type: 
+  type: text
   hidden: false
   default: ''
 - name: layout
   label: Layout
-  type: 
+  type: text
   hidden: true
   default: article
   config:
     required: true
 - name: description
   label: Description
-  type: 
+  type: textarea
   hidden: false
   default: ''
   description: Short Description
@@ -24,7 +24,7 @@ fields:
     required: true
 - name: date
   label: Publish Date
-  type: 
+  type: datetime
   hidden: false
   default: Invalid date
   config:
@@ -33,17 +33,17 @@ fields:
     this to rearrange your posts, as we are displaying them by most recent.
 - name: subhead
   label: Subhead
-  type: 
+  type: text
   hidden: false
   default: ''
 - name: author
   label: Author
-  type: 
+  type: text
   hidden: false
   default: ''
 - name: excerpt
   label: Excerpt
-  type: 
+  type: textarea
   hidden: false
   default: ''
   config:
@@ -51,20 +51,20 @@ fields:
     wysiwyg: false
 - name: external-button-label
   label: External button label
-  type: 
+  type: text
   hidden: false
   default: ''
   description: If this is left empty, we will default to the 'Read More' label.
 - name: external-button-url
   label: External button url
-  type: 
+  type: text
   hidden: false
   default: ''
   description: If this is left empty, we will direct users to the blog post link.
     If you are linking to an external article - put it here.
 - name: categories
   label: Categories
-  type: 
+  type: tag_list
   hidden: false
   default: ''
   description: "** Case sensitive: 'news', 'press', or 'event'."

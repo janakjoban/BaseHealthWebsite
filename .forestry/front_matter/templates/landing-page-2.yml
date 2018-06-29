@@ -4,17 +4,17 @@ is_partial: false
 fields:
 - name: title
   label: Title
-  type: 
+  type: textarea
   hidden: false
   default: ''
 - name: layout
   label: Layout
-  type: 
+  type: text
   hidden: false
   default: ''
 - name: description
   label: Description
-  type: 
+  type: textarea
   hidden: false
   default: ''
 pages:
